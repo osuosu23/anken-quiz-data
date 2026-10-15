@@ -100,49 +100,85 @@ function getDateRange() {
   };
 }
 
-// YouTube search.list API 呼び出し（ページネーション対応で最大3ページ・150件取得）
-async function fetchSearchPages(apiKey, options, maxPages = 3) {
+// 単一ページの YouTube search.list API 呼び出しヘルパー
+async function fetchSearchSinglePage(apiKey, options, order, pageToken = null, videoDuration = 'medium') {
+  const url = new URL('https://www.googleapis.com/youtube/v3/search');
+  url.searchParams.set('part', 'snippet');
+  url.searchParams.set('maxResults', '50');
+  url.searchParams.set('order', order);
+  url.searchParams.set('q', 'の|に|は|を|で -切り抜き -MV');
+  url.searchParams.set('regionCode', 'JP');
+  url.searchParams.set('relevanceLanguage', 'ja');
+  url.searchParams.set('type', 'video');
+  url.searchParams.set('videoDuration', videoDuration);
+  url.searchParams.set('videoEmbeddable', 'true');
+  url.searchParams.set('publishedAfter', options.publishedAfter);
+  url.searchParams.set('publishedBefore', options.publishedBefore);
+  url.searchParams.set('key', apiKey);
+
+  if (pageToken) {
+    url.searchParams.set('pageToken', pageToken);
+  }
+  if (options.videoPaidProductPlacement) {
+    url.searchParams.set('videoPaidProductPlacement', options.videoPaidProductPlacement);
+  }
+  if (options.videoCategoryId) {
+    url.searchParams.set('videoCategoryId', options.videoCategoryId);
+  }
+
+  const res = await fetch(url);
+  if (!res.ok) {
+    const errorText = await res.text();
+    console.warn(`    ⚠️ search.list [order=${order}, duration=${videoDuration}] (${res.status}): ${errorText}`);
+    return null;
+  }
+
+  return await res.json();
+}
+
+// YouTube search.list API 呼び出し
+// 人気順（再生回数順）: medium 2ページ + long 1ページ
+// 新着順: medium 1ページ（中堅・弱小枠）
+async function fetchSearchPages(apiKey, options, viewCountMediumPages = 2, viewCountLongPages = 1, datePages = 1) {
   const allItems = [];
-  let pageToken = null;
 
-  for (let page = 0; page < maxPages; page++) {
-    const url = new URL('https://www.googleapis.com/youtube/v3/search');
-    url.searchParams.set('part', 'snippet');
-    url.searchParams.set('maxResults', '50');
-    url.searchParams.set('order', 'viewCount');
-    url.searchParams.set('q', 'の|に|は|を|で -切り抜き -MV');
-    url.searchParams.set('regionCode', 'JP');
-    url.searchParams.set('relevanceLanguage', 'ja');
-    url.searchParams.set('type', 'video');
-    url.searchParams.set('videoDuration', 'medium');
-    url.searchParams.set('videoEmbeddable', 'true');
-    url.searchParams.set('publishedAfter', options.publishedAfter);
-    url.searchParams.set('publishedBefore', options.publishedBefore);
-    url.searchParams.set('key', apiKey);
+  // 1〜2ページ目: 再生回数順（人気順） medium（大手枠）
+  let viewMediumPageToken = null;
+  for (let page = 0; page < viewCountMediumPages; page++) {
+    const data = await fetchSearchSinglePage(apiKey, options, 'viewCount', viewMediumPageToken, 'medium');
+    if (!data) break;
 
-    if (pageToken) {
-      url.searchParams.set('pageToken', pageToken);
-    }
-    if (options.videoPaidProductPlacement) {
-      url.searchParams.set('videoPaidProductPlacement', options.videoPaidProductPlacement);
-    }
-    if (options.videoCategoryId) {
-      url.searchParams.set('videoCategoryId', options.videoCategoryId);
-    }
-
-    const res = await fetch(url);
-    if (!res.ok) {
-      const errorText = await res.text();
-      console.warn(`    ⚠️ search.list page ${page + 1} (${res.status}): ${errorText}`);
-      break;
-    }
-
-    const data = await res.json();
     const items = data.items || [];
     allItems.push(...items);
 
-    pageToken = data.nextPageToken;
-    if (!pageToken || items.length < 50) break;
+    viewMediumPageToken = data.nextPageToken;
+    if (!viewMediumPageToken || items.length < 50) break;
+  }
+
+  // 3ページ目: 再生回数順（人気順） long（大手枠）
+  let viewLongPageToken = null;
+  for (let page = 0; page < viewCountLongPages; page++) {
+    const data = await fetchSearchSinglePage(apiKey, options, 'viewCount', viewLongPageToken, 'long');
+    if (!data) break;
+
+    const items = data.items || [];
+    allItems.push(...items);
+
+    viewLongPageToken = data.nextPageToken;
+    if (!viewLongPageToken || items.length < 50) break;
+  }
+
+  // 4ページ目: 新着順（中堅・弱小枠）
+  let datePageToken = null;
+  for (let page = 0; page < datePages; page++) {
+    const data = await fetchSearchSinglePage(apiKey, options, 'date', datePageToken, 'medium');
+    if (!data) break;
+
+    const items = data.items || [];
+    allItems.push(...items);
+
+    datePageToken = data.nextPageToken;
+    if (!datePageToken || items.length < 50) break;
   }
 
   return allItems;
@@ -187,31 +223,31 @@ function isValidQuizVideo(snippet) {
   return true;
 }
 
-// 1カテゴリの収集処理（3倍取得 & 公式APIバッジ完全検証 & チャンネル重複排除）
+// 1カテゴリの収集処理（4ページ取得: 人気順medium 2 + 人気順long 1 + 新着1 & 公式APIバッジ完全検証 & チャンネル重複排除）
 async function processCategory(apiKey, category, dateRange) {
   console.log(`\n========================================`);
-  console.log(`🔍 [${category.name}] 3倍収集開始... (ID: ${category.id || 'なし'})`);
+  console.log(`🔍 [${category.name}] 収集開始... (ID: ${category.id || 'なし'}, 4ページ: 人気順medium 2 + long 1 + 新着1)`);
 
-  // 1. プロモーション true で 3ページ（最大150件）取得
-  console.log(`  -> search.list (videoPaidProductPlacement=true, 3ページ)...`);
+  // 1. プロモーション true で 4ページ（人気順medium 2 + long 1 + 新着1、最大200件）取得
+  console.log(`  -> search.list (videoPaidProductPlacement=true, 4ページ: 人気順medium 2 + long 1 + 新着1)...`);
   const rawSponsoredSearch = await fetchSearchPages(apiKey, {
     ...dateRange,
     videoCategoryId: category.id,
     videoPaidProductPlacement: 'true'
-  }, 3);
+  }, 2, 1, 1);
 
   const sponsoredCandidates = rawSponsoredSearch.filter(item => {
     return item.id && item.id.videoId && isValidQuizVideo(item.snippet);
   });
   console.log(`  -> 案件候補（タイトルフィルタ後）: ${sponsoredCandidates.length} 本`);
 
-  // 2. プロモーション any で 3ページ（最大150件）取得
-  console.log(`  -> search.list (videoPaidProductPlacement=any, 3ページ)...`);
+  // 2. プロモーション any で 4ページ（人気順medium 2 + long 1 + 新着1、最大200件）取得
+  console.log(`  -> search.list (videoPaidProductPlacement=any, 4ページ: 人気順medium 2 + long 1 + 新着1)...`);
   const rawAnySearch = await fetchSearchPages(apiKey, {
     ...dateRange,
     videoCategoryId: category.id,
     videoPaidProductPlacement: 'any'
-  }, 3);
+  }, 2, 1, 1);
 
   const anyCandidates = rawAnySearch.filter(item => {
     return item.id && item.id.videoId && isValidQuizVideo(item.snippet);
