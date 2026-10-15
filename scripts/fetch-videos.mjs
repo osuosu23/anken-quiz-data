@@ -20,13 +20,13 @@ const DATA_DIR = path.resolve(__dirname, '../data');
 // 対象カテゴリ定義（全8ジャンル: スポーツは除外）
 const CATEGORIES = [
   { id: null, key: 'all', name: '総合（全ジャンル）' },
-  { id: '28', key: 'gadget', name: 'ガジェット・家電' },
-  { id: '26', key: 'beauty', name: 'コスメ・美容・暮らし' },
+  { id: '28', key: 'gadget', name: '科学と技術' },
+  { id: '26', key: 'beauty', name: 'ハウツーとスタイル' },
   { id: '20', key: 'gaming', name: 'ゲーム' },
-  { id: '24', key: 'entertainment', name: 'エンタメ・バラエティ' },
-  { id: '22', key: 'vlog', name: '日常・Vlog' },
-  { id: '2', key: 'vehicles', name: '車・乗り物' },
-  { id: '27', key: 'business', name: 'ビジネス・教養' }
+  { id: '24', key: 'entertainment', name: 'エンターテイメント' },
+  { id: '22', key: 'vlog', name: 'ブログ' },
+  { id: '2', key: 'vehicles', name: '自動車と乗り物' },
+  { id: '27', key: 'business', name: '教育' }
 ];
 
 // 除外対象のYouTube動画カテゴリID（カテゴリー分析による除外）
@@ -62,6 +62,9 @@ function isBlockedVideo(item) {
 
   const channelTitle = item.snippet?.channelTitle || '';
   if (channelTitle.includes('テレビ') || channelTitle.includes('公式')) {
+    return true;
+  }
+  if (channelTitle.includes('スポーツ') || channelTitle.toLowerCase().includes('sports')) {
     return true;
   }
   if (BLOCKED_CHANNEL_TITLE_REGEX.test(channelTitle)) {

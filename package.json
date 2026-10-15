@@ -5,7 +5,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch-videos": "node scripts/fetch-videos.mjs",
-    "generate-mock": "node scripts/generate-mock-data.mjs"
+    "fetch-videos": "node scripts/fetch-videos.mjs"
   }
 }

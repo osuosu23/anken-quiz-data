@@ -8,4 +8,3 @@ YouTube案件動画クイズ（`anken-quiz`）向けの動画データ収集・�
 
 ## スクリプト
 - `npm run fetch-videos`: YouTube Data API v3 を使用して最新データを取得・更新（要 `YOUTUBE_API_KEY`）
-- `npm run generate-mock`: モックデータを生成
