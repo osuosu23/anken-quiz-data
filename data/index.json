@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T15:55:08.589Z",
+  "updatedAt": "2026-10-15T16:38:59.802Z",
   "categories": [
     {
       "key": "all",
       "name": "総合（全ジャンル）",
       "counts": {
-        "sponsored": 93,
-        "normal": 78,
-        "total": 171
+        "sponsored": 561,
+        "normal": 559,
+        "total": 1120
       }
     },
     {

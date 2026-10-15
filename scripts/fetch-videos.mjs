@@ -353,6 +353,50 @@ async function main() {
     }
   }
 
+  // 総合（all）データに、他の全ジャンルとして取得した動画も統合（重複排除）
+  const allCatIndex = categoryIndex.find(c => c.key === 'all');
+  if (allCatIndex) {
+    console.log('\n🔄 総合（all）データに他ジャンルの動画をマージ中...');
+    const allSpPath = path.join(DATA_DIR, 'all_sponsored.json');
+    const allNmPath = path.join(DATA_DIR, 'all_normal.json');
+
+    const allSpData = JSON.parse(await fs.readFile(allSpPath, 'utf-8'));
+    const allNmData = JSON.parse(await fs.readFile(allNmPath, 'utf-8'));
+
+    const mergedSpMap = new Map(allSpData.map(v => [v.id, v]));
+    const mergedNmMap = new Map(allNmData.map(v => [v.id, v]));
+
+    for (const cat of CATEGORIES) {
+      if (cat.key === 'all') continue;
+      try {
+        const catSp = JSON.parse(await fs.readFile(path.join(DATA_DIR, `${cat.key}_sponsored.json`), 'utf-8'));
+        const catNm = JSON.parse(await fs.readFile(path.join(DATA_DIR, `${cat.key}_normal.json`), 'utf-8'));
+
+        for (const v of catSp) {
+          if (!mergedSpMap.has(v.id)) mergedSpMap.set(v.id, v);
+        }
+        for (const v of catNm) {
+          if (!mergedNmMap.has(v.id)) mergedNmMap.set(v.id, v);
+        }
+      } catch (e) {
+        console.warn(`    ⚠️ ${cat.key} のマージ読み込みスキップ:`, e.message);
+      }
+    }
+
+    const mergedSp = Array.from(mergedSpMap.values());
+    const mergedNm = Array.from(mergedNmMap.values());
+
+    await fs.writeFile(allSpPath, JSON.stringify(mergedSp, null, 2), 'utf-8');
+    await fs.writeFile(allNmPath, JSON.stringify(mergedNm, null, 2), 'utf-8');
+
+    allCatIndex.counts = {
+      sponsored: mergedSp.length,
+      normal: mergedNm.length,
+      total: mergedSp.length + mergedNm.length
+    };
+    console.log(`  💾 総合（all）マージ保存完了: 案件 ${mergedSp.length} 本 / 通常 ${mergedNm.length} 本`);
+  }
+
   // カテゴリ一覧インデックスファイル（index.json）も保存
   const indexPath = path.join(DATA_DIR, 'index.json');
   await fs.writeFile(indexPath, JSON.stringify({
