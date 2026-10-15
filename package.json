@@ -1,0 +1,11 @@
+{
+  "name": "anken-quiz-data",
+  "version": "1.0.0",
+  "description": "YouTube案件動画クイズ用のデータ収集・配信リポジトリ",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-videos": "node scripts/fetch-videos.mjs",
+    "generate-mock": "node scripts/generate-mock-data.mjs"
+  }
+}

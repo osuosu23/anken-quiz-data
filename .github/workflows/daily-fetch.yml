@@ -1,0 +1,81 @@
+name: Daily Video Data Collection
+
+on:
+  schedule:
+    # 毎日日本時間 0:00 (UTC 15:00) に自動実行
+    - cron: '0 15 * * *'
+  # GitHub Web UIからいつでも手動実行可能
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (do not push to branch or deploy)'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'quiz-data'
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 26
+
+      - name: Run video collection script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          node scripts/fetch-videos.mjs
+
+      - name: Commit and push updated data
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Auto-update quiz data [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
+            git push origin main
+            echo "✅ Successfully updated main branch with latest quiz data!"
+          fi
+
+  deploy-pages:
+    needs: fetch-and-update
+    if: ${{ !inputs.dry_run }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact (serve data directory)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './data'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
