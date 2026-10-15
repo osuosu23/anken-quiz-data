@@ -8,15 +8,13 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Dry run (do not push to branch or deploy)'
+        description: 'Dry run (do not push to branch)'
         required: false
         default: false
         type: boolean
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: 'quiz-data'
@@ -54,28 +52,3 @@ jobs:
             git push origin main
             echo "✅ Successfully updated main branch with latest quiz data!"
           fi
-
-  deploy-pages:
-    needs: fetch-and-update
-    if: ${{ !inputs.dry_run }}
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact (serve data directory)
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './data'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
