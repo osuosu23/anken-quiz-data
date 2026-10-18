@@ -28,6 +28,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/VqisUdwrKME/hqdefault.jpg"
   },
   {
+    "id": "kOcBTovzQ3A",
+    "title": "チャプター5の『あのキャラ』がゲームセンターに出現したらしい！？",
+    "channelId": "UCSg7bVWzGepb4Agt84anSOA",
+    "channelTitle": "コロンボさん GAMES",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kOcBTovzQ3A/hqdefault.jpg"
+  },
+  {
     "id": "NDvRCAgyhtk",
     "title": "現代都市を舞台にした新作オープンワールドNTEは覇権をとれるのか？自由度が高いのが売りなのは分かるけど何ができるのか解説＆注意点なども【NTE: Neverness to Everness 】",
     "channelId": "UCWvr04hMa4k4wSilYcQ4qoA",
@@ -63,13 +70,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/qoSHV-M8Dy4/hqdefault.jpg"
   },
   {
-    "id": "j34KoDpI2MQ",
-    "title": "話題の新作MMOについてリスナーの質問に答える前作経験者のSHAKA【AION2】",
-    "channelId": "UCjg5-lUiUzdmzzBRY9Xqrhw",
-    "channelTitle": "SHAKAch",
-    "thumbnailUrl": "https://i.ytimg.com/vi/j34KoDpI2MQ/hqdefault.jpg"
-  },
-  {
     "id": "UFaM4ShjrRQ",
     "title": "『バトオペ２』Ｖ２アサルトバスターガンダム先行搭乗！２種のバリア×機動力×射撃力で敵を圧倒！【機動戦士ガンダム バトルオペレーション２】『Gundam Battle Operation 2』新機体",
     "channelId": "UClAFsLVoVO2_UH9z0vimajg",
@@ -84,18 +84,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/sVmMR3Eo5FI/hqdefault.jpg"
   },
   {
-    "id": "i9-bdAG8mdQ",
-    "title": "【沖ドキゴージャス】開始2分で確定役降臨！？沖ドキ最強店舗で全ツッパした結果...【パチンカス養分ユウきのガチ実践#474 】",
-    "channelId": "UCcjV3WmacNPIdoRUV9zaZqw",
-    "channelTitle": "ユウきのパチ部屋",
-    "thumbnailUrl": "https://i.ytimg.com/vi/i9-bdAG8mdQ/hqdefault.jpg"
-  },
-  {
     "id": "P0LGWVY7mtE",
     "title": "AIだけでモンスターハンター風ゲーム作ってみた【TripoAI】",
     "channelId": "UCjR4ER6YvDNBCuYqyQWZ5ZA",
     "channelTitle": "【じぴこ】AIでものづくり",
     "thumbnailUrl": "https://i.ytimg.com/vi/P0LGWVY7mtE/hqdefault.jpg"
+  },
+  {
+    "id": "i9-bdAG8mdQ",
+    "title": "【沖ドキゴージャス】開始2分で確定役降臨！？沖ドキ最強店舗で全ツッパした結果...【パチンカス養分ユウきのガチ実践#474 】",
+    "channelId": "UCcjV3WmacNPIdoRUV9zaZqw",
+    "channelTitle": "ユウきのパチ部屋",
+    "thumbnailUrl": "https://i.ytimg.com/vi/i9-bdAG8mdQ/hqdefault.jpg"
   },
   {
     "id": "ADMLzEqm-VM",
@@ -105,13 +105,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/ADMLzEqm-VM/hqdefault.jpg"
   },
   {
-    "id": "hrygdO72oS8",
-    "title": "＜最新台解説＞【マイジャグラーⅥ】～ジャグラー最新作の映え間違いナシのぐるっと新感覚のプレミアムを複数体験！～《若葉まいたけ》[必勝本WEB-TV][パチスロ][スロット]",
-    "channelId": "UCA2GVvSzuuN44eCB74leyDg",
-    "channelTitle": "パチンコ・パチスロ必勝本WEB-TV",
-    "thumbnailUrl": "https://i.ytimg.com/vi/hrygdO72oS8/hqdefault.jpg"
-  },
-  {
     "id": "u3lhwlh0R3Y",
     "title": "夢グループの翻訳機でゲームを動かす",
     "channelId": "UCpOpZsUhyytLSUY1Wgt93xg",
@@ -119,18 +112,25 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/u3lhwlh0R3Y/hqdefault.jpg"
   },
   {
+    "id": "hrygdO72oS8",
+    "title": "＜最新台解説＞【マイジャグラーⅥ】～ジャグラー最新作の映え間違いナシのぐるっと新感覚のプレミアムを複数体験！～《若葉まいたけ》[必勝本WEB-TV][パチスロ][スロット]",
+    "channelId": "UCA2GVvSzuuN44eCB74leyDg",
+    "channelTitle": "パチンコ・パチスロ必勝本WEB-TV",
+    "thumbnailUrl": "https://i.ytimg.com/vi/hrygdO72oS8/hqdefault.jpg"
+  },
+  {
+    "id": "EGAVVpSg7YU",
+    "title": "【『モンスターハンターワイルズ：アセンダンス』先行プレイ】アセンダンスの操虫棍を語りたい！（ゆっくり実況 棍）",
+    "channelId": "UCiYyUJ4ITy1-RP8pTRZFi0A",
+    "channelTitle": "カニカマ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EGAVVpSg7YU/hqdefault.jpg"
+  },
+  {
     "id": "T_Uvu8FvqZc",
     "title": "キーボードエスケープのワールド１を無課金でクリアするのには何時間かかるのかサブ垢で検証【ROBLOX】",
     "channelId": "UCWOq5RaQZG-W6_Bp7oZ5dHQ",
     "channelTitle": "もりそ",
     "thumbnailUrl": "https://i.ytimg.com/vi/T_Uvu8FvqZc/hqdefault.jpg"
-  },
-  {
-    "id": "Szy7Xo_8Yfk",
-    "title": "現実世界で『リリーのお茶会』に行ってきた ！【ポピープレイタイムチャプター5】【コラボカフェ】",
-    "channelId": "UCSg7bVWzGepb4Agt84anSOA",
-    "channelTitle": "コロンボさん GAMES",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Szy7Xo_8Yfk/hqdefault.jpg"
   },
   {
     "id": "-QofezAfD50",
@@ -147,6 +147,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/r5Lb0hS4MeU/hqdefault.jpg"
   },
   {
+    "id": "bWkW0G-TnKk",
+    "title": "ダイアン津田が爆売れ韓国コスメを美女のオススメで試したら痛くてゴイゴイスー！",
+    "channelId": "UCYzwmnBXo5oIW4PI7vo8KDw",
+    "channelTitle": "ダイアン津田のゴイゴイスーチャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/bWkW0G-TnKk/hqdefault.jpg"
+  },
+  {
     "id": "y8WcJwYA_do",
     "title": "【原神】実装時とはまるで別物！強さも使い方も激変した「クロリンデ」最新解説　おすすめ武器・聖遺物・パーティ・目標ステータス【げんしん】",
     "channelId": "UC-z9BHSVtBEOJPkGBIfEPSA",
@@ -159,6 +166,13 @@
     "channelId": "UCfEbuOYmhm_y-C9xd42z8Sw",
     "channelTitle": "デネブログ",
     "thumbnailUrl": "https://i.ytimg.com/vi/h-QyR8S7ejU/hqdefault.jpg"
+  },
+  {
+    "id": "Iq0MIrTotWE",
+    "title": "【破産】帰り道にポケカを爆買いして後悔し、さらに爆買い。",
+    "channelId": "UCPNvuMaTK2CvekcpZjHpCWw",
+    "channelTitle": "ポケモニア",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Iq0MIrTotWE/hqdefault.jpg"
   },
   {
     "id": "Z1nyUecCpIk",
@@ -175,13 +189,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/czmpJVgNCj8/hqdefault.jpg"
   },
   {
-    "id": "xjfW9Wjcr1U",
-    "title": "【先行体験】アセンダンス太刀の奥義『無双連斬』が気持ち良すぎだろ！！【『モンスターハンターワイルズ：アセンダンス』先行プレイ】",
-    "channelId": "UCOTTu45uWc6bhGV5bfVlq7w",
-    "channelTitle": "タカティン",
-    "thumbnailUrl": "https://i.ytimg.com/vi/xjfW9Wjcr1U/hqdefault.jpg"
-  },
-  {
     "id": "Om28x0oIXTw",
     "title": "NTE公式、NPCの頃から人気だったキャラをついに実装し話題になるwww",
     "channelId": "UCTftnkJ6Mkyz5wdX2jozsmw",
@@ -189,18 +196,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/Om28x0oIXTw/hqdefault.jpg"
   },
   {
+    "id": "xjfW9Wjcr1U",
+    "title": "【先行体験】アセンダンス太刀の奥義『無双連斬』が気持ち良すぎだろ！！【『モンスターハンターワイルズ：アセンダンス』先行プレイ】",
+    "channelId": "UCOTTu45uWc6bhGV5bfVlq7w",
+    "channelTitle": "タカティン",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xjfW9Wjcr1U/hqdefault.jpg"
+  },
+  {
     "id": "igApwxB8a-E",
     "title": "Hoyoverse新作がリアル調の協力アクション！？「Nodusfall」の情報まとめ。【ノーダスフォール】",
     "channelId": "UCjJmYy279ehSYSwR1A3fXtA",
     "channelTitle": "マグロヘッド",
     "thumbnailUrl": "https://i.ytimg.com/vi/igApwxB8a-E/hqdefault.jpg"
-  },
-  {
-    "id": "7LjUiMOAuHQ",
-    "title": "【ガチ検証】初期垢から3日でサンドローネゲットできるの？【原神】【ゆっくり実況】",
-    "channelId": "UC5MI2ugt9BrG6QjbAbz5u5Q",
-    "channelTitle": "りねっと【原神ゆっくり実況】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/7LjUiMOAuHQ/hqdefault.jpg"
   },
   {
     "id": "ZFJI03yIVKE",
@@ -217,18 +224,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/fpmKR52mdKY/hqdefault.jpg"
   },
   {
+    "id": "WjXG00VVLME",
+    "title": "どの職業でも楽しめる新作MMOの魅力について話すSHAKA【AION2】",
+    "channelId": "UCjg5-lUiUzdmzzBRY9Xqrhw",
+    "channelTitle": "SHAKAch",
+    "thumbnailUrl": "https://i.ytimg.com/vi/WjXG00VVLME/hqdefault.jpg"
+  },
+  {
     "id": "R4guOjYPrSQ",
     "title": "【EFT kord breach編】タルコフにワイプが来るアカウントが使えるように！バフデバフ＋独自縛りで目標達成できるか？！＃1【ゆっくり実況】",
     "channelId": "UCkYy31GUikC4wtCOuvR32QQ",
     "channelTitle": "のかすのFPSゲーム実況部屋",
     "thumbnailUrl": "https://i.ytimg.com/vi/R4guOjYPrSQ/hqdefault.jpg"
-  },
-  {
-    "id": "s7gRW3HBBxU",
-    "title": "ヌーブ君が描いた都市伝説をこっそり現実にしてみたロブロックス!!【ROBLOX/ロブロックス】",
-    "channelId": "UCxEErny68iLYqGktzmXKXuA",
-    "channelTitle": "こうへいゲームズ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/s7gRW3HBBxU/hqdefault.jpg"
   },
   {
     "id": "mzvnQIsfSQM",
@@ -238,18 +245,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/mzvnQIsfSQM/hqdefault.jpg"
   },
   {
-    "id": "3bky6SMGYIY",
-    "title": "【モンハンアウトランダーズCBT】ソシャゲ不安はあるけど、期待していいのか本音で話す",
-    "channelId": "UCYe7WGfN56m7XULosCKVp5A",
-    "channelTitle": "なべぞーチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/3bky6SMGYIY/hqdefault.jpg"
-  },
-  {
     "id": "-7sNS9u8aZ0",
     "title": "街中にいる衛兵たちを夜に紛れて一人残らず飲み干すことはできるのか【The Blood of Dawnwalker実況】",
     "channelId": "UCkXHXfsJR2HCBEn-quRaFHw",
     "channelTitle": "笑顔ニコ ",
     "thumbnailUrl": "https://i.ytimg.com/vi/-7sNS9u8aZ0/hqdefault.jpg"
+  },
+  {
+    "id": "Rf99SdaFEwE",
+    "title": "【シーズン31へ】現在公開可能なシーズン31の新情報まとめ【APEX LEGENDS】",
+    "channelId": "UC2JAjosPLS4WMetfl6304hg",
+    "channelTitle": "ばつねじ【Apexサブカル系実況】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Rf99SdaFEwE/hqdefault.jpg"
   },
   {
     "id": "9p0rFItCipU",
@@ -259,18 +266,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/9p0rFItCipU/hqdefault.jpg"
   },
   {
-    "id": "HitXTTLgT70",
-    "title": "ゲーム実況者5人で船乗ってみたら面白すぎたwwww【VTuber】",
-    "channelId": "UCYv61z0vcKgwuDPkiCaCc2g",
-    "channelTitle": "キルハ【びじぱと】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/HitXTTLgT70/hqdefault.jpg"
-  },
-  {
     "id": "Mof9vveGQ3c",
     "title": "【マビノギモバイル】先行レビュー 注目のオンラインRPG！生活も戦闘もバランス良く、マイペースに楽しめる！が…",
     "channelId": "UCSs2L7_Cn54njzcxxPQ8Kgg",
     "channelTitle": "バキュン / オンラインゲーム&新作ゲーム情報",
     "thumbnailUrl": "https://i.ytimg.com/vi/Mof9vveGQ3c/hqdefault.jpg"
+  },
+  {
+    "id": "HitXTTLgT70",
+    "title": "ゲーム実況者5人で船乗ってみたら面白すぎたwwww【VTuber】",
+    "channelId": "UCYv61z0vcKgwuDPkiCaCc2g",
+    "channelTitle": "キルハ【びじぱと】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HitXTTLgT70/hqdefault.jpg"
   },
   {
     "id": "JBO0A7N7PAs",
@@ -308,11 +315,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/MyDRYDpnF0U/hqdefault.jpg"
   },
   {
-    "id": "Rf99SdaFEwE",
-    "title": "【シーズン31へ】現在公開可能なシーズン31の新情報まとめ【APEX LEGENDS】",
-    "channelId": "UC2JAjosPLS4WMetfl6304hg",
-    "channelTitle": "ばつねじ【Apexサブカル系実況】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Rf99SdaFEwE/hqdefault.jpg"
+    "id": "l34EmiXh58g",
+    "title": "VAPEはスノーミントを買いましょう。【CHILL HABIT】",
+    "channelId": "UCOmHnFAu9eozuVfgpB9ZUwg",
+    "channelTitle": "flat-工房",
+    "thumbnailUrl": "https://i.ytimg.com/vi/l34EmiXh58g/hqdefault.jpg"
   },
   {
     "id": "26qytAX8W7w",
@@ -320,6 +327,13 @@
     "channelId": "UCrv9jP1qDRpXMBxkGheoPvA",
     "channelTitle": "えるとねGame",
     "thumbnailUrl": "https://i.ytimg.com/vi/26qytAX8W7w/hqdefault.jpg"
+  },
+  {
+    "id": "N4_ituTKdAg",
+    "title": "新作のモンハンが新アクション盛りだくさんで楽しすぎた?!?!【モンハンアウトランダーズ】【ゆっくり実況】",
+    "channelId": "UCdvAglQwr8e-uBbt9hOhCBg",
+    "channelTitle": "ハニワ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/N4_ituTKdAg/hqdefault.jpg"
   },
   {
     "id": "Kt0RvJTqMSc",
@@ -341,13 +355,6 @@
     "channelId": "UCKXbZlor7qt5tBmBYK5UFcA",
     "channelTitle": "うーろん と るん",
     "thumbnailUrl": "https://i.ytimg.com/vi/AJ9JTVHZOEk/hqdefault.jpg"
-  },
-  {
-    "id": "b_DkF5ig2RM",
-    "title": "皆ごめん。BO7を辞めてMW3をやる理由 | CoD",
-    "channelId": "UCsRYR3fNYeCVkcx9qXMNhPg",
-    "channelTitle": "GreedZz",
-    "thumbnailUrl": "https://i.ytimg.com/vi/b_DkF5ig2RM/hqdefault.jpg"
   },
   {
     "id": "MSgJCV0-9Tc",
@@ -392,6 +399,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/X5RzVl8a2Jg/hqdefault.jpg"
   },
   {
+    "id": "Czv83-KeJDg",
+    "title": "ついにキタっ！ぐちお、にゃんこ大戦争で一番ほしいのがシークレットに！【にゃんこ大戦争フィギュアbook】【にゃんこフィギュア】",
+    "channelId": "UCKezegV3t5njyVLoeLhYi0A",
+    "channelTitle": "ぐっちの部屋(ミラクルぐっち)",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Czv83-KeJDg/hqdefault.jpg"
+  },
+  {
     "id": "vUZdJPv6lyU",
     "title": "#61 なぜ四執政は人の心を理解できない？その答えがパイモンの正体に繋がる【原神考察/ありす。】",
     "channelId": "UCd6ual-pw-Lc7NVc2S5lViQ",
@@ -413,11 +427,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/IIfOXiRkU38/hqdefault.jpg"
   },
   {
-    "id": "Czv83-KeJDg",
-    "title": "ついにキタっ！ぐちお、にゃんこ大戦争で一番ほしいのがシークレットに！【にゃんこ大戦争フィギュアbook】【にゃんこフィギュア】",
-    "channelId": "UCKezegV3t5njyVLoeLhYi0A",
-    "channelTitle": "ぐっちの部屋(ミラクルぐっち)",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Czv83-KeJDg/hqdefault.jpg"
+    "id": "kJRR1Ep-xxk",
+    "title": "DSがちょうど4倍に映る2画面エミュ機『ANBERNIC RG DS Plus』レビュー",
+    "channelId": "UCXbAi7tbAcxoDfW5I8hvv8g",
+    "channelTitle": "吉天堂",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kJRR1Ep-xxk/hqdefault.jpg"
   },
   {
     "id": "4ZbpqWFfOLQ",
@@ -439,27 +453,6 @@
     "channelId": "UCuNqhJITEjdUaquZoLbJvSQ",
     "channelTitle": "スチまと / 初心者向けSTEAMおすすめゲーム紹介",
     "thumbnailUrl": "https://i.ytimg.com/vi/PX27anRe5tY/hqdefault.jpg"
-  },
-  {
-    "id": "MV7eH8tdCvM",
-    "title": "【え、え？】G9-1の途中装備でも★10をボコボコ倒せるレウス亜種武器がやってる件ｗｗｗ【モンハンNow】",
-    "channelId": "UCTykXxcnqEZpzyzs5-vknNA",
-    "channelTitle": "怠惰な人",
-    "thumbnailUrl": "https://i.ytimg.com/vi/MV7eH8tdCvM/hqdefault.jpg"
-  },
-  {
-    "id": "pnNt4j5oFK4",
-    "title": "モンハン新作の発売前に知っておきたい基礎知識5選！発売時期や新古龍種「ルガエアルダ」考察、武器、追加モンスターなど最新情報まとめ【モンスターハンターアウトランダーズ】",
-    "channelId": "UCfVvZGS8d2AFrvoX6zT5mDg",
-    "channelTitle": "茶々茶(chachacha)",
-    "thumbnailUrl": "https://i.ytimg.com/vi/pnNt4j5oFK4/hqdefault.jpg"
-  },
-  {
-    "id": "XHm4tyZaOlM",
-    "title": "ダイアン津田が広瀬すずちゃんとたこやき作るのあまりにもゴイゴイスー！",
-    "channelId": "UCYzwmnBXo5oIW4PI7vo8KDw",
-    "channelTitle": "ダイアン津田のゴイゴイスーチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/XHm4tyZaOlM/hqdefault.jpg"
   },
   {
     "id": "BB3PS58YJYQ",
@@ -490,18 +483,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/SvMpLZnV3f4/hqdefault.jpg"
   },
   {
+    "id": "HRfP_2XvZSs",
+    "title": "【SAO2】着席したらすぐに見せ場が到来した結果[スマスロ][スロット][パチスロ]",
+    "channelId": "UCeXEd5nLjS-OCDjIcxaL95Q",
+    "channelTitle": "サトシーニョTV",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HRfP_2XvZSs/hqdefault.jpg"
+  },
+  {
     "id": "ncd9dgb4HVo",
     "title": "【天下一品】くっきー！天下一品55周年アンバサダーに就任",
     "channelId": "UCqQCfFDTU0RhhbRI1aBDU6A",
     "channelTitle": "くっきー ! の引田くっきー !",
     "thumbnailUrl": "https://i.ytimg.com/vi/ncd9dgb4HVo/hqdefault.jpg"
-  },
-  {
-    "id": "Bxplr9pq09w",
-    "title": "【最新台】ローティスの勝ち方教えますよ[スマスロ][スロット][パチスロ]",
-    "channelId": "UCeXEd5nLjS-OCDjIcxaL95Q",
-    "channelTitle": "サトシーニョTV",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Bxplr9pq09w/hqdefault.jpg"
   },
   {
     "id": "UBlMhy3tyUM",
@@ -532,6 +525,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/uf49EB_S4rc/hqdefault.jpg"
   },
   {
+    "id": "I1ClLVPu4Ws",
+    "title": "【スマスロコンプ闇】-900,000を北斗で取り返す！ウエスタン一之江店でライブ配信！後半戦！パチンコパチスロ生配信！8/9#shorts",
+    "channelId": "UCOVLrBaOiMH5QDKXTycZ8Pw",
+    "channelTitle": "やっちゃんの崖っぷちスロパチ生活",
+    "thumbnailUrl": "https://i.ytimg.com/vi/I1ClLVPu4Ws/hqdefault.jpg"
+  },
+  {
     "id": "JVHpDjHpkJ4",
     "title": "【撃ち合い】イモータルまでに必要な『撃ち合い方』が\"全て\"学べる【  VALORANT / ヴァロラント 】",
     "channelId": "UCMgT6qJfgRNTFnT-I-2fC3w",
@@ -546,25 +546,95 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/qP983qihgl0/hqdefault.jpg"
   },
   {
-    "id": "7bIe0Z8TOrE",
-    "title": "実の母を食う息子たち…90年代にサイコパスクリエイターによって開発された発禁続出の狂気のゲームが鬱すぎた…【ホラゲー】【Harvester】",
-    "channelId": "UC54D3HEGG8xqnr0r2iMYZyw",
-    "channelTitle": "良作鬱ゲーサークル【ゆっくり解説】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/7bIe0Z8TOrE/hqdefault.jpg"
+    "id": "2AJRcub9A1k",
+    "title": "ボードゲームなら勝てるかもしれない！？条件は同じのチーム対抗戦【バグまちがいさがし】【SKULL】",
+    "channelId": "UCvmTVIw2ZCJg49XHR0OoSAg",
+    "channelTitle": "放課後 GAMING LIFE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2AJRcub9A1k/hqdefault.jpg"
   },
   {
-    "id": "UIfX60OGEFw",
-    "title": "【劇場版 RUST】 Rust のケバブ屋",
-    "channelId": "UC-BVV_ZlaVO970WYsY2dncw",
-    "channelTitle": "Baikinmen Gaming",
-    "thumbnailUrl": "https://i.ytimg.com/vi/UIfX60OGEFw/hqdefault.jpg"
+    "id": "e4MhOjQBSnc",
+    "title": "イグラとともに刀が大幅強化、でも評価はまだ保留？ 実戦復帰した瓊玖など【ドルフロ2】【先行サーバーレポート#15】",
+    "channelId": "UCo_jshM3Yu6NjQA_WSjSGPg",
+    "channelTitle": "定慧@じょうえ Jyoue",
+    "thumbnailUrl": "https://i.ytimg.com/vi/e4MhOjQBSnc/hqdefault.jpg"
   },
   {
-    "id": "GtKemjIXJb0",
-    "title": "【パチスロ最新台】スマスロとんでもスキルで異世界放浪メシを最速ライブ配信！パチンコパチスロ生配信！8/7#shorts",
-    "channelId": "UCOVLrBaOiMH5QDKXTycZ8Pw",
-    "channelTitle": "やっちゃんの崖っぷちスロパチ生活",
-    "thumbnailUrl": "https://i.ytimg.com/vi/GtKemjIXJb0/hqdefault.jpg"
+    "id": "qCHsVf1V8KI",
+    "title": "【Steam】今週はこれが熱い！絶対に見逃せない期待の新作ゲーム8選【2026年10月18日～10月24日】",
+    "channelId": "UCil0d39KU_H-R0kBTA_T4-w",
+    "channelTitle": "ホビドワ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qCHsVf1V8KI/hqdefault.jpg"
+  },
+  {
+    "id": "JruYlCF2D0o",
+    "title": "【グラクロ】魔神王戦CHAOSを1編成でサクッと攻略！1フェーズ目は1ターンで突破できる編成を紹介！",
+    "channelId": "UC1YErpY8l8y-ntisITheZsA",
+    "channelTitle": "ここいちんグラクロ大好きchannel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/JruYlCF2D0o/hqdefault.jpg"
+  },
+  {
+    "id": "Hjj4ZwJPIoQ",
+    "title": "噂の「TEMU」でメインデスク周りを揃えてみます。",
+    "channelId": "UCCJlAOB0PI3rZQIbC9U9q8A",
+    "channelTitle": "勉強ばっかりしてないでゲームしなさいっ!クエストはやったの?たまにはオープンワールドで遊んできたら?",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Hjj4ZwJPIoQ/hqdefault.jpg"
+  },
+  {
+    "id": "o8VDpMq-j90",
+    "title": "【怖い】TEMUのゲーミングデバイスだけでフォートナイトをプレイしたらどうなる？",
+    "channelId": "UCQwY7bupH7yShTIWlDCERbg",
+    "channelTitle": "あふろのフォートナイト大学 / AFRO's FORTNITE UNIVERSITY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/o8VDpMq-j90/hqdefault.jpg"
+  },
+  {
+    "id": "xSYrI42lnH0",
+    "title": "銃撃とユニット配置で要塞を守れ！大群を迎え撃つ爽快防衛シューター【BULLET MELTDOWN】",
+    "channelId": "UCOk6xKN1t6GKFhjXOG0gNyQ",
+    "channelTitle": "ヨシ-yoshi-のゲーム実況チャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xSYrI42lnH0/hqdefault.jpg"
+  },
+  {
+    "id": "vNFD1LLrq5Q",
+    "title": "【ワンピースカード】男性キャラ相場に異変！？　メイン男性キャラ限定　買取価格　相場ランキング　当たりカード　まとめ",
+    "channelId": "UCeFLyHDDYTBZtHa54MhXkCw",
+    "channelTitle": "わんころっく",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vNFD1LLrq5Q/hqdefault.jpg"
+  },
+  {
+    "id": "YS-e2pLMTSU",
+    "title": "【RapidJAM】ラピッドトリガー搭載レバーレスコントローラーの実力とは？",
+    "channelId": "UC_J0FDQCCNS0E3MsMT3nl5g",
+    "channelTitle": "Gorou / 五郎",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YS-e2pLMTSU/hqdefault.jpg"
+  },
+  {
+    "id": "yTx2pc7V3gE",
+    "title": "【TGS2026】東京ゲームショウで見つけた！BenQ新作ゲーミングモニターが熱い！",
+    "channelId": "UCa-zzjBBzmTanh4CDIkKuLw",
+    "channelTitle": "モニ研 / Monitor lab.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yTx2pc7V3gE/hqdefault.jpg"
+  },
+  {
+    "id": "SLgQp3nKmu4",
+    "title": "キャラゲーの頂点！？左打者に縛られない「裏」ガチオーダーが破壊力満点すぎたwww【プロスピA】【リアタイ】",
+    "channelId": "UCUysTs1JnGqA9H352Q4nxvA",
+    "channelTitle": "like プロスピ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SLgQp3nKmu4/hqdefault.jpg"
+  },
+  {
+    "id": "0OxRPOrv1-k",
+    "title": "本当にギリギリ！偽漫画家の締切4日前に一日密着！【助けて】",
+    "channelId": "UCIAi_enV1mYGkKnhQtUMSIQ",
+    "channelTitle": "SIANちゃんねる",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0OxRPOrv1-k/hqdefault.jpg"
+  },
+  {
+    "id": "jb-Xx146YfY",
+    "title": "【信長の野望真戦】PK0002J戦国綺譚戦記第一週",
+    "channelId": "UC3MhLMcQk4pORLm7VeapEYA",
+    "channelTitle": "乱CHANNEL.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/jb-Xx146YfY/hqdefault.jpg"
   },
   {
     "id": "2o0OS6-FM3c",
@@ -588,6 +658,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/YQpZ9u7Egt8/hqdefault.jpg"
   },
   {
+    "id": "5TcXlmlqv0Q",
+    "title": "【スプラトゥーン レイダース】もうちょっとで終わりかな？今晩はサーモンの刺身パーティじゃ　#スプラトゥーン #スプラトゥーンレイダース #配信",
+    "channelId": "UCbQ_axSE0tcAXudIuwiLrbg",
+    "channelTitle": "蒼腹のはるとン",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5TcXlmlqv0Q/hqdefault.jpg"
+  },
+  {
     "id": "eE0MHDpOrko",
     "title": "【対死靈防衛線】マウスひとつでお手軽防衛！「わー！」とやってくる敵を「だー！」とクリックもせずに防衛するゲーム！(CeVIO,ゆっくり音声)",
     "channelId": "UCSFcuf1pH63EFMK_G_MgxmQ",
@@ -609,6 +686,20 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/Xls_3w6gcFA/hqdefault.jpg"
   },
   {
+    "id": "CdaU8ApVpYo",
+    "title": "大富豪に140種類の能力を追加したら面白すぎたwww【ギフテッド大富豪】",
+    "channelId": "UCdBrM5RuAZiIBkIPe2At8ig",
+    "channelTitle": "はちゅ猫ボドゲch",
+    "thumbnailUrl": "https://i.ytimg.com/vi/CdaU8ApVpYo/hqdefault.jpg"
+  },
+  {
+    "id": "zP24Kq-7ivU",
+    "title": "【顔出し】全然コラボしなくなって不仲説が浮上している『オパシさん』と和解が成立したので緊急で動画を撮りました【ロコキングダム】",
+    "channelId": "UC7VPOWJCu7QmfpI-jFNTMEA",
+    "channelTitle": "柊みゅうのゲーム実況",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zP24Kq-7ivU/hqdefault.jpg"
+  },
+  {
     "id": "OPkm7K6J-Qs",
     "title": "【先行攻略？！】カエルになって…頂上（テッペン）を獲れ！【カエルゲー】",
     "channelId": "UCDriC_OhgbK9ZHB464axpJw",
@@ -623,13 +714,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/oUXtX-etVdM/hqdefault.jpg"
   },
   {
-    "id": "J1I_cQOz0XA",
-    "title": "【Alan Wake 2】“旧き神々”降臨…闇の中で始まる壮絶な「召喚」 #27",
-    "channelId": "UC41L1__matzqYEg_a3ik2JQ",
-    "channelTitle": "Totty トッティ Vol.2",
-    "thumbnailUrl": "https://i.ytimg.com/vi/J1I_cQOz0XA/hqdefault.jpg"
-  },
-  {
     "id": "24ERWXFEN_w",
     "title": "【恋と深空ガチャ】セイヤ星5思念『この一瞬に願いを』すり抜け回避の願いをかけた結果がこれ",
     "channelId": "UCU1ZODnVFcBUorr1FxLkjIg",
@@ -642,20 +726,6 @@
     "channelId": "UCkGmzzofNPR9UvpSEYR7heg",
     "channelTitle": "まゆか【ホワサバ攻略チャンネル】",
     "thumbnailUrl": "https://i.ytimg.com/vi/WWyZe05k7SE/hqdefault.jpg"
-  },
-  {
-    "id": "W_Y3smC8sJM",
-    "title": "戦報を眺めるだけのSLGは卒業？『三國志 戦棋版』自分で動かして、クリア後は委託もOK丨嗡嗡",
-    "channelId": "UCvB4-hHgF-sOn7trFNgTWpQ",
-    "channelTitle": "嗡嗡",
-    "thumbnailUrl": "https://i.ytimg.com/vi/W_Y3smC8sJM/hqdefault.jpg"
-  },
-  {
-    "id": "zw6Y3srI7hk",
-    "title": "【ワンピースカード】過去弾に異変！？　メイン男性キャラ限定　販売価格　相場ランキング　当たりカード　まとめ",
-    "channelId": "UCeFLyHDDYTBZtHa54MhXkCw",
-    "channelTitle": "わんころっく",
-    "thumbnailUrl": "https://i.ytimg.com/vi/zw6Y3srI7hk/hqdefault.jpg"
   },
   {
     "id": "C5bkoRqJ4Io",
@@ -679,13 +749,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/7hrep1NMtAs/hqdefault.jpg"
   },
   {
-    "id": "Gt1m0IbfA_c",
-    "title": "全部出来る人ほぼゼロ！カバーが上手い人の特徴7選【APEX/エーペックス】",
-    "channelId": "UCsSqmVCXrC7kJU8HLwsan7w",
-    "channelTitle": "ゆーまん【APEX解説】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Gt1m0IbfA_c/hqdefault.jpg"
-  },
-  {
     "id": "O-hY9LnsEbA",
     "title": "【クレーンゲーム】グランドオープンする新店舗で女子１人が奮闘【とれるんキングダム城里店】",
     "channelId": "UCv6u79OhTmqYSypMlVjjalw",
@@ -700,32 +763,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/TsP9Yn_pQes/hqdefault.jpg"
   },
   {
-    "id": "GlRI8hGlBTU",
-    "title": "Vtuberの中身が特定されました。",
-    "channelId": "UCr24Ll7IT2hPquu-n11dNWQ",
-    "channelTitle": "暇72",
-    "thumbnailUrl": "https://i.ytimg.com/vi/GlRI8hGlBTU/hqdefault.jpg"
-  },
-  {
-    "id": "sd92q-7eof8",
-    "title": "【神ガチャ】もう頼むから神引きさせて...!クルトワ＆ファンデフェンが欲しいわ!!#efootball  #efootball2026 #efootball2027  #イーフト",
-    "channelId": "UCqWnYL0TBzgAQqIcFF8ijrw",
-    "channelTitle": "えびでい",
-    "thumbnailUrl": "https://i.ytimg.com/vi/sd92q-7eof8/hqdefault.jpg"
-  },
-  {
-    "id": "UjLJ9eOP8OY",
-    "title": "【APEX】ドパガキ向けのゆっくり実況はこちらです【ゆっくり実況】【FIFINE H18Vlite】",
-    "channelId": "UC1NAUJIQljWQzzJXGOTZ1mw",
-    "channelTitle": "らむかわです",
-    "thumbnailUrl": "https://i.ytimg.com/vi/UjLJ9eOP8OY/hqdefault.jpg"
-  },
-  {
-    "id": "-OB9XV-aRuo",
-    "title": "【信長の野望真戦】結局本多忠勝の伝授戦法は何がいいのか考察",
-    "channelId": "UC3MhLMcQk4pORLm7VeapEYA",
-    "channelTitle": "乱CHANNEL.",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-OB9XV-aRuo/hqdefault.jpg"
+    "id": "fWcxjpDeTF8",
+    "title": "見栄のhandcam EMEET S600L",
+    "channelId": "UCaz8hj6rB7cC1nr5479Ly_A",
+    "channelTitle": "はるのFPS【エイム解説・デバイス紹介】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/fWcxjpDeTF8/hqdefault.jpg"
   },
   {
     "id": "9daYC5Fcs-g",
@@ -733,68 +775,5 @@
     "channelId": "UCPmMjco_AVcZOzRWGGOv0MA",
     "channelTitle": "遊びゴコロ",
     "thumbnailUrl": "https://i.ytimg.com/vi/9daYC5Fcs-g/hqdefault.jpg"
-  },
-  {
-    "id": "lJR6hzXn268",
-    "title": "【KTC M27P6S】4K 160Hz/FHD 320Hz MiniLED 2304分割のゲーミングモニター",
-    "channelId": "UC7RmIzsCbYuNM2hJZ_OUToA",
-    "channelTitle": "ゲーミングPC NAVI",
-    "thumbnailUrl": "https://i.ytimg.com/vi/lJR6hzXn268/hqdefault.jpg"
-  },
-  {
-    "id": "_LCqJluBCTU",
-    "title": "三国 最後の３旗 職場こそこそで無言だったので、BGMを付けました　実況3298戦目",
-    "channelId": "UCkxoeR-swjzrps3_g_obB1A",
-    "channelTitle": "きふ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/_LCqJluBCTU/hqdefault.jpg"
-  },
-  {
-    "id": "DTJBbdR2RcA",
-    "title": "【初見さん歓迎】川で溺れるボーちゃん声マネクレヨンしんちゃんswitch2ゲーム体験版ゲーム実況",
-    "channelId": "UCdvIgYyid9gmfPk7L5WaIbQ",
-    "channelTitle": "孤独身",
-    "thumbnailUrl": "https://i.ytimg.com/vi/DTJBbdR2RcA/hqdefault.jpg"
-  },
-  {
-    "id": "Iz9tArpsLgU",
-    "title": "【CODM】遂にあの無反動ARが3発キルに超強化キター！今シーズンNo.1の強化内容でほぼ別武器になってる件www【CODモバイル】",
-    "channelId": "UCFseyE454GbLQUR-N2tJ7tg",
-    "channelTitle": "どくきの",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Iz9tArpsLgU/hqdefault.jpg"
-  },
-  {
-    "id": "-43TpHNg5Jw",
-    "title": "『ミュウex』と『メガサーナイトex』は相性抜群！！！あの『ACE SPEC』で盤面が一気に完成！！！【vsボムドラパルトex】",
-    "channelId": "UCuc2uC912C9lfEKvq4YysDg",
-    "channelTitle": "もちポケちゃんねる!!【トレーディア】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-43TpHNg5Jw/hqdefault.jpg"
-  },
-  {
-    "id": "p9u11FEII_o",
-    "title": "【ロードモバイル】ミラージュレルムがある所とAndroidとiPhoneの解約手順‼️How to Cancel Mirage Realm Subscription in Lords Mobile‼️",
-    "channelId": "UC_8gMmrjMQUyRFOxpDK-U4A",
-    "channelTitle": "鈍感アマデウスTV  (Donkan Amadeus TV)",
-    "thumbnailUrl": "https://i.ytimg.com/vi/p9u11FEII_o/hqdefault.jpg"
-  },
-  {
-    "id": "_ZEWTf_1CeA",
-    "title": "管理者イベ中に配布された100時間かかるたまごをコードで開けてみたら、、、【フォートナイト/ブレインロット】",
-    "channelId": "UCVm4RZRCRouQZthvPt-68zg",
-    "channelTitle": "シャンロン.",
-    "thumbnailUrl": "https://i.ytimg.com/vi/_ZEWTf_1CeA/hqdefault.jpg"
-  },
-  {
-    "id": "_FroWr3Gorg",
-    "title": "いろんなことを考えたブルーハワイ兄貴のソフト俺デマンドの話",
-    "channelId": "UCqpsu8QQlqAjJ2KGtwoZtbA",
-    "channelTitle": "まさんの駄べり動画 -VisualNovel-",
-    "thumbnailUrl": "https://i.ytimg.com/vi/_FroWr3Gorg/hqdefault.jpg"
-  },
-  {
-    "id": "drrvtGV7yBI",
-    "title": "【テレビだけじゃない】レグザのゲーミングモニターって実際どう？WQHD/200Hzの新色モデルをレビュー【RM-27G5SR】",
-    "channelId": "UCa-zzjBBzmTanh4CDIkKuLw",
-    "channelTitle": "モニ研 / Monitor lab.",
-    "thumbnailUrl": "https://i.ytimg.com/vi/drrvtGV7yBI/hqdefault.jpg"
   }
 ]
