@@ -126,13 +126,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/yG67Lrhzxcs/hqdefault.jpg"
   },
   {
-    "id": "GdBSNXYcDp0",
-    "title": "【実録】10万円でここまで削れる。家庭用マシンの常識を壊す「アルミ削り出し」の衝撃 CNC3020 Nova",
-    "channelId": "UCZCwRdkZEujmHGF9Z2rpEig",
-    "channelTitle": "ひとりラボ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/GdBSNXYcDp0/hqdefault.jpg"
-  },
-  {
     "id": "_kBoJ3ToLF4",
     "title": "Galaxy Z Fold8、想像以上に良かった。使い込んでわかった魅力と惜しいところ",
     "channelId": "UCt8j7HEzdRfdcWohEcmkxMw",
@@ -175,13 +168,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/gdTjyESXjEg/hqdefault.jpg"
   },
   {
-    "id": "w0TYZt-sqDY",
-    "title": "【Hi3D】オールインワンAI 3Dエージェント Hi3D Agent に変形ロボをつくってもらった",
-    "channelId": "UC8ukKa4PPh0p6I2haaw5-5w",
-    "channelTitle": "HomeMadeGarbage",
-    "thumbnailUrl": "https://i.ytimg.com/vi/w0TYZt-sqDY/hqdefault.jpg"
-  },
-  {
     "id": "JzqSxJCA7x4",
     "title": "超激安で自宅クラウド構築！ジャンクHDDでTerraMaster NASはアリ？【秋葉原】",
     "channelId": "UCE14d37TnQN61NT5iy5ZD_w",
@@ -189,11 +175,25 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/JzqSxJCA7x4/hqdefault.jpg"
   },
   {
+    "id": "w0TYZt-sqDY",
+    "title": "【Hi3D】オールインワンAI 3Dエージェント Hi3D Agent に変形ロボをつくってもらった",
+    "channelId": "UC8ukKa4PPh0p6I2haaw5-5w",
+    "channelTitle": "HomeMadeGarbage",
+    "thumbnailUrl": "https://i.ytimg.com/vi/w0TYZt-sqDY/hqdefault.jpg"
+  },
+  {
     "id": "U5W9ryIEgAQ",
     "title": "【MiniMax H3】最強動画AIのスタートキット❗️VRAM８GB❗️軽量GGUF✕４STEP❗️最速ターボのワークフロー❗️プロンプトメーカー❗️Colabコード❗️",
     "channelId": "UCxeY8XAlk4n8ACivHwEUMbw",
     "channelTitle": "AI映像研究会",
     "thumbnailUrl": "https://i.ytimg.com/vi/U5W9ryIEgAQ/hqdefault.jpg"
+  },
+  {
+    "id": "bUYgnRD0CS8",
+    "title": "レーザー加工機・3Dプリンター・CNC、6台の精度を3Dスキャナーで検証　Revopoint MetroY Ultra",
+    "channelId": "UCZCwRdkZEujmHGF9Z2rpEig",
+    "channelTitle": "ひとりラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/bUYgnRD0CS8/hqdefault.jpg"
   },
   {
     "id": "AQlQDXKUmmU",
@@ -215,6 +215,13 @@
     "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
     "channelTitle": "あずきちゃんねる",
     "thumbnailUrl": "https://i.ytimg.com/vi/NIkMYiGemrQ/hqdefault.jpg"
+  },
+  {
+    "id": "875KxS2R1_w",
+    "title": "“国内Wi-Fi機器開発拠点”に清水理史が突撃！フルノシステムズのこだわりに驚愕【低コストの法人向けアクセスポイント新製品も】",
+    "channelId": "UCeHuEhizXp6A0f9lBBvIOuw",
+    "channelTitle": "清水理史の「イニシャルB」チャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/875KxS2R1_w/hqdefault.jpg"
   },
   {
     "id": "j9kgjrjSLaA",
@@ -271,6 +278,13 @@
     "channelId": "UCn23JisBcbb-Nw-3IhofaNA",
     "channelTitle": "麦茶の逸般人工作室",
     "thumbnailUrl": "https://i.ytimg.com/vi/sr_YjKpWzwA/hqdefault.jpg"
+  },
+  {
+    "id": "d3DpnOSCJxY",
+    "title": "つまみが短い！？小型軽量・ノイキャン搭載イヤホン「HUAWEI FreeBuds Neo」レビュー",
+    "channelId": "UCw700p6kVftXe5UoTv05opA",
+    "channelTitle": "ほこあ-Hot Cocoa-",
+    "thumbnailUrl": "https://i.ytimg.com/vi/d3DpnOSCJxY/hqdefault.jpg"
   },
   {
     "id": "hWdTT4O0w8w",
@@ -343,25 +357,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/xXOlCoWZfCk/hqdefault.jpg"
   },
   {
-    "id": "D5hzvk122uQ",
-    "title": "【ロボット掃除機の選び方】ジャイロとレーザーの違い／カタログの「◯分」「◯Pa」の読み方｜ルンバ・エコバックス・Anker",
-    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
-    "channelTitle": "買う前の分解図",
-    "thumbnailUrl": "https://i.ytimg.com/vi/D5hzvk122uQ/hqdefault.jpg"
-  },
-  {
     "id": "YUGL67UQhAk",
     "title": "【物理エンジン】ペットボトルフリップに最適な水の量はどのくらいなのか？",
     "channelId": "UCrkqNT0_Fd5_TIWdjey6K0A",
     "channelTitle": "こーじ",
     "thumbnailUrl": "https://i.ytimg.com/vi/YUGL67UQhAk/hqdefault.jpg"
-  },
-  {
-    "id": "bvCGbhTrxn8",
-    "title": "Hi3D開発者に聞いた、3D生成AIでうまく作れない時の直し方｜写真・絵画・減面・色付け【北京・第2弾】",
-    "channelId": "UCyXyXJb2qlgFQ4PHn4TKxYA",
-    "channelTitle": "TokyoMakers 東京九段工作ラボ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/bvCGbhTrxn8/hqdefault.jpg"
   },
   {
     "id": "k1z6qKGBzVc",
@@ -378,13 +378,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/136mgILxfdw/hqdefault.jpg"
   },
   {
-    "id": "3LgfH95Wz_Y",
-    "title": "【AI動画】バズ動画の構成をどこまで再現できる？完成映像で検証【Claude×Higgsfield Katana】",
-    "channelId": "UCY8AEzrT6OP9dMSWXl2TPCA",
-    "channelTitle": "ヒロキ@AI副業の真実【45歳のリアル】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/3LgfH95Wz_Y/hqdefault.jpg"
-  },
-  {
     "id": "U6WQADBkmpo",
     "title": "【徹底比較】長焦点と超短焦点プロジェクターはどっちを選ぶべき？「200cm」と「11cm」で検証！【AWOL Valerion Max / AWOL Aetherion Max】",
     "channelId": "UCa-zzjBBzmTanh4CDIkKuLw",
@@ -397,13 +390,6 @@
     "channelId": "UCw6sIX6zmU-Zni2DHwGDXVw",
     "channelTitle": "建築と物理『建築屋』",
     "thumbnailUrl": "https://i.ytimg.com/vi/wstso7DZfME/hqdefault.jpg"
-  },
-  {
-    "id": "n1SCbLdrFns",
-    "title": "【RDNA5】AI市場でPC向け新製品は発売するのか？ ポジティブな話をしようか",
-    "channelId": "UCam5jGGRYhavl83EpKURb0A",
-    "channelTitle": "KTI【かいかいのテクノロジー&情報】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/n1SCbLdrFns/hqdefault.jpg"
   },
   {
     "id": "AE3ojYb3aQM",
@@ -420,13 +406,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/bs-HCXswBXI/hqdefault.jpg"
   },
   {
-    "id": "KRRniTO18s8",
-    "title": "【AI】LitVideoで生成ＡＩ動画作り方解説とテレビの歴史 ニプコー円盤 CBS方式機械式カラーテレビ",
-    "channelId": "UCsEa5UAmFoBQ-v_J1ZKS-oA",
-    "channelTitle": "ピコちゃん技研",
-    "thumbnailUrl": "https://i.ytimg.com/vi/KRRniTO18s8/hqdefault.jpg"
-  },
-  {
     "id": "rwv96L0fCoE",
     "title": "これぞミニPCの原点 超小型サイズにWildcat Lake Core3 304を搭載し日常用途をキビキビこなせるM2 Slimを実機レビュー #MINISFORUM",
     "channelId": "UCvQOT2DfQEfUSgc6nZuX68A",
@@ -434,10 +413,31 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/rwv96L0fCoE/hqdefault.jpg"
   },
   {
+    "id": "EZmP9W2WOrQ",
+    "title": "【暖房の電気代】1時間34.1円と1.0円は比べていい？エアコン・ヒーター・電気毛布の選び方",
+    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
+    "channelTitle": "買う前の分解図",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EZmP9W2WOrQ/hqdefault.jpg"
+  },
+  {
     "id": "yEmIU0oCAeA",
-    "title": "推しのぬいぐるみを改造！3Dスキャナー×AIでピッタリの鎧を作る",
+    "title": "【3Dスキャナー】推しのぬいぐるみを改造！3Dスキャナー×AIでピッタリの鎧を作る",
     "channelId": "UCV2r98BCvV--G2tj_h16kyA",
     "channelTitle": "ビーバーものづくり研究所 【ビーバーズ・ハイブ🦫】",
     "thumbnailUrl": "https://i.ytimg.com/vi/yEmIU0oCAeA/hqdefault.jpg"
+  },
+  {
+    "id": "LUjLwAvMHZQ",
+    "title": "【デスクツアー】モノ少なめのシンプルなデスク環境 | Macと相性のいいモニターを導入🖥️",
+    "channelId": "UCrIS4LEezP49S3be3zh1SZQ",
+    "channelTitle": "konlog",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LUjLwAvMHZQ/hqdefault.jpg"
+  },
+  {
+    "id": "URGxG0gDPTI",
+    "title": "【SVBONY SC571CC】6年ぶりの冷却CMOSカメラに大苦戦！実際に使ってみた！！",
+    "channelId": "UCyn4sx38DWqp5ea1-qzgUzw",
+    "channelTitle": "星の写真家 ひでゆき",
+    "thumbnailUrl": "https://i.ytimg.com/vi/URGxG0gDPTI/hqdefault.jpg"
   }
 ]
