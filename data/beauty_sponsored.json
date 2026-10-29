@@ -189,18 +189,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/bus208y_O0s/hqdefault.jpg"
   },
   {
-    "id": "EdwYJ-rgLXM",
-    "title": "プロはこうする｜タコの【アラビアータ】シンプルが一番旨い！",
-    "channelId": "UC9poG8aQWgYvJykq9PXsvoA",
-    "channelTitle": "ファビオ飯 /イタリア料理人の世界",
-    "thumbnailUrl": "https://i.ytimg.com/vi/EdwYJ-rgLXM/hqdefault.jpg"
-  },
-  {
     "id": "eJjq9acEl4g",
     "title": "どこでも…昭和な家に心地よい空気で夏を3in1でスマートに解消する〜新サーキュレーター導入",
     "channelId": "UCAFW_a92EBTBg4KTr0aKLfA",
     "channelTitle": "ちびともち",
     "thumbnailUrl": "https://i.ytimg.com/vi/eJjq9acEl4g/hqdefault.jpg"
+  },
+  {
+    "id": "EdwYJ-rgLXM",
+    "title": "プロはこうする｜タコの【アラビアータ】シンプルが一番旨い！",
+    "channelId": "UC9poG8aQWgYvJykq9PXsvoA",
+    "channelTitle": "ファビオ飯 /イタリア料理人の世界",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EdwYJ-rgLXM/hqdefault.jpg"
   },
   {
     "id": "pgY6kJ0K4PI",
@@ -329,6 +329,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/lpKpnGWDNco/hqdefault.jpg"
   },
   {
+    "id": "aWOj0gPgogo",
+    "title": "最終回にアニキが猛烈な激！「お前ら…覚悟決めろ」",
+    "channelId": "UCfkM3u-0uSKADDitZLpXcfA",
+    "channelTitle": "トクサンTV【A&R】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/aWOj0gPgogo/hqdefault.jpg"
+  },
+  {
     "id": "Bs4JO4P3e7g",
     "title": "【普通のチーズには戻れない！とろとろ限界突破！】濃厚なのに罪悪感なし！カレーマッケンチーズとマッシュルームのタルティーヌ【LA BONNE TABLE・中村和成】シェフ｜#クラシル #shorts",
     "channelId": "UCE40kwov-UdhGikwAowjAAQ",
@@ -341,13 +348,6 @@
     "channelId": "UC1VyP6ak06ovk1LSVFYc5yg",
     "channelTitle": "家計の味方",
     "thumbnailUrl": "https://i.ytimg.com/vi/i6QzsDjmz-o/hqdefault.jpg"
-  },
-  {
-    "id": "aWOj0gPgogo",
-    "title": "最終回にアニキが猛烈な激！「お前ら…覚悟決めろ」",
-    "channelId": "UCfkM3u-0uSKADDitZLpXcfA",
-    "channelTitle": "トクサンTV【A&R】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/aWOj0gPgogo/hqdefault.jpg"
   },
   {
     "id": "xQRB3818jeI",
@@ -532,11 +532,151 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/N_omtWILBEo/hqdefault.jpg"
   },
   {
-    "id": "JfCDoc-mOIk",
-    "title": "半導体上げの理由！ここが評価されています！【10/28 米国株ニュース】",
+    "id": "sgx6ABzjqsA",
+    "title": "「服の塗り方」で悩んでる人。とにかくコレを見てください！【Coloso】",
+    "channelId": "UCAcGenBoh-mXpufzPtNh0hg",
+    "channelTitle": "hide channel【顔と体の描き方講座】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sgx6ABzjqsA/hqdefault.jpg"
+  },
+  {
+    "id": "2mFJaQYnClk",
+    "title": "アフターでGoogle株がめちゃくちゃ売られています！【10/29 米国株ニュース】",
     "channelId": "UCLd_KPUX_yai_rXMaC90mrA",
     "channelTitle": "とも米国株投資チャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/JfCDoc-mOIk/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/2mFJaQYnClk/hqdefault.jpg"
+  },
+  {
+    "id": "ktqavYVH9Kg",
+    "title": "楽天モバイルの料金、結局いくら？月1,078円の条件・追加料金を現役社員が図解",
+    "channelId": "UCs9m6UCbVzBFZ3g46re63hw",
+    "channelTitle": "楽天モバイルキャンペーン案内所",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ktqavYVH9Kg/hqdefault.jpg"
+  },
+  {
+    "id": "0zzJg9zO5pI",
+    "title": "HDD・SSDの値上がりはいつまで？写真のために「買い溜め」しなくていい理由",
+    "channelId": "UCA_s_kPaSYPpww1VTkgocbQ",
+    "channelTitle": "AIとクラウドストレージのガザコチャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0zzJg9zO5pI/hqdefault.jpg"
+  },
+  {
+    "id": "5XI8V6qbBTs",
+    "title": "無料で始められる生成AIツール Fetra AIをレビュー！！",
+    "channelId": "UCDXmlvY5yEMhKWCTCUyWmRw",
+    "channelTitle": "iNSiGHTたけし",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5XI8V6qbBTs/hqdefault.jpg"
+  },
+  {
+    "id": "wM0fRpIQu_g",
+    "title": "【Moho 3D作画】3Dモデルが一瞬でアニメセル画＆ベクター線画に！ObjWeaver 3D × OBJStroke 3D 完全連携ワークフロー",
+    "channelId": "UC-Hq1-ItacWCW4HKK4WW09g",
+    "channelTitle": "moho & CTA5",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wM0fRpIQu_g/hqdefault.jpg"
+  },
+  {
+    "id": "iryvPEjEzRA",
+    "title": "秋の日常4日間🍂朝ごはん記録・ドタバタ休日・赤ちゃんのいる外出準備🍼平日の手抜き晩ごはん",
+    "channelId": "UCifarduZRE7ccq1HPp4drMQ",
+    "channelTitle": "yunafilm",
+    "thumbnailUrl": "https://i.ytimg.com/vi/iryvPEjEzRA/hqdefault.jpg"
+  },
+  {
+    "id": "3LfZ8kjBgr4",
+    "title": "電動式携帯浄水器｜今だからそこ備えたい充電式浄水器 秘湯の露天風呂キャンプ",
+    "channelId": "UC4JOq-4pxMccneR6T2TvRLA",
+    "channelTitle": "UG'sキャンプ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/3LfZ8kjBgr4/hqdefault.jpg"
+  },
+  {
+    "id": "crZzBLl5_yw",
+    "title": "【デスク環境】ノートパソコンにもう1画面！仕事で使うONPUモニターをレビュー",
+    "channelId": "UCuOzaoqQlNs1aCHYMz-97XA",
+    "channelTitle": "THE オトウサンノヒミツキチ / お父さんの秘密基地 ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/crZzBLl5_yw/hqdefault.jpg"
+  },
+  {
+    "id": "cu9tJzMp29U",
+    "title": "自分に合う加湿器の選び方｜象印・ダイニチなど売れ筋5機種を比較【2026年】",
+    "channelId": "UCdn9FCkpCCd-tJp-a8aNBXg",
+    "channelTitle": "50代からの買い物ラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cu9tJzMp29U/hqdefault.jpg"
+  },
+  {
+    "id": "jrs3rdVHFW8",
+    "title": "【DJI新型ポタ電】容量ほぼ同じで24％小型化!?小さすぎてヤバいDJI Power Auro 2000 Elite | キャンプギア",
+    "channelId": "UCp9w7w0pntQLmifjnthRSKg",
+    "channelTitle": "よすけのOutdoor News24",
+    "thumbnailUrl": "https://i.ytimg.com/vi/jrs3rdVHFW8/hqdefault.jpg"
+  },
+  {
+    "id": "daLaWttxSO0",
+    "title": "【正直レビュー】40代会社員のジュエリー全部紹介｜買ってよかったもの・買わなくてよかったもの｜Sakura Hoseki",
+    "channelId": "UCwbagHtdT3CZEMpTs3Ct-yw",
+    "channelTitle": "40代独身OLのシンプルライフ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/daLaWttxSO0/hqdefault.jpg"
+  },
+  {
+    "id": "HvCiSfINbgI",
+    "title": "【効果はあるのか？】話題のバイオスティミュラントをサツマイモで収穫量は変わるのか比較実験！",
+    "channelId": "UCDCbtPNoGsm4muwUqk-hj_Q",
+    "channelTitle": "鈴木農園TV",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HvCiSfINbgI/hqdefault.jpg"
+  },
+  {
+    "id": "N6HCMMijNwQ",
+    "title": "アップデートで進化がエグいInsta360 Luna Ultraまとめと、一緒に揃えたいフィルターと注意点 TILTA ND VND CPL SKIN STAR",
+    "channelId": "UCIHVY-O0gntCbSudCkDsVbw",
+    "channelTitle": "スーログ / Appleとカメラとガジェット",
+    "thumbnailUrl": "https://i.ytimg.com/vi/N6HCMMijNwQ/hqdefault.jpg"
+  },
+  {
+    "id": "M1RViAUL3Fo",
+    "title": "清水社長、今どんな気持ち？｜加盟金は50万なの？100万なの？",
+    "channelId": "UCYNtyXmS2vWKBLfqH-s6MEA",
+    "channelTitle": "資金凍結された社長_フランチャイズのリアル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/M1RViAUL3Fo/hqdefault.jpg"
+  },
+  {
+    "id": "PeXMCRmGsF4",
+    "title": "夜中に何度も目が覚める人へ｜更年期の眠りとナツメの薬膳茶２選【東洋医学】",
+    "channelId": "UCdSyQIiN9JOiRlqGfds8O_Q",
+    "channelTitle": "漢方養生指導士ロン毛メガネ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/PeXMCRmGsF4/hqdefault.jpg"
+  },
+  {
+    "id": "lpXXKSOQERY",
+    "title": "レーザーで直角も水平も一発！屋外でも使える墨出し器で床掘りの下準備【田舎暮らしDIY】",
+    "channelId": "UCJ01V3_kWWEYB9Dpzk5FiGg",
+    "channelTitle": "セイカの暮らし便り",
+    "thumbnailUrl": "https://i.ytimg.com/vi/lpXXKSOQERY/hqdefault.jpg"
+  },
+  {
+    "id": "G8O0gkwxY0k",
+    "title": "【野鳥撮影】最強のコンパクト超望遠レンズで鳥撮り！- Z8 × NIKKOR Z 600mm f/6.3 VR S -",
+    "channelId": "UCAoVnH2Cjgnpv3LT7kHyzCw",
+    "channelTitle": "R/あーる",
+    "thumbnailUrl": "https://i.ytimg.com/vi/G8O0gkwxY0k/hqdefault.jpg"
+  },
+  {
+    "id": "PhH0SVKgpUE",
+    "title": "【占星術と医学と健康】ホロスコープで心と体が一つになる2027年8月までがチャンス",
+    "channelId": "UCqwvTC2oyN46iMWOimLJlCQ",
+    "channelTitle": "占星術新時代の星読みスピリアルアカデミーガイアハウス",
+    "thumbnailUrl": "https://i.ytimg.com/vi/PhH0SVKgpUE/hqdefault.jpg"
+  },
+  {
+    "id": "R0JQA2OMgIA",
+    "title": "いまからできる！Pintレシピ 中嶋屋本店「きのこの旨だしパスタ」",
+    "channelId": "UCh0-nAqSYSYed_A4Qdz-0ww",
+    "channelTitle": "NBC長崎放送",
+    "thumbnailUrl": "https://i.ytimg.com/vi/R0JQA2OMgIA/hqdefault.jpg"
+  },
+  {
+    "id": "LxSYe84vXcU",
+    "title": "【画材紹介】72色のソフトオイルパステル、描き心地は？｜Lightwish",
+    "channelId": "UC3cz54YtAVtOtHrcuskJNGQ",
+    "channelTitle": "自然を描こう!チャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LxSYe84vXcU/hqdefault.jpg"
   },
   {
     "id": "Xs0tx3UzrdA",
@@ -609,11 +749,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/Fuvx2pv4qwQ/hqdefault.jpg"
   },
   {
-    "id": "vSAciMC5qCU",
-    "title": "自分に合う体組成計の選び方｜タニタ・オムロン売れ筋5機種を比較【2026年】",
-    "channelId": "UCdn9FCkpCCd-tJp-a8aNBXg",
-    "channelTitle": "50代からの買い物ラボ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/vSAciMC5qCU/hqdefault.jpg"
+    "id": "ToW0AfNH64M",
+    "title": "アイデア・資料・LPまで。Kimi K3が「形にする作業」を一気に進める",
+    "channelId": "UCRvFZvnqmjnyMJ9k1ZVpZzQ",
+    "channelTitle": "カワイコージ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ToW0AfNH64M/hqdefault.jpg"
   },
   {
     "id": "9GicNRiTpYk",
@@ -630,27 +770,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/LlOB455Q4nQ/hqdefault.jpg"
   },
   {
-    "id": "WcI8ZoqybFY",
-    "title": "OneDriveだけに預けると危ない？Microsoftユーザーが知らない「併用」という選択肢",
-    "channelId": "UCA_s_kPaSYPpww1VTkgocbQ",
-    "channelTitle": "AIとクラウドストレージのガザコチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/WcI8ZoqybFY/hqdefault.jpg"
-  },
-  {
-    "id": "ZGBA2EsQCds",
-    "title": "楽天モバイルのeSIM申し込み・開通手順｜iPhone・Androidの設定と乗り換えの注意点",
-    "channelId": "UCrF-tgR_FIIk8R6yly41cpA",
-    "channelTitle": "楽天モバイルを応援する楽天社員",
-    "thumbnailUrl": "https://i.ytimg.com/vi/ZGBA2EsQCds/hqdefault.jpg"
-  },
-  {
-    "id": "J9xU-FCktmY",
-    "title": "Lesson01 マズローの欲求5段解説",
-    "channelId": "UCys3LwsnKXe_5h3ws-zTUgg",
-    "channelTitle": "Wonder Ree",
-    "thumbnailUrl": "https://i.ytimg.com/vi/J9xU-FCktmY/hqdefault.jpg"
-  },
-  {
     "id": "eKVF_PBsTgs",
     "title": "【植毛6ヶ月】筋トレの代償で薄毛になったプロトレーナーの結果",
     "channelId": "UCPnDLy0YT6oHwcIa1qByk-Q",
@@ -658,94 +777,10 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/eKVF_PBsTgs/hqdefault.jpg"
   },
   {
-    "id": "iHysPgl953o",
-    "title": "全力応援！ながさき 結婚 子育て『女性の健康について学ぶセミナー』",
-    "channelId": "UCh0-nAqSYSYed_A4Qdz-0ww",
-    "channelTitle": "NBC長崎放送",
-    "thumbnailUrl": "https://i.ytimg.com/vi/iHysPgl953o/hqdefault.jpg"
-  },
-  {
     "id": "NOZ0JPYNb_4",
     "title": "【鮭マヨ香草パン粉焼き☆フライパンでサクサクふっくら】☆バジルとニンニクの香りが香ばしく美味しい！☆お弁当のおかずにもピッタリ！☆",
     "channelId": "UCp8u_OpPbrmqTHjfweh-AMw",
     "channelTitle": "まるこごぜん",
     "thumbnailUrl": "https://i.ytimg.com/vi/NOZ0JPYNb_4/hqdefault.jpg"
-  },
-  {
-    "id": "XCy2Cc_YWp0",
-    "title": "【OM-3と走る1600km】東京から木曽路へ。写真を撮るだけの車中泊旅｜DAY 1 - 諏訪湖/奈良井宿/おんぽいの湯",
-    "channelId": "UC2cFVEeXz6P05LbxO3n3a_g",
-    "channelTitle": "YRYM Photo & Movie",
-    "thumbnailUrl": "https://i.ytimg.com/vi/XCy2Cc_YWp0/hqdefault.jpg"
-  },
-  {
-    "id": "Pfjv0PEE1mI",
-    "title": "お店レベル!?【からあげ】梅酢だけで味が決まる！1.5cmの油で｜60代夫婦の晩ごはん",
-    "channelId": "UCNASPKlPW89XzwaMvezPS7w",
-    "channelTitle": "YoukosKitchen",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Pfjv0PEE1mI/hqdefault.jpg"
-  },
-  {
-    "id": "hm0Ppv7uzKw",
-    "title": "口元のたるみは首にしまい込む｜整形級3STEP・手だけ10分【50代】",
-    "channelId": "UCN5oyGuHgVAfWEacZaH-mpg",
-    "channelTitle": "シワたるみ専門【48歳からの】自力整形チャンネル〜何歳からでも顔は変えられる〜",
-    "thumbnailUrl": "https://i.ytimg.com/vi/hm0Ppv7uzKw/hqdefault.jpg"
-  },
-  {
-    "id": "-U82ITnGnHs",
-    "title": "【入れて押すだけ】ヘルシオ ホットクック最新モデルを徹底解説｜ほったらかしで夕飯が完成する4つの理由と正直なデメリット",
-    "channelId": "UCFYuH5_x5x_VLDx--MWIhyg",
-    "channelTitle": "家電生活",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-U82ITnGnHs/hqdefault.jpg"
-  },
-  {
-    "id": "Y9qYcioNFio",
-    "title": "HUAKUA G3 安価なGPS内臓のスマートウォッチ",
-    "channelId": "UCLJEr7V0xoY0WWt1nA0XGqg",
-    "channelTitle": "akirakei7",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Y9qYcioNFio/hqdefault.jpg"
-  },
-  {
-    "id": "4KXsXa92h9A",
-    "title": "【気軽に天体写真始めよう】初心者オススメNo.1！スマート望遠鏡「DWARF mini」",
-    "channelId": "UCgEUVByxen4nCBaWjwY6Q4w",
-    "channelTitle": "Hiroyuki Narisawa Timelapse Film",
-    "thumbnailUrl": "https://i.ytimg.com/vi/4KXsXa92h9A/hqdefault.jpg"
-  },
-  {
-    "id": "Fm3l6yYhxyM",
-    "title": "【正直レビュー】KAMRUI K1 ミニPC｜Ryzen 7 7730Uの中身は5825U？分解・PTM7950交換まで",
-    "channelId": "UCgKcXSe7cgZd7GUTLcxjOwA",
-    "channelTitle": "セリングポイント",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Fm3l6yYhxyM/hqdefault.jpg"
-  },
-  {
-    "id": "gwrSsctZXOg",
-    "title": "【50代ぼっち田舎暮らしVlog】長い仕事の終わりと、お裾分けの黒枝豆に乾杯｜丹波篠山",
-    "channelId": "UChWEdgNjGYOgQ9qpW8_0fYA",
-    "channelTitle": "ササチャンネル【ぼっちおじさんの田舎暮らし】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/gwrSsctZXOg/hqdefault.jpg"
-  },
-  {
-    "id": "x_29opdnL64",
-    "title": "3Dプリンターで、暮らしを少し豊かにする｜キッチン収納",
-    "channelId": "UCDNn-VcKJZ_lso5FOuHhqzw",
-    "channelTitle": "島のおばあちゃんちで暮らす-Island Slow Life-",
-    "thumbnailUrl": "https://i.ytimg.com/vi/x_29opdnL64/hqdefault.jpg"
-  },
-  {
-    "id": "FAcQV34BnZ4",
-    "title": "撮影現場にコンセントを持ち歩く。VOLTRABLE WANDER-150レビュー｜小型ポータブル電源",
-    "channelId": "UCVmsq-ALcgAeonoUCvDXOwg",
-    "channelTitle": "Koki Okamoto /  岡本 航輝　映像と写真を撮る人",
-    "thumbnailUrl": "https://i.ytimg.com/vi/FAcQV34BnZ4/hqdefault.jpg"
-  },
-  {
-    "id": "miwUlSuT1Ck",
-    "title": "ガンプラにも👍スパイク尖らせ量産方法と強度アップ　ダンボール戦機 【ガンプラ】LBX　百均　複製　UVレジン",
-    "channelId": "UC2-W_pj9v3eyxEVtz0_IJXA",
-    "channelTitle": "ロボプラちゃんねる@まこアニキ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/miwUlSuT1Ck/hqdefault.jpg"
   }
 ]
