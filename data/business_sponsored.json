@@ -42,18 +42,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/ochaabVEAug/hqdefault.jpg"
   },
   {
-    "id": "8RmxpB9thuQ",
-    "title": "「英会話教室で伸びない」を解決！1年で英検®3級レベルになった小4息子の学習法",
-    "channelId": "UCUnQhjji4LCyl_FrI_c-Lig",
-    "channelTitle": "こども英語ガイド",
-    "thumbnailUrl": "https://i.ytimg.com/vi/8RmxpB9thuQ/hqdefault.jpg"
-  },
-  {
     "id": "MRMqvMaOqI0",
     "title": "【絶望】クジラにのみ込まれるとどうなるのか？",
     "channelId": "UCPKsFwt9ACF-EnJM3xN8wyQ",
     "channelTitle": "VAIENCE バイエンス",
     "thumbnailUrl": "https://i.ytimg.com/vi/MRMqvMaOqI0/hqdefault.jpg"
+  },
+  {
+    "id": "8RmxpB9thuQ",
+    "title": "「英会話教室で伸びない」を解決！1年で英検®3級レベルになった小4息子の学習法",
+    "channelId": "UCUnQhjji4LCyl_FrI_c-Lig",
+    "channelTitle": "こども英語ガイド",
+    "thumbnailUrl": "https://i.ytimg.com/vi/8RmxpB9thuQ/hqdefault.jpg"
   },
   {
     "id": "txy3TXzDypA",
@@ -203,13 +203,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/OsFiPPHlKic/hqdefault.jpg"
   },
   {
-    "id": "kYnbFrJSNvI",
-    "title": "「Genspark」でチャットもスライドもExcelも議事録も！AI機能が一通り使えるオールインワンAIワークスペース【実演解説】",
-    "channelId": "UCy5cpoeTKqZ2cDzWX8NB3Gg",
-    "channelTitle": "業務効率化のちゃんりょう【作品配布】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/kYnbFrJSNvI/hqdefault.jpg"
-  },
-  {
     "id": "5XqYrPvpF7w",
     "title": "【産官学民連携の現実】「技術は凄いのに売れない」産官学民のコラボが途中で頓挫する理由",
     "channelId": "UChvHbEnEHJyBQdvEKI6VE4Q",
@@ -238,11 +231,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/BqYX-LuNgog/hqdefault.jpg"
   },
   {
-    "id": "h-3hg-S1CBQ",
-    "title": "『教導隊』74式戦車で戦車戦！【WarThunder実況】",
-    "channelId": "UCDT3-Mi-TdKjP4Q5obOzBqw",
-    "channelTitle": "るみねあ | ミリタリー探究部",
-    "thumbnailUrl": "https://i.ytimg.com/vi/h-3hg-S1CBQ/hqdefault.jpg"
+    "id": "SkEDHsaGk7c",
+    "title": "【完全ガイド】AIっぽさを消す、リアルなCM動画の作り方（Lumina AIで制作）",
+    "channelId": "UCgwv7JsLDvGTtRdFI4TVRQw",
+    "channelTitle": "ハム先生のAI教室【AI動画の実務活用】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SkEDHsaGk7c/hqdefault.jpg"
   },
   {
     "id": "EMrCxhmpEAM",
@@ -266,13 +259,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/8I73ywtFiKo/hqdefault.jpg"
   },
   {
-    "id": "SkEDHsaGk7c",
-    "title": "【完全ガイド】AIっぽさを消す、リアルなCM動画の作り方（Lumina AIで制作）",
-    "channelId": "UCgwv7JsLDvGTtRdFI4TVRQw",
-    "channelTitle": "ハム先生のAI教室【AI動画の実務活用】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/SkEDHsaGk7c/hqdefault.jpg"
-  },
-  {
     "id": "6VuyzpPAQKc",
     "title": "【瀧本監修】男性が“自分のために使いたくなる”潤滑ゼリー『One』がついに完成",
     "channelId": "UCSBMQycqu57YO_pDInNhU3A",
@@ -287,18 +273,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/mrZO3RgiZhs/hqdefault.jpg"
   },
   {
-    "id": "CAc3gSRWUC0",
-    "title": "【天皇陛下】は泣くほど辛い？今こそ見直したい天皇を「先代旧事本紀」の研究者が解説！",
-    "channelId": "UCkt0i5wCfd6wvHzo8xBaoiQ",
-    "channelTitle": "神主チャンネル / 後藤隆",
-    "thumbnailUrl": "https://i.ytimg.com/vi/CAc3gSRWUC0/hqdefault.jpg"
-  },
-  {
     "id": "2O55C5ShYPA",
     "title": "【9割が知らない】毎日プロテインを飲む人が『肝臓』を守るべき理由",
     "channelId": "UCrxyF4F-ComNkP_1laEsRBw",
     "channelTitle": "論文で解決 ~筋肉と栄養を科学する~",
     "thumbnailUrl": "https://i.ytimg.com/vi/2O55C5ShYPA/hqdefault.jpg"
+  },
+  {
+    "id": "CAc3gSRWUC0",
+    "title": "【天皇陛下】は泣くほど辛い？今こそ見直したい天皇を「先代旧事本紀」の研究者が解説！",
+    "channelId": "UCkt0i5wCfd6wvHzo8xBaoiQ",
+    "channelTitle": "神主チャンネル / 後藤隆",
+    "thumbnailUrl": "https://i.ytimg.com/vi/CAc3gSRWUC0/hqdefault.jpg"
   },
   {
     "id": "7byF0aQx0_4",
@@ -343,11 +329,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/I2aw-8S_1j8/hqdefault.jpg"
   },
   {
-    "id": "q0IMJI6emLE",
-    "title": "結局、日本語は乱れているのか？",
+    "id": "FupSOv6MYjU",
+    "title": "魚の生態が災害で分かった。どういうこと？",
     "channelId": "UCmpkIzF3xFzhPez7gXOyhVg",
     "channelTitle": "ゆる言語学ラジオ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/q0IMJI6emLE/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/FupSOv6MYjU/hqdefault.jpg"
   },
   {
     "id": "kSNqjlioJAU",
@@ -413,13 +399,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/wJcewGQklgE/hqdefault.jpg"
   },
   {
-    "id": "PpJPEp14fE0",
-    "title": "ガイドブックに載らない、イギリスで注意すべきな10のことをお話しします",
-    "channelId": "UCzT0pl10sMRKU5ZSWdf2DZg",
-    "channelTitle": "まりんぬ - どニッチなVlog",
-    "thumbnailUrl": "https://i.ytimg.com/vi/PpJPEp14fE0/hqdefault.jpg"
-  },
-  {
     "id": "KdzqGvuqwdo",
     "title": "【口座放置は大損】ゆうちょ金利激変！後悔する「通帳の見直し」と「老後資金の預け方」【ゆうちょ銀行】",
     "channelId": "UCR2K_FLcynznvGGicETF2uQ",
@@ -467,6 +446,83 @@
     "channelId": "UC6pDJs3tlf2iw-t4JaG7Qsg",
     "channelTitle": "ゆる民俗学ラジオ",
     "thumbnailUrl": "https://i.ytimg.com/vi/0z91Gp-V8fE/hqdefault.jpg"
+  },
+  {
+    "id": "Qm5fg4KM0AA",
+    "title": "【2026年決定版】受験に直結する最高の学習まんがシリーズを紹介",
+    "channelId": "UCLMmcT54e-pAIg80atX440g",
+    "channelTitle": "にしむら先生 受験指導専門家",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Qm5fg4KM0AA/hqdefault.jpg"
+  },
+  {
+    "id": "85J_ZExggZ8",
+    "title": "入試国語のことわざ・慣用句問題で100%正解する3段階アルゴリズム",
+    "channelId": "UCINObKHloPviZ7Xjn2scONQ",
+    "channelTitle": "スタディラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/85J_ZExggZ8/hqdefault.jpg"
+  },
+  {
+    "id": "MiQfauZpDhw",
+    "title": "【衝撃】なぜ仏教は「哲学」から「宗教」へ変わったのか？仏像誕生に隠された謎【仏教超入門】",
+    "channelId": "UCIoXI81ncjMklYvWxxfChFQ",
+    "channelTitle": "美術史オタクの日常チャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MiQfauZpDhw/hqdefault.jpg"
+  },
+  {
+    "id": "sCHaDxGJc_A",
+    "title": "Kling 4.0 を Higgsfield で試す！！絵コンテ7枚から、AIで「一生」を30秒・1カットで作ってみた",
+    "channelId": "UCgjlk3wAcpak2g6pk2qE-Hw",
+    "channelTitle": "Masayume",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sCHaDxGJc_A/hqdefault.jpg"
+  },
+  {
+    "id": "0PQdOYngQZY",
+    "title": "画像10枚をつないで、30秒ワンカットで作れる動画生成AI【Kling 4.0】",
+    "channelId": "UCGi4uXEpEDbCZSsI_eF0RCA",
+    "channelTitle": "HIROCODE.ヒロコード",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0PQdOYngQZY/hqdefault.jpg"
+  },
+  {
+    "id": "_CqMaoXclK0",
+    "title": "JCBゴールドの隠れ特典｜高級ホテルの上級会員（HoteLux Elite）に毎年無料でなれる方法【宿泊クーポン年1万円分】",
+    "channelId": "UCZMYt4kGef3DAVk7uufHoqA",
+    "channelTitle": "のりお【ポイントで家族旅行 年3回】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_CqMaoXclK0/hqdefault.jpg"
+  },
+  {
+    "id": "HXuM_KcqRLY",
+    "title": "お酒を飲まないのに脂肪肝！９割が知らない脂肪肝の落とし穴と、治療法。",
+    "channelId": "UCsulu2ghMsPVFeI5yVcb6aQ",
+    "channelTitle": "ドクターハッシー/内科医 橋本将吉",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HXuM_KcqRLY/hqdefault.jpg"
+  },
+  {
+    "id": "gPjq5TimI8o",
+    "title": "【漫画】予約サイトで満席だった美容室が、3年で閉店した理由。同期の店との違いは「たった3つ」だった【閉店の分かれ道】",
+    "channelId": "UCJiqBsuwkQWrfp26EWZq-PA",
+    "channelTitle": "閉店の分かれ道",
+    "thumbnailUrl": "https://i.ytimg.com/vi/gPjq5TimI8o/hqdefault.jpg"
+  },
+  {
+    "id": "rtNAlDP1NwY",
+    "title": "【美容院代】節約中の一人暮らしでも削らない3つの理由と、苦しい月に削る順番を紹介！",
+    "channelId": "UCCW5KdSR2ijWeqkGfqD3yPQ",
+    "channelTitle": "損してますよ、先輩。",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rtNAlDP1NwY/hqdefault.jpg"
+  },
+  {
+    "id": "tCbFfT2sM5I",
+    "title": "【今週の答え】キオクシア「+0.8%」は控えめすぎる。好決算が全部売られた週の正体（10/31）",
+    "channelId": "UCoghqJXs23paszZumrhDGlA",
+    "channelTitle": "ゆきママ投資チャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tCbFfT2sM5I/hqdefault.jpg"
+  },
+  {
+    "id": "DMjZ-BRGdMQ",
+    "title": "【おはようFX】週間為替展望｜来週のドル円と注目イベントとポイント！",
+    "channelId": "UCNEK-USa_4pT06KSTOWHuUA",
+    "channelTitle": "としさんのおはようFX 24",
+    "thumbnailUrl": "https://i.ytimg.com/vi/DMjZ-BRGdMQ/hqdefault.jpg"
   },
   {
     "id": "OF6-xvlr0V8",
@@ -518,13 +574,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/RhXtEntGBMA/hqdefault.jpg"
   },
   {
-    "id": "MmUg-_-Ho8s",
-    "title": "【AI動画編集】撮影ゼロ・役者ゼロ。実写ドラマをチャットだけで作る方法【Anijam】",
-    "channelId": "UCgjlk3wAcpak2g6pk2qE-Hw",
-    "channelTitle": "Masayume",
-    "thumbnailUrl": "https://i.ytimg.com/vi/MmUg-_-Ho8s/hqdefault.jpg"
-  },
-  {
     "id": "dlP7irsZWno",
     "title": "【サイベックス開封】メリオカーボン組み立てレビュー！リベルとの違い＆感動した神ポイント5選",
     "channelId": "UClTyu1Z3B60zS6dVROAVA9g",
@@ -532,25 +581,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/dlP7irsZWno/hqdefault.jpg"
   },
   {
-    "id": "fFRYLUn-I4Y",
-    "title": "【漫画】口コミ★4.6の人気カフェが、開業2年で閉店した理由。分かれ道は「Googleマップの3つの設定」だった【閉店の分かれ道】",
-    "channelId": "UCJiqBsuwkQWrfp26EWZq-PA",
-    "channelTitle": "閉店の分かれ道",
-    "thumbnailUrl": "https://i.ytimg.com/vi/fFRYLUn-I4Y/hqdefault.jpg"
-  },
-  {
     "id": "ge9VRVkGRGw",
     "title": "ユーロ円EAを22年バックテスト｜残高で倍率を上げる「段階ランプ」とは？ DX_γ（FX自動売買）",
     "channelId": "UCyOsm9t1Rs9TimKJf3pr7tw",
     "channelTitle": "ポンコツEA | FX自動売買",
     "thumbnailUrl": "https://i.ytimg.com/vi/ge9VRVkGRGw/hqdefault.jpg"
-  },
-  {
-    "id": "X4htHjh-PkI",
-    "title": "【節約】財布が空なのは、飲み会のせいじゃない。二次会から先の行動で増える無駄遣いの止め方",
-    "channelId": "UCCW5KdSR2ijWeqkGfqD3yPQ",
-    "channelTitle": "損してますよ、先輩。",
-    "thumbnailUrl": "https://i.ytimg.com/vi/X4htHjh-PkI/hqdefault.jpg"
   },
   {
     "id": "tNeuGs6aG-o",
@@ -561,7 +596,7 @@
   },
   {
     "id": "rsZot0Th1aw",
-    "title": "社会人のための漢検戦略ガイド｜社会人が今あえて漢検に挑戦するべき理由を解説。漢字学習を通じて自身の可能性を広げ、目標達成への努力を証明する方法を学びましょう！",
+    "title": "社会人のための漢字検定 戦略ガイド｜社会人が今あえて漢検に挑戦するべき理由を解説。漢字学習を通じて自身の可能性を広げ、目標達成への努力を証明する方法を学びましょう！",
     "channelId": "UCdM1Gff8Px6VCPB5NpICJmQ",
     "channelTitle": "Gokaku Note〜キャリアを加速させる達成ガイド",
     "thumbnailUrl": "https://i.ytimg.com/vi/rsZot0Th1aw/hqdefault.jpg"
@@ -588,27 +623,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/veCWjq1gqtI/hqdefault.jpg"
   },
   {
-    "id": "5ZlFPnTjkPM",
-    "title": "【検証】今使うべき動画生成AIモデルはこれ！8つの動画生成AIを比べてみた。",
-    "channelId": "UCGi4uXEpEDbCZSsI_eF0RCA",
-    "channelTitle": "HIROCODE.ヒロコード",
-    "thumbnailUrl": "https://i.ytimg.com/vi/5ZlFPnTjkPM/hqdefault.jpg"
-  },
-  {
-    "id": "Hyr8994Inec",
-    "title": "タオルの臭いが戻るしくみ 洗ったのに また出るのは",
-    "channelId": "UCoawL4gAHWuy4JRJ9xxNnJQ",
-    "channelTitle": "ニオイのつぶ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Hyr8994Inec/hqdefault.jpg"
-  },
-  {
-    "id": "5QHpyHEnaGM",
-    "title": "会社のボーナスが思ったより少ない人へ 2か月分は何の月給の2か月か",
-    "channelId": "UCQ3tEQuyNahvD5QAhsFG7dg",
-    "channelTitle": "転職まえの宿",
-    "thumbnailUrl": "https://i.ytimg.com/vi/5QHpyHEnaGM/hqdefault.jpg"
-  },
-  {
     "id": "JND6hcRKbjk",
     "title": "【AI本質調律】明日人生の寿命が来ても幸せな気持ちでいられるには？",
     "channelId": "UCDb38T52yVh5U9MUOYMi7NQ",
@@ -621,40 +635,5 @@
     "channelId": "UCBqTwKGyWZQcsuiia7mOFBA",
     "channelTitle": "Audio Survival",
     "thumbnailUrl": "https://i.ytimg.com/vi/-V5Rs2yu9Is/hqdefault.jpg"
-  },
-  {
-    "id": "KIfo3YgwXc0",
-    "title": "【今年の宅建で出た賃管士の知識】建物の基礎は必ずおさえて！布基礎、ベタ基礎、杭基礎の違いを初心者向けに解説講義。みんなが欲しかった賃貸不動産経営管理士の教科書コラボ。",
-    "channelId": "UC8geVeG6TS8pLizYQf84LGg",
-    "channelTitle": "【不動産大学2nd】 賃貸不動産経営管理士部by棚田行政書士",
-    "thumbnailUrl": "https://i.ytimg.com/vi/KIfo3YgwXc0/hqdefault.jpg"
-  },
-  {
-    "id": "3MM0JR9mF-Y",
-    "title": "【日本語吹替】18年前に捨てられた少年が、家族の運命を賭けた闘技場へ｜1〜8話一気見",
-    "channelId": "UCD5YoPZhpRUIV3UGV5qCw7Q",
-    "channelTitle": "东北老赵闯东京",
-    "thumbnailUrl": "https://i.ytimg.com/vi/3MM0JR9mF-Y/hqdefault.jpg"
-  },
-  {
-    "id": "_p27-B_0aa0",
-    "title": "【信長が見た京都】戦国時代の町並みを再現|洛中洛外図屏風の世界を歩く",
-    "channelId": "UCyCkA3edHuVARfj3ngM8qcA",
-    "channelTitle": "3D日本史探訪チャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/_p27-B_0aa0/hqdefault.jpg"
-  },
-  {
-    "id": "nPaT61IWVCM",
-    "title": "⁺˖⟡勉強に集中する方法⟡˖⁺ 集中力がない私がやってよかった7つのこと￤音楽を聴くのはNG？",
-    "channelId": "UC8bYr2jBzlp0HG1z4llrNGQ",
-    "channelTitle": "みおりんカフェ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/nPaT61IWVCM/hqdefault.jpg"
-  },
-  {
-    "id": "-l-r2sLlsAg",
-    "title": "「海外では禁止」の添加物、日本にいくつある？ 783品目をEU・アメリカの基準と全部並べてみた",
-    "channelId": "UCW8Xz8C_5q1ZR5gbV3h5Q3g",
-    "channelTitle": "ウラヨミ - 原材料を、ぜんぶ読む。",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-l-r2sLlsAg/hqdefault.jpg"
   }
 ]
