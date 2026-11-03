@@ -35,18 +35,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/d0Mj34CDj4Y/hqdefault.jpg"
   },
   {
-    "id": "w0TYZt-sqDY",
-    "title": "【Hi3D】オールインワンAI 3Dエージェント Hi3D Agent に変形ロボをつくってもらった",
-    "channelId": "UC8ukKa4PPh0p6I2haaw5-5w",
-    "channelTitle": "HomeMadeGarbage",
-    "thumbnailUrl": "https://i.ytimg.com/vi/w0TYZt-sqDY/hqdefault.jpg"
-  },
-  {
     "id": "RWaeev5c0TA",
     "title": "【オリエント工業】ラブドール工場に潜入したら、リアルすぎる製造工程がヤバかった…",
     "channelId": "UCFTCm2HxYSkIjpbfxDDxtaA",
     "channelTitle": "100日後にラブドールになる女の子",
     "thumbnailUrl": "https://i.ytimg.com/vi/RWaeev5c0TA/hqdefault.jpg"
+  },
+  {
+    "id": "w0TYZt-sqDY",
+    "title": "【Hi3D】オールインワンAI 3Dエージェント Hi3D Agent に変形ロボをつくってもらった",
+    "channelId": "UC8ukKa4PPh0p6I2haaw5-5w",
+    "channelTitle": "HomeMadeGarbage",
+    "thumbnailUrl": "https://i.ytimg.com/vi/w0TYZt-sqDY/hqdefault.jpg"
   },
   {
     "id": "BF7FLVpnO3k",
@@ -91,6 +91,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/yZVThMp10tc/hqdefault.jpg"
   },
   {
+    "id": "2OxYBKwylRI",
+    "title": "「人間にしか出せない価値」を考えるのはもうやめよう。AI技術者が語る、AI時代にエンジニアが問うべきこと",
+    "channelId": "UCAPB934p12WBmS4XcDBMzXw",
+    "channelTitle": "エンジニアtype",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
+  },
+  {
     "id": "lQJ4zcmKOs4",
     "title": "【GetMax G12レビュー】2026 Android TV BOX 気になるコンテンツや使い勝手は？メリット・デメリットを完全解説！",
     "channelId": "UCeXBrrbaYBFjlMuMummr-_Q",
@@ -103,13 +110,6 @@
     "channelId": "UCq_NpFkLNLRFlJRWwNDTrMg",
     "channelTitle": "ゆっくりでぃすこ",
     "thumbnailUrl": "https://i.ytimg.com/vi/QUyxhOM002w/hqdefault.jpg"
-  },
-  {
-    "id": "2OxYBKwylRI",
-    "title": "「人間にしか出せない価値」を考えるのはもうやめよう。AI技術者が語る、AI時代にエンジニアが問うべきこと",
-    "channelId": "UCAPB934p12WBmS4XcDBMzXw",
-    "channelTitle": "エンジニアtype",
-    "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
   },
   {
     "id": "O61niStfN10",
@@ -126,6 +126,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/nm0QmPBdSbM/hqdefault.jpg"
   },
   {
+    "id": "KuhierTAKkU",
+    "title": "iPhoneを超ダークモードに！Liquid Glassの設定方法（iOS 27）",
+    "channelId": "UCWZiY_PRgnvprjEwVz2Y7cQ",
+    "channelTitle": "ゴーテック JP",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KuhierTAKkU/hqdefault.jpg"
+  },
+  {
     "id": "E_pLY4CF8Pg",
     "title": "激安ミニPCの新定番!? N100から倍の性能になったCore 3 304搭載ミニPC「ACEMAGIC K5」を徹底レビュー！【ゆっくり解説】【Wildcat Lake】",
     "channelId": "UC5iCydERAlRw-kdz8d7zziw",
@@ -140,25 +147,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/jNetXeoZDPE/hqdefault.jpg"
   },
   {
-    "id": "yG67Lrhzxcs",
-    "title": "除草剤強力タッグ!「ザクサ」は速攻/「カーメックス」は長く効く",
-    "channelId": "UC1uVJSclfUKr6RNa5C5zluw",
-    "channelTitle": "科学的に楽しく自給自足ch",
-    "thumbnailUrl": "https://i.ytimg.com/vi/yG67Lrhzxcs/hqdefault.jpg"
-  },
-  {
-    "id": "KuhierTAKkU",
-    "title": "iPhoneを超ダークモードに！Liquid Glassの設定方法（iOS 27）",
-    "channelId": "UCWZiY_PRgnvprjEwVz2Y7cQ",
-    "channelTitle": "ゴーテック JP",
-    "thumbnailUrl": "https://i.ytimg.com/vi/KuhierTAKkU/hqdefault.jpg"
-  },
-  {
     "id": "tKCgab1Mcaw",
     "title": "【Hi3D】イラスト1枚が\"本物のフィギュア\"になる時代が来た!!【AI×3Dプリント】",
     "channelId": "UCRSbjYTGnSr_DbGq-gNhNOA",
     "channelTitle": "しぶちょー技術研究所 チャンネル",
     "thumbnailUrl": "https://i.ytimg.com/vi/tKCgab1Mcaw/hqdefault.jpg"
+  },
+  {
+    "id": "yG67Lrhzxcs",
+    "title": "除草剤強力タッグ!「ザクサ」は速攻/「カーメックス」は長く効く",
+    "channelId": "UC1uVJSclfUKr6RNa5C5zluw",
+    "channelTitle": "科学的に楽しく自給自足ch",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yG67Lrhzxcs/hqdefault.jpg"
   },
   {
     "id": "_kBoJ3ToLF4",
@@ -231,6 +231,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/3lF1xJ7h4iQ/hqdefault.jpg"
   },
   {
+    "id": "T6sX15vAVFc",
+    "title": "【売れる広告がこれ一本‼️】知識ゼロからでも秒で仕上がる「Flova AI」を徹底レビュー🤩✨",
+    "channelId": "UChvzq5HuFyEkLMECUMbDb6Q",
+    "channelTitle": "dLab channel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/T6sX15vAVFc/hqdefault.jpg"
+  },
+  {
     "id": "IeUV-Nm5_kU",
     "title": "1枚のSIMで設計・運用の「面倒」をゼロに。ソラコムが変える組み込みIoTの最前線【ソラコム／ワイヤレスジャパン×WTP】",
     "channelId": "UC1UsWsTaIPmca-Y7pvaRU1A",
@@ -250,13 +257,6 @@
     "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
     "channelTitle": "ガジェットモ",
     "thumbnailUrl": "https://i.ytimg.com/vi/_g-3xheBx6o/hqdefault.jpg"
-  },
-  {
-    "id": "tm3-rbWYgf0",
-    "title": "【面倒な手動調整にさよなら👋】パッと置いて電源を入れるだけ！完全自動補正プロジェクター「TCL A1s」を徹底レビュー！🎯✨",
-    "channelId": "UChvzq5HuFyEkLMECUMbDb6Q",
-    "channelTitle": "dLab channel",
-    "thumbnailUrl": "https://i.ytimg.com/vi/tm3-rbWYgf0/hqdefault.jpg"
   },
   {
     "id": "C4bVBTZrI8I",
@@ -308,6 +308,55 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/sr_YjKpWzwA/hqdefault.jpg"
   },
   {
+    "id": "pn37JvNvsVg",
+    "title": "【日立製作所】日立の根幹を担う制御システム分野で働く！現場社員によるパネルトーク／配信イベントアーカイブ映像",
+    "channelId": "UCbXiGm29TDg_oPNARrx941A",
+    "channelTitle": "talentbook /タレントブック",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pn37JvNvsVg/hqdefault.jpg"
+  },
+  {
+    "id": "0TATsl545lk",
+    "title": "【ビットコイン分析】米中間選挙で難しい相場｜200期間平均線を根拠に収益を狙う！！",
+    "channelId": "UCW2BcOkvFowIF6N8H4-eQDQ",
+    "channelTitle": "ビットコイントレードルーム",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0TATsl545lk/hqdefault.jpg"
+  },
+  {
+    "id": "3E6O02MXqMM",
+    "title": "Museの始め方｜4つのAIを束ねる「司令塔」運用術と正直なメリットデメリット",
+    "channelId": "UCF3trEEzxZYTl38eMlJ3Alw",
+    "channelTitle": "解説めたんのAI研究室",
+    "thumbnailUrl": "https://i.ytimg.com/vi/3E6O02MXqMM/hqdefault.jpg"
+  },
+  {
+    "id": "UDnAmgHSFsc",
+    "title": "新世代のミニPC入門機　Wildcat Lake搭載NiPoGi P2 304を実機レビュー！",
+    "channelId": "UCvQOT2DfQEfUSgc6nZuX68A",
+    "channelTitle": "miniPCfunnel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UDnAmgHSFsc/hqdefault.jpg"
+  },
+  {
+    "id": "eMhBhKwwWzA",
+    "title": "【電工工具】検電ドライバーだと思ってたら、ずいぶん便利な道具だった#KAIWEETS",
+    "channelId": "UCsmmxf3gjs8AvKHlNNu3YBw",
+    "channelTitle": "おず家の道具箱",
+    "thumbnailUrl": "https://i.ytimg.com/vi/eMhBhKwwWzA/hqdefault.jpg"
+  },
+  {
+    "id": "6EotH-pL3JY",
+    "title": "AIバブル崩壊×ホワイトカラー大量失職：世界経済と一般家庭に何が起きるのか？｜2026年11月2日",
+    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
+    "channelTitle": "sonnet soneo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6EotH-pL3JY/hqdefault.jpg"
+  },
+  {
+    "id": "6hIfVhDPn10",
+    "title": "複数のAI、複数のセッションを手打ちで管理している人へ【VoiceOS】",
+    "channelId": "UCrpJWCdK_UUTKhC1-jGOFKQ",
+    "channelTitle": "AI時短ラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6hIfVhDPn10/hqdefault.jpg"
+  },
+  {
     "id": "NSp_rityp1E",
     "title": "18.5Vバッテリー2個付き！最強コスパの強力ブロワーをレビュー【Benosu】",
     "channelId": "UCbjxbFigxYj56y9o9HnR0wA",
@@ -329,6 +378,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/mB5GRN3LPxQ/hqdefault.jpg"
   },
   {
+    "id": "302MSJy4JZc",
+    "title": "【自動化】Claude Codeで作ったおばあちゃん風ゲームを、AIに自動プレイさせてみた【Higgsfield】",
+    "channelId": "UCY8AEzrT6OP9dMSWXl2TPCA",
+    "channelTitle": "ヒロキ@AI副業の真実【45歳のリアル】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/302MSJy4JZc/hqdefault.jpg"
+  },
+  {
     "id": "tvWJq1LcRkY",
     "title": "AIが論文を読み、自分を進化させ始めた？｜自己改良AIが変える私たちの未来",
     "channelId": "UCAkar03qzukYgw8aGddfqIg",
@@ -341,13 +397,6 @@
     "channelId": "UC9Q7NysEGSjiEBgBBBxvq6Q",
     "channelTitle": "GamsGoガイド",
     "thumbnailUrl": "https://i.ytimg.com/vi/s24LUTJllYU/hqdefault.jpg"
-  },
-  {
-    "id": "NmVqfmsJXUk",
-    "title": "米国がロボット輸入を安全保障問題に――日本企業を左右する232条とFCCの違い",
-    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
-    "channelTitle": "sonnet soneo",
-    "thumbnailUrl": "https://i.ytimg.com/vi/NmVqfmsJXUk/hqdefault.jpg"
   },
   {
     "id": "JikHgpek6YE",
@@ -364,13 +413,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/Ch55EWQse8E/hqdefault.jpg"
   },
   {
-    "id": "LY6H6Sxya8E",
-    "title": "【石油ファンヒーターの選び方】何畳用？カタログの「kW」「L/h」「燃焼継続時間」の読み方｜ダイニチ・コロナ・トヨトミ",
-    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
-    "channelTitle": "買う前の分解図",
-    "thumbnailUrl": "https://i.ytimg.com/vi/LY6H6Sxya8E/hqdefault.jpg"
-  },
-  {
     "id": "Q1_gNK-Osg4",
     "title": "最強の動画AIはどれ？Kling 4.0・Seedance 2.5ほか8モデルを同じプロンプトで比較【Higgsfield】",
     "channelId": "UC7upn9AAaYzLs_3G-0gbcoA",
@@ -383,13 +425,6 @@
     "channelId": "UClRQ_q3uE62Ixlx-8gYCsAw",
     "channelTitle": "クロノITチャンネル",
     "thumbnailUrl": "https://i.ytimg.com/vi/-xI6wvS0Bpk/hqdefault.jpg"
-  },
-  {
-    "id": "wfYnsQqeXJo",
-    "title": "【全部入り】240Hzモニターもマウスもキーボードも付いて31万円！初ゲーミングPCにこのセットはアリなのか？【NEXTGEAR JG-A7A6X】",
-    "channelId": "UCa-zzjBBzmTanh4CDIkKuLw",
-    "channelTitle": "モニ研 / Monitor lab.",
-    "thumbnailUrl": "https://i.ytimg.com/vi/wfYnsQqeXJo/hqdefault.jpg"
   },
   {
     "id": "GpltGhkHCpE",
@@ -420,13 +455,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/LFVhccJS0HI/hqdefault.jpg"
   },
   {
-    "id": "urnFEzGqMxs",
-    "title": "AI動画生成9モデルを徹底比較！結局どれが一番使える？",
-    "channelId": "UCV-NtotUZHUn1ydc0e-3JFA",
-    "channelTitle": "AIクリエイターの学校 TECH STADIUM",
-    "thumbnailUrl": "https://i.ytimg.com/vi/urnFEzGqMxs/hqdefault.jpg"
-  },
-  {
     "id": "GJf9CAj9xjY",
     "title": "【物理エンジン】ケンタウロスが実際にいたら腰痛持ちっぽい【Tripo 3D】",
     "channelId": "UCF3aLNuT8tISuqeNnLbN8AA",
@@ -439,26 +467,5 @@
     "channelId": "UCuLp98a3CrHwPEfOcDoUyvw",
     "channelTitle": "モバっと!ちゃんねる",
     "thumbnailUrl": "https://i.ytimg.com/vi/wyOO1NyQlQA/hqdefault.jpg"
-  },
-  {
-    "id": "W1iyTAlfLKM",
-    "title": "【NEC金融部門】なぜ転職先にNECを選んだ？キャリア入社3名が語る入社後のリアル",
-    "channelId": "UCbXiGm29TDg_oPNARrx941A",
-    "channelTitle": "talentbook /タレントブック",
-    "thumbnailUrl": "https://i.ytimg.com/vi/W1iyTAlfLKM/hqdefault.jpg"
-  },
-  {
-    "id": "r6_eTOUllPA",
-    "title": "Claude Code・Codexの『確認』が追いつかない ── KosukeのQAを…",
-    "channelId": "UCuO_HCuBEM6v3wrko3Iu8Hw",
-    "channelTitle": "Sura×Asura For AI Agent",
-    "thumbnailUrl": "https://i.ytimg.com/vi/r6_eTOUllPA/hqdefault.jpg"
-  },
-  {
-    "id": "zIGOZCSrdEY",
-    "title": "【新型】Liberty史上最小・最軽量の「Anker LibertyBuds 2」をレビュー！",
-    "channelId": "UCY57OrR5CWVgyJav7UZ5XEg",
-    "channelTitle": "きすけ / ガジェットの本音",
-    "thumbnailUrl": "https://i.ytimg.com/vi/zIGOZCSrdEY/hqdefault.jpg"
   }
 ]
