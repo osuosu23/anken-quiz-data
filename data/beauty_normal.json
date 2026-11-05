@@ -42,18 +42,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/Ul4M8P-Gdos/hqdefault.jpg"
   },
   {
-    "id": "9h5LbwBmPYQ",
-    "title": "【警告】母が気づかず設定していました…LINEの誤操作で高額請求の危険があります。今すぐここをオフに！",
-    "channelId": "UCiTFHLNaMA9jZKyyHT7TRjw",
-    "channelTitle": "まいの安心スマホ教室",
-    "thumbnailUrl": "https://i.ytimg.com/vi/9h5LbwBmPYQ/hqdefault.jpg"
-  },
-  {
     "id": "j0RnBN3O5Kw",
     "title": "【警告】今すぐゴミ箱に捨てて！100均で絶対に買ってはいけない危険な商品10選",
     "channelId": "UCdjTbRrLiV3AS_zpJMcIaAA",
     "channelTitle": "みんなの無添加生活",
     "thumbnailUrl": "https://i.ytimg.com/vi/j0RnBN3O5Kw/hqdefault.jpg"
+  },
+  {
+    "id": "9h5LbwBmPYQ",
+    "title": "【警告】母が気づかず設定していました…LINEの誤操作で高額請求の危険があります。今すぐここをオフに！",
+    "channelId": "UCiTFHLNaMA9jZKyyHT7TRjw",
+    "channelTitle": "まいの安心スマホ教室",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9h5LbwBmPYQ/hqdefault.jpg"
   },
   {
     "id": "cVrLaBYjth0",
@@ -147,18 +147,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/GQwEnZBrguo/hqdefault.jpg"
   },
   {
+    "id": "CDC2meTX6ZU",
+    "title": "【反則級】寝る前に「潜在意識に質問」して寝るだけで勝手に人生は好転！インキュベーション効果でなんでも叶う裏技!【潜在意識・引き寄せ】",
+    "channelId": "UCY1eaC-ewZUgf40g1eY_L_g",
+    "channelTitle": "椎原崇・伝説のコンサルタント",
+    "thumbnailUrl": "https://i.ytimg.com/vi/CDC2meTX6ZU/hqdefault.jpg"
+  },
+  {
     "id": "X9GYlRERAB8",
     "title": "おにぎりサイズの「冷凍ミニ弁当」が超便利！休日にまとめて作り置き",
     "channelId": "UCyZIMRRO3VhVhgxfW9M3mxA",
     "channelTitle": "りょこkitchen",
     "thumbnailUrl": "https://i.ytimg.com/vi/X9GYlRERAB8/hqdefault.jpg"
-  },
-  {
-    "id": "H8wgJMYwy1c",
-    "title": "田舎で1万歩歩いたら、歩けない人の気持ちがわかりました",
-    "channelId": "UCGvRIuZH1C6_-p3qsNR2I-g",
-    "channelTitle": "片倉岳人/ダイエットの知恵袋",
-    "thumbnailUrl": "https://i.ytimg.com/vi/H8wgJMYwy1c/hqdefault.jpg"
   },
   {
     "id": "u2AibdxiAm8",
@@ -187,13 +187,6 @@
     "channelId": "UCHTAtqhbj8kqAHvE2gJmFIg",
     "channelTitle": "来島美幸の婚活チャンネル",
     "thumbnailUrl": "https://i.ytimg.com/vi/kFVGYOypQt0/hqdefault.jpg"
-  },
-  {
-    "id": "Ip45UzCHeJE",
-    "title": "【切って混ぜるだけ】野菜を食べる万能常備菜。内臓脂肪減少・腸活・高血圧・生活習慣病・コレステロールにも◎",
-    "channelId": "UCGkruhvuRDP8x3Ddb189wRw",
-    "channelTitle": "糖質オフ専門・いずみの太らない食生活",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Ip45UzCHeJE/hqdefault.jpg"
   },
   {
     "id": "5QoCMrwBVUM",
@@ -231,18 +224,25 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/rW74Km3ClQE/hqdefault.jpg"
   },
   {
-    "id": "7mSUeCtMPLQ",
-    "title": "【ASMR】ろうそく1回から10回を聞き比べ🥴✨パキパキバタースクイーズで音フェチやってみた！🧈【音フェチ】",
-    "channelId": "UCYnPDrzTc_r7a3tk1PaDU2A",
-    "channelTitle": "のってん",
-    "thumbnailUrl": "https://i.ytimg.com/vi/7mSUeCtMPLQ/hqdefault.jpg"
-  },
-  {
     "id": "kwUIsy6FAEE",
     "title": "【心理学】一日中家から出ない人の「恐ろしい特徴」｜何もしない一日に、脳が取り戻しているもの",
     "channelId": "UCKl14Mw0EmMleo1TQV4ue-g",
     "channelTitle": "ひととき心理学",
     "thumbnailUrl": "https://i.ytimg.com/vi/kwUIsy6FAEE/hqdefault.jpg"
+  },
+  {
+    "id": "-qamuecsUCA",
+    "title": "【知らないと損】65歳以上で働く人だけが受けられる特典とは？／老後の手取りが大きく変わる5つの優遇制度",
+    "channelId": "UCY_Xgod2xaEYWtsUZoKHA3w",
+    "channelTitle": "おかまもch | おかんのお金守るチャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-qamuecsUCA/hqdefault.jpg"
+  },
+  {
+    "id": "7mSUeCtMPLQ",
+    "title": "【ASMR】ろうそく1回から10回を聞き比べ🥴✨パキパキバタースクイーズで音フェチやってみた！🧈【音フェチ】",
+    "channelId": "UCYnPDrzTc_r7a3tk1PaDU2A",
+    "channelTitle": "のってん",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7mSUeCtMPLQ/hqdefault.jpg"
   },
   {
     "id": "d3fyuINhMxA",
@@ -280,13 +280,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/eh8XPfKjyM8/hqdefault.jpg"
   },
   {
-    "id": "Fk0YbwxODrg",
-    "title": "【DIY】押し入れをウォークインクローゼットにする方法｜1畳にドレッサー付き収納を作るまでの全工程ダイジェスト",
-    "channelId": "UCIcxnRlkmxQTZWCLlpuNTxQ",
-    "channelTitle": "サクッとDIY",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Fk0YbwxODrg/hqdefault.jpg"
-  },
-  {
     "id": "_azMNNtB8m4",
     "title": "料理人が教える！カリサクでジュワ！唐揚げは塩が旨い！【塩旨 唐揚げ！】 調味料２つで驚くほど美味しくなる！",
     "channelId": "UCKT81D8n9qBvGMF6ag5VZEA",
@@ -299,13 +292,6 @@
     "channelId": "UCpCesuCH4UxIcy65gSrC0Pw",
     "channelTitle": "チョコレートプラネット チャンネル",
     "thumbnailUrl": "https://i.ytimg.com/vi/TnhhK27GTLo/hqdefault.jpg"
-  },
-  {
-    "id": "9TRB9JzIb3U",
-    "title": "【拭く活】捨て活のその先へ。掃除嫌いが30日で気づいた3つの変化",
-    "channelId": "UCvYfv1LOB8mr99R7GDunj2g",
-    "channelTitle": "【捨て活】ミニマルライフに憧れお母ちゃん_ぽんマル_",
-    "thumbnailUrl": "https://i.ytimg.com/vi/9TRB9JzIb3U/hqdefault.jpg"
   },
   {
     "id": "8__dU_Hzo3A",
@@ -329,6 +315,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/yb35CLKB-Ro/hqdefault.jpg"
   },
   {
+    "id": "5LCbZcbi1Z0",
+    "title": "【超簡単】バンダナを折って縫うだけ！あっという間に出来ちゃうバッグの作り方",
+    "channelId": "UCNcfwqDBgB0v0CgN5D1kS6A",
+    "channelTitle": "みつまる工房　handmade布小物",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5LCbZcbi1Z0/hqdefault.jpg"
+  },
+  {
     "id": "K6KX41tLH2s",
     "title": "【ゆる解説】ループエンジニアリングって何？ / なぜ第一線のエンジニアが「プロンプトを書くな」と言っているのか / \"Human in the Loop\"から\"Human on the Loop\"へ",
     "channelId": "UCiMwbmcCSMORJ-85XWhStBw",
@@ -336,11 +329,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/K6KX41tLH2s/hqdefault.jpg"
   },
   {
-    "id": "5LCbZcbi1Z0",
-    "title": "【超簡単】バンダナを折って縫うだけ！あっという間に出来ちゃうバッグの作り方",
-    "channelId": "UCNcfwqDBgB0v0CgN5D1kS6A",
-    "channelTitle": "みつまる工房　handmade布小物",
-    "thumbnailUrl": "https://i.ytimg.com/vi/5LCbZcbi1Z0/hqdefault.jpg"
+    "id": "YFquRmDJ5uc",
+    "title": "【レンチン5分】アイラップとホットケーキミックスで作る！香り豊かな「アールグレイ蒸しパン」",
+    "channelId": "UCMnBuAldhRhhugPVQTKRAFA",
+    "channelTitle": "管理栄養士みほのズボラお家ごはん",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YFquRmDJ5uc/hqdefault.jpg"
   },
   {
     "id": "wHvB6_bvZVU",
@@ -357,18 +350,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/w-cB6THmp1g/hqdefault.jpg"
   },
   {
-    "id": "8du5hv200OU",
-    "title": "【プロが厳選】後悔しないベッドフレーム6選｜家具のプロが本音で解説〈前編〉",
-    "channelId": "UCcG3Ujxr9f15bQgaI0JAidg",
-    "channelTitle": "家具屋のやーちゃん",
-    "thumbnailUrl": "https://i.ytimg.com/vi/8du5hv200OU/hqdefault.jpg"
+    "id": "U00Fll2pkGw",
+    "title": "【悲報：個人事業主】株で儲けた翌年、国民健康保険が113万円になります【金融所得の落とし穴】",
+    "channelId": "UC8bE1G7fu7k9bW7EtqTP3Ng",
+    "channelTitle": "たなSHOW: お金と経営の学校【田中将太郎】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/U00Fll2pkGw/hqdefault.jpg"
   },
   {
-    "id": "YFquRmDJ5uc",
-    "title": "【レンチン5分】アイラップとホットケーキミックスで作る！香り豊かな「アールグレイ蒸しパン」",
-    "channelId": "UCMnBuAldhRhhugPVQTKRAFA",
-    "channelTitle": "管理栄養士みほのズボラお家ごはん",
-    "thumbnailUrl": "https://i.ytimg.com/vi/YFquRmDJ5uc/hqdefault.jpg"
+    "id": "rpjAQH53M7g",
+    "title": "捨てないで！！実はこんなに活用出来る！ 【空のスプレーボトル】捨てる前にこれを試して！掃除に使える意外な活用法　#おそうじダイアリー #ライフハック #掃除 #洗濯機 #機掃除",
+    "channelId": "UCdZRxldXsBBEJ93VX43-Bhg",
+    "channelTitle": "おそうじダイアリー",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rpjAQH53M7g/hqdefault.jpg"
   },
   {
     "id": "D6b51AyM3kU",
@@ -406,18 +399,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/MVQZipQy1F8/hqdefault.jpg"
   },
   {
+    "id": "aLDcImzn4_g",
+    "title": "お風呂掃除の答えは「塩素・アルカリ・酸」でした【平成水没ハウス㉞】",
+    "channelId": "UCvwq3Dh6t-TadXEDB3igd_w",
+    "channelTitle": "ひとりでできるマンDIY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/aLDcImzn4_g/hqdefault.jpg"
+  },
+  {
     "id": "sCHyPvZp7Pw",
     "title": "我が家のコロッケ",
     "channelId": "UCUUxKULnB5rfH-sRXH6I7QQ",
     "channelTitle": "タサン志麻",
     "thumbnailUrl": "https://i.ytimg.com/vi/sCHyPvZp7Pw/hqdefault.jpg"
-  },
-  {
-    "id": "Vh1nwHAioEQ",
-    "title": "床って塗れるの？テストが大事！空き家のフローリング塗り直し【平成水没ハウス㉚】",
-    "channelId": "UCvwq3Dh6t-TadXEDB3igd_w",
-    "channelTitle": "ひとりでできるマンDIY",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Vh1nwHAioEQ/hqdefault.jpg"
   },
   {
     "id": "FozEfjYzwzE",
@@ -455,297 +448,269 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/GHaB6dsBPEg/hqdefault.jpg"
   },
   {
-    "id": "dh5_PaNPgK8",
-    "title": "【神回】劇的にシャフトがしなる。型破りの打ち方を身につけてヘッドスピードが圧倒的に上がりました【ベスト61】",
-    "channelId": "UCNKkIjDmdsLflj4XaADf68Q",
-    "channelTitle": "にっぱち",
-    "thumbnailUrl": "https://i.ytimg.com/vi/dh5_PaNPgK8/hqdefault.jpg"
+    "id": "4UCFec1WHN0",
+    "title": "「これくらい我慢」はやめる",
+    "channelId": "UCZ7gXnvTBst6SZY_DU-M2Sw",
+    "channelTitle": "かぜたみラジオ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4UCFec1WHN0/hqdefault.jpg"
   },
   {
-    "id": "s2tFd--RTA4",
-    "title": "【休日乱高下】株のデイトレード予習ライブ",
-    "channelId": "UCzZc73wPjzMBLTXnOw582LA",
-    "channelTitle": "デイトレ塾 - Rょーへー",
-    "thumbnailUrl": "https://i.ytimg.com/vi/s2tFd--RTA4/hqdefault.jpg"
+    "id": "UM63_5TOW90",
+    "title": "【UV レジン】DIYでドライフラワーを使ってイヤリングを作りました〜♪ UV Resin -DIY Dried Flower in UV Resin Earring!!【426】",
+    "channelId": "UCepMaimXekIVmJPZoV_HeHg",
+    "channelTitle": "Krei Art Channel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UM63_5TOW90/hqdefault.jpg"
   },
   {
-    "id": "pwg4mI_EPJQ",
-    "title": "【What's in my bag?】旅行のカバンの中身｜ミニマリスト​​",
-    "channelId": "UCe8A3KCdzNs92LupuKPeNwQ",
-    "channelTitle": "ミニマリストの暮らし",
-    "thumbnailUrl": "https://i.ytimg.com/vi/pwg4mI_EPJQ/hqdefault.jpg"
-  },
-  {
-    "id": "0sw-_MgYnAc",
-    "title": "【50代・60代】ユニクロじゃない冬のダウン！着ぶくれはNG!品のある紳士に見える3選",
-    "channelId": "UCOsKfDyzNHzZch57IX6JnVg",
-    "channelTitle": "60代メンズモーダ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/0sw-_MgYnAc/hqdefault.jpg"
-  },
-  {
-    "id": "d6iccXCvbLU",
-    "title": "大学野球を辞めた名門校出身メンバーで甲子園を目指す大会に参戦！土浦日大OBと死闘決着【ムコウズ】",
-    "channelId": "UCFjJES6DbGtb2svNTSZnjqA",
-    "channelTitle": "野球YouTuber向",
-    "thumbnailUrl": "https://i.ytimg.com/vi/d6iccXCvbLU/hqdefault.jpg"
-  },
-  {
-    "id": "6JEBPCvBZ54",
-    "title": "【雑誌付録】１１月前半発売予定の付録まとめ(2026/11/1～11/15分 ２６冊)",
-    "channelId": "UC4x-E2w7ERByR03V3FWJOVQ",
-    "channelTitle": "W.A. Channel",
-    "thumbnailUrl": "https://i.ytimg.com/vi/6JEBPCvBZ54/hqdefault.jpg"
-  },
-  {
-    "id": "9DGDMY8AfPk",
-    "title": "偶然再現されてた“懐かしの不人気飯”が今食べると何故かとても愛おしい。　Recreating our old \"unpopular meal\"—so dear to me now.",
-    "channelId": "UCnMomb_sGrZgBtFNvG7Zgnw",
-    "channelTitle": "中華一筋",
-    "thumbnailUrl": "https://i.ytimg.com/vi/9DGDMY8AfPk/hqdefault.jpg"
-  },
-  {
-    "id": "eiLWGtqgk5M",
-    "title": "イサキの捌き方｜姿造り・刺身・塩焼き用まで魚屋歴20年以上のプロが解説",
+    "id": "Su4CXXh-9g0",
+    "title": "アンコウの捌き方｜鍋用に1匹まるごと【魚屋歴20年以上】",
     "channelId": "UCKgZWNzDVFenWKZGgvUjO6A",
     "channelTitle": "おととチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/eiLWGtqgk5M/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/Su4CXXh-9g0/hqdefault.jpg"
   },
   {
-    "id": "W07vIRiNu70",
-    "title": "【雑炊レシピ7選】定番の卵雑炊からオートミール・トマト・酸辣湯風まで完全網羅！",
+    "id": "mPggXbRQtGU",
+    "title": "【決勝戦】勝てば関東大会出場！ホームランキャッチを巡り審判団に猛抗議！ムコウズvsチューヤンズ大波乱の展開",
+    "channelId": "UCFjJES6DbGtb2svNTSZnjqA",
+    "channelTitle": "野球YouTuber向",
+    "thumbnailUrl": "https://i.ytimg.com/vi/mPggXbRQtGU/hqdefault.jpg"
+  },
+  {
+    "id": "IxVApb3B4po",
+    "title": "【恐怖】イカスミパスタを毎日食べ続けた結果ｗｗ【有益スレ】【ゆっくり解説】",
+    "channelId": "UCP3md-ANHo7O9NFgjcfbwTQ",
+    "channelTitle": "イッチは食べ続ける【2chまとめ風解説】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/IxVApb3B4po/hqdefault.jpg"
+  },
+  {
+    "id": "T8FDjbEJGjM",
+    "title": "【食パンアレンジ10選】いつもの食パンが大変身！おやつに使える簡単レシピ",
     "channelId": "UC6vzXCyUFiz0wMF6aIe7Isg",
     "channelTitle": "macaroni | マカロニ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/W07vIRiNu70/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/T8FDjbEJGjM/hqdefault.jpg"
   },
   {
-    "id": "5hW0ijCEHeg",
-    "title": "【占い】2026年11月の四緑木星の運勢・九星気学【コレを捨てるとうまくいく】（11月7日～ 12月6日）仕事・健康・人間関係",
+    "id": "JyLcuHR0bjI",
+    "title": "【VIVANT 最終回考察】画面の薫は偽物だったのか？乃木は騙された？｜核融合のデータを持つのは誰か",
+    "channelId": "UCMq8i6kbvWVcepQQ87XpZTg",
+    "channelTitle": "ARRIVED FROM SHOWA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/JyLcuHR0bjI/hqdefault.jpg"
+  },
+  {
+    "id": "GoG-bnVxCjw",
+    "title": "冬にはこれをやって欲しい！11月のアスパラガスの栽培管理【シェア畑】【農園ライフ】",
+    "channelId": "UCDthpHc_sDIMnh-b_BjPISA",
+    "channelTitle": "農園らいふ+(プラス)",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GoG-bnVxCjw/hqdefault.jpg"
+  },
+  {
+    "id": "RWMf9diIe2k",
+    "title": "​【緊急】トランプ敗北で日経平均・AI半導体株が大暴落！キオクシア1万円割れの舞台裏",
+    "channelId": "UCJgEsfCKQTSljmR-PAMeTbw",
+    "channelTitle": "フジマナ / 投資家",
+    "thumbnailUrl": "https://i.ytimg.com/vi/RWMf9diIe2k/hqdefault.jpg"
+  },
+  {
+    "id": "RihPmy4SJes",
+    "title": "【占い】2026年11月の五黄土星の運勢・九星気学【安定の月。でもここが危ない】（11月7日～ 12月6日）仕事・健康・人間関係",
     "channelId": "UCX4WHjeF4RPjEyAsT2tZpkA",
     "channelTitle": "気学とビジネス 井上裕紀子",
-    "thumbnailUrl": "https://i.ytimg.com/vi/5hW0ijCEHeg/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/RihPmy4SJes/hqdefault.jpg"
   },
   {
-    "id": "lruNHYJoQek",
-    "title": "車にも「SHARP プラズマクラスター」付けたい！日産ノートオーラに設置！【開封編】",
-    "channelId": "UCH_ooLegdVwuhalm3rId9nw",
-    "channelTitle": "かじまっくチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/lruNHYJoQek/hqdefault.jpg"
+    "id": "klwP6Jgst3g",
+    "title": "全粒粉食パンの血糖値上昇は？実際に食べて測定したら衝撃の結果に…",
+    "channelId": "UCX0qFyoqeJw3DyMEm2i4PhQ",
+    "channelTitle": "糖尿病おじさんの食卓",
+    "thumbnailUrl": "https://i.ytimg.com/vi/klwP6Jgst3g/hqdefault.jpg"
   },
   {
-    "id": "qbZ3w3FB6Zg",
-    "title": "【50代ひとり暮らし】台所をまるごと見直し整理に明け暮れた休日｜シンク下整理｜賞味期限切れ",
-    "channelId": "UCJkJxCT33Y_JhzFX1aCrpAA",
-    "channelTitle": "ババログ【Asami Baba】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/qbZ3w3FB6Zg/hqdefault.jpg"
+    "id": "rLB7IA_hU7Q",
+    "title": "【商談を即スライド化】Gemini Notebookアプリが直接録音に対応",
+    "channelId": "UCboaqA4fwGpljEKeUjO1iVQ",
+    "channelTitle": "SHIFT AI ニュース",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rLB7IA_hU7Q/hqdefault.jpg"
   },
   {
-    "id": "LftPCnWAZ1U",
-    "title": "【ウイスキー】キン肉マン×ウイスキー！一番くじ\"超人血盟軍\"をウイスキー化⁉︎ブロッケンJr.やザ・ニンジャ、アシュラマンにバッファローマン、ソルジャーはどんな味わいのウイスキー？#一番くじ ",
-    "channelId": "UCshVbqa5DH0Nn3U-gHKxaNQ",
-    "channelTitle": "もっさんの極上裏路地酒場【#ハイクラ】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/LftPCnWAZ1U/hqdefault.jpg"
+    "id": "WuPNFyWzmPg",
+    "title": "2,000円の生地でこんなに素敵に！大きなフードの新作ベストが完成しました♪",
+    "channelId": "UCaK0FVIjvfMakzjvohPn9yA",
+    "channelTitle": "ただ服をつくる | おうちで楽しむ洋裁教室",
+    "thumbnailUrl": "https://i.ytimg.com/vi/WuPNFyWzmPg/hqdefault.jpg"
   },
   {
-    "id": "R1ylJEr-bsA",
-    "title": "【ネドじゅんさん式】なぜ頭の雑音を止めると直感が冴えるのか？自動思考が消える「右脳スイッチ」の正体",
-    "channelId": "UCtrniVfwgTGHkGMqj43raWw",
-    "channelTitle": "しあわせ右脳",
-    "thumbnailUrl": "https://i.ytimg.com/vi/R1ylJEr-bsA/hqdefault.jpg"
+    "id": "2I0WGUCxcqg",
+    "title": "※本気で2027年を変えたい人へ…遂に手放す時が来ました。生まれ変わってみ自分の手で運気を変えよう！@ginchannel320 #思考の学校",
+    "channelId": "UCItw50IoBdl7nZgZsK-66mg",
+    "channelTitle": "思考の学校　宮増侑嬉 【潜在意識・引き寄せ】大石洋子",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2I0WGUCxcqg/hqdefault.jpg"
   },
   {
-    "id": "NAMnCREEzAU",
-    "title": "【一元化バイブル】新しい手帳の11月のセットアップ【M5/ロルバーン】",
-    "channelId": "UCv8CrB3MnX5M7XlgT4ixmZw",
-    "channelTitle": "かどまちおいも",
-    "thumbnailUrl": "https://i.ytimg.com/vi/NAMnCREEzAU/hqdefault.jpg"
+    "id": "NWAahTswc3s",
+    "title": "いつものパウンドケーキと同じように膨らむか焼き比べてみた",
+    "channelId": "UCluB47fcS-RnvNjPHrXYS5Q",
+    "channelTitle": "KAZUAKI EGUCHI / チョコレートのプロ：ショコラティエ Chocolate",
+    "thumbnailUrl": "https://i.ytimg.com/vi/NWAahTswc3s/hqdefault.jpg"
   },
   {
-    "id": "fC7BFhKFuZY",
-    "title": "女が溺れる「格上男」の自信はこう作る【恋愛心理学/社会心理学】",
-    "channelId": "UCSHwCaJc-WZ8lLjQUVcsSzg",
-    "channelTitle": "思惑の羅針盤",
-    "thumbnailUrl": "https://i.ytimg.com/vi/fC7BFhKFuZY/hqdefault.jpg"
+    "id": "aNAMMa9mn0A",
+    "title": "【砂糖もオーブンも不要！】混ぜてフライパンで焼くだけのしっとり米粉りんごケーキ",
+    "channelId": "UCZ-x8YeLzyAkf7oXNHoqIWA",
+    "channelTitle": "たのれしぴ【グルテンフリー生活】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/aNAMMa9mn0A/hqdefault.jpg"
   },
   {
-    "id": "zpcNeqsPec0",
-    "title": "【無料】超簡単なコレやるだけでPayPay1500p‼︎さらに合計8500pも！！",
-    "channelId": "UC4TnL2yRWdT4GXzXaACPATw",
-    "channelTitle": "キャッシュレスしすぎた【杉田】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/zpcNeqsPec0/hqdefault.jpg"
+    "id": "kpj_isbSezE",
+    "title": "【緊急】トランプ政権 中間選挙大敗 AI・半導体株の今後はどうなる!?【元野村證券の見解】",
+    "channelId": "UCrFzsSo-J_ay1M2HnHDCvhg",
+    "channelTitle": "ベテラン證券ジョニーさん",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kpj_isbSezE/hqdefault.jpg"
   },
   {
-    "id": "jD6FEoFtxmM",
-    "title": "【もうパイ生地買わん】餃子の皮で作る！サクサク三角チョコパイ",
-    "channelId": "UChnBA5-rj4RBUAkIxJ8tepA",
-    "channelTitle": "ズボラごはんキッチン",
-    "thumbnailUrl": "https://i.ytimg.com/vi/jD6FEoFtxmM/hqdefault.jpg"
+    "id": "Ui8i1tGdqMc",
+    "title": "【teppay20%還元】11月4日ついに開始！ビューカード・Suicaの大型キャンペーン全9選を総まとめ",
+    "channelId": "UCPI61AHwYWwVbsXEOhPUZOw",
+    "channelTitle": "おにまるちゃんねる",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Ui8i1tGdqMc/hqdefault.jpg"
   },
   {
-    "id": "XbJmFW_x4rU",
-    "title": "台所の屋根作り。チェーンソーにガソリンとオイル間違えて入れちゃった！",
-    "channelId": "UCx4q50ESa4PMHU2DG5PxFnA",
-    "channelTitle": "森の秘密基地",
-    "thumbnailUrl": "https://i.ytimg.com/vi/XbJmFW_x4rU/hqdefault.jpg"
+    "id": "bVeB6mzjK00",
+    "title": "【必ず知るべき】本当に痩せる方法、教えます｜代謝回復の実践編",
+    "channelId": "UCA0wgLblfZBgQc_4KKK5vCQ",
+    "channelTitle": "じーん@栄養とボディメイク",
+    "thumbnailUrl": "https://i.ytimg.com/vi/bVeB6mzjK00/hqdefault.jpg"
   },
   {
-    "id": "0ztmnPdgkMo",
-    "title": "【白菜】小さい方必見。大きくしたい方はコレしてください！",
-    "channelId": "UCTLqEaiYY5_Z4a3wXha0kGA",
-    "channelTitle": "たわらファーム-農園ものがたり-",
-    "thumbnailUrl": "https://i.ytimg.com/vi/0ztmnPdgkMo/hqdefault.jpg"
-  },
-  {
-    "id": "UFgoojQMFQU",
-    "title": "【MAATEE&SONS】極上の生地を使った名作スラックス | KENEDY",
-    "channelId": "UCzN6740ZJbb9s8rf610gXJA",
-    "channelTitle": "watoの服紹介 / わと",
-    "thumbnailUrl": "https://i.ytimg.com/vi/UFgoojQMFQU/hqdefault.jpg"
-  },
-  {
-    "id": "NIwpMAE-mVE",
-    "title": "メガネの視力検査、眼科とメガネ屋どっちがいい？【元店員の本音】",
-    "channelId": "UCY4-nhIg5UnZ53e8h70eAmA",
-    "channelTitle": "めがね研究会【メガケン】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/NIwpMAE-mVE/hqdefault.jpg"
-  },
-  {
-    "id": "-A2jAs4Ffgg",
-    "title": "【人生の差】ショートカット思考をしている内は明確に結果はついてこない",
-    "channelId": "UCY92Ma2-tzt8LLqodw9UF0g",
-    "channelTitle": "rの住人ピエロ【哲学】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/-A2jAs4Ffgg/hqdefault.jpg"
-  },
-  {
-    "id": "UO1IkgOqQdQ",
-    "title": "チヌ太郎・山本太郎が秋チヌを攻略！ 『チヌ道一直線 139』最新作を特別公開♪【釣りビジョン】",
+    "id": "_51aMaX-KIQ",
+    "title": "秋の津風呂湖をランガンしビッグバスを狙う！ 『Go Deep. 3』最新作を特別公開♪【釣りビジョン】",
     "channelId": "UCt4dJmcXYSEsMKNVBC1mDyg",
     "channelTitle": "釣りビジョン -Fishing Vision Japan-",
-    "thumbnailUrl": "https://i.ytimg.com/vi/UO1IkgOqQdQ/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/_51aMaX-KIQ/hqdefault.jpg"
   },
   {
-    "id": "h66PUSXAz5U",
-    "title": "【女子の本音】女性スタッフ２人が選ぶ「男性にかけてほしいメガネ」神５選",
-    "channelId": "UClGYBD5VrWAOglWSDDKjDLQ",
-    "channelTitle": "メガネのオーマイグラスTV",
-    "thumbnailUrl": "https://i.ytimg.com/vi/h66PUSXAz5U/hqdefault.jpg"
+    "id": "sR26cJR7KmI",
+    "title": "なぜ急にブームになって 数年で閉店する店が生まれるのか【ゆっくり解説】",
+    "channelId": "UCMuTdBxhpZFL3aRvTcBi37A",
+    "channelTitle": "ゆっくり台所研究所",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sR26cJR7KmI/hqdefault.jpg"
   },
   {
-    "id": "6qLY5J_9LDg",
-    "title": "ランニングシューズの普段履きはなぜ疲れる？大人が選ぶべき「歩く靴」本命2選【NB 880・ミズノ】",
-    "channelId": "UC4V1GHi60dObSbNEFUXIH-Q",
-    "channelTitle": "こば 足トラブルを減らす靴の話",
-    "thumbnailUrl": "https://i.ytimg.com/vi/6qLY5J_9LDg/hqdefault.jpg"
-  },
-  {
-    "id": "wOz1F59JoWA",
-    "title": "【見直し必至】ドコモの料金プランを徹底比較！あなたに合うのは？",
-    "channelId": "UCMXjwK6-rRw-la5SN5j0M6g",
-    "channelTitle": "スマサポチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/wOz1F59JoWA/hqdefault.jpg"
-  },
-  {
-    "id": "b1rqrA5a5Gc",
-    "title": "【この秋冬、何を着る？】60代70代のユニクロ・GU 2026年トレンド5つと着回し5コーデ・冬アウター3選",
-    "channelId": "UCgddRO_7Qes0Qh3ue6Ag3Vw",
-    "channelTitle": "60代 おしゃれ迷子案内所",
-    "thumbnailUrl": "https://i.ytimg.com/vi/b1rqrA5a5Gc/hqdefault.jpg"
-  },
-  {
-    "id": "IvnxzfLMHho",
-    "title": "【業務スーパー】2026年11月月間特売で食費をカット！買わなきゃ損な最強セール品！業スーマニアおすすめ購入品紹介！2026年11月①",
-    "channelId": "UCPBrsR4zr_CnkW-DhZahhfw",
-    "channelTitle": "スパ子チャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/IvnxzfLMHho/hqdefault.jpg"
-  },
-  {
-    "id": "ujIww-xDMII",
-    "title": "型落ちのGalaxy S24は最新高コスパ系モデルのPixel 10aと比べてどう？",
+    "id": "jGEv9clbfKA",
+    "title": "eSIMが機種変更手続きとか楽で使いやすい格安SIM・プランはどこだ？【地味な話題】",
     "channelId": "UCyXnAHdvRZMzS-J_sPX632g",
     "channelTitle": "電子レンジマン",
-    "thumbnailUrl": "https://i.ytimg.com/vi/ujIww-xDMII/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/jGEv9clbfKA/hqdefault.jpg"
   },
   {
-    "id": "EC0shWPov6Y",
-    "title": "シクラメンは「オススメの時間」があるんです！",
-    "channelId": "UCFSvwa6nmTLbeOIrpbt50xQ",
-    "channelTitle": "ガーデンちゃんねる",
-    "thumbnailUrl": "https://i.ytimg.com/vi/EC0shWPov6Y/hqdefault.jpg"
+    "id": "6w-nB6o8R98",
+    "title": "【11月立冬】🧹大掃除は12月だと遅い？11/7立冬から始める「開運大掃除8日間スケジュール」厄落としルーティン",
+    "channelId": "UC_aAIARKeCJnpSzHZWFawNA",
+    "channelTitle": "開運暦と毎月の運勢【鑑定士 堀田亜希】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6w-nB6o8R98/hqdefault.jpg"
   },
   {
-    "id": "e6kq9spy_s0",
-    "title": "【お買い得に冬支度】Amazonスマイルセールきた！絶対に買うべき超狙い目の神商品",
-    "channelId": "UCxMoiyY4id981k6uKVtyqZA",
-    "channelTitle": "ガルの有益ライフ【ガルちゃんまとめ】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/e6kq9spy_s0/hqdefault.jpg"
+    "id": "V_FS46CsTak",
+    "title": "【nanacoクレカ】「金融ブラック神カード」たった1ヶ月でS枠150万円まで増枠申請が可能に！",
+    "channelId": "UCg6Dn3DRxYcgMZbH3UUltVg",
+    "channelTitle": "再スタートちゃんねる",
+    "thumbnailUrl": "https://i.ytimg.com/vi/V_FS46CsTak/hqdefault.jpg"
   },
   {
-    "id": "p2s82XF9unE",
-    "title": "アメリカにいる日本人をカテゴリ別に分けてみた",
-    "channelId": "UCC6sboXlVZxMCOlFtZfXE7Q",
-    "channelTitle": "アメスマチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/p2s82XF9unE/hqdefault.jpg"
+    "id": "pNKANFHHa5k",
+    "title": "中国AIバブル崩壊！75兆円消失の衝撃！次は米国株が危ない？",
+    "channelId": "UCCiLWwLsnxxGG9KmyPCYSVg",
+    "channelTitle": "著書3冊「アンティークコインのプロ」石山幸二の狙い!!new",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pNKANFHHa5k/hqdefault.jpg"
   },
   {
-    "id": "k4OAzvk9faQ",
-    "title": "【今すぐやめて】英語初心者の9割がやっているNG勉強法8選｜いくつ当てはまる？",
-    "channelId": "UCSOR4Snxp5SPioWjDgOtM-w",
-    "channelTitle": "ジュディ【英語】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/k4OAzvk9faQ/hqdefault.jpg"
+    "id": "7n49Kg3xMOo",
+    "title": "【2026ホリデー】プラダ ビューティー の限定コレクションが大人っぽくて想像以上に素敵だった✨強めメイク好きな人も！",
+    "channelId": "UC8V5m9iVXnx9VPWUVeZOENg",
+    "channelTitle": "デパコスマニアaicaちゃんねる",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7n49Kg3xMOo/hqdefault.jpg"
   },
   {
-    "id": "yuFSC61X7KM",
-    "title": "【大荒れ】もうダメか…新NISA暴落で資産激減、必死に貯めたお金が溶けていく…【NASDAQ,FANG+,オルカン,S&P500,半導体,SOXL】",
-    "channelId": "UC5EF95I0vO_fbN0Jm1ryLUQ",
-    "channelTitle": "こどおじマスターK【節約貯金ガチ部】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/yuFSC61X7KM/hqdefault.jpg"
-  },
-  {
-    "id": "rxFjizFYh8g",
-    "title": "【働きすぎ要注意】忙しいリーダーに必要なのは「心がけ」ではない！謙虚さを失う本当の原因【管理職 忙しいアピール 言い方がきつい 傲慢な人 正論ばかり言う人】",
-    "channelId": "UCJ7CiyZk9f2lUsWaZhsXtsQ",
-    "channelTitle": "田中誠の深煎り人間学",
-    "thumbnailUrl": "https://i.ytimg.com/vi/rxFjizFYh8g/hqdefault.jpg"
-  },
-  {
-    "id": "UEutzssx-t0",
-    "title": "【50代60代】ユニクロ・無印は「羽織り」で激変！冬のNGコーデ3選と大人の正解4コーデ",
-    "channelId": "UC0KUS9ptjnlCVSR1LBZc6QQ",
-    "channelTitle": "男の見た目改革 (旧Refined Days)【50代・60代の大人服】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/UEutzssx-t0/hqdefault.jpg"
-  },
-  {
-    "id": "xH2GhIBYVYc",
-    "title": "【収納見直し】散らかっていた寝室がニトリの棚で劇的スッキリ！ついでにふう・おとの子供部屋もまさかの大進化！【エハライフ】",
-    "channelId": "UCf5iV0mjb644gOTV4NAiN2Q",
-    "channelTitle": "エハラ家チャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/xH2GhIBYVYc/hqdefault.jpg"
-  },
-  {
-    "id": "T7xkUCbflUM",
-    "title": "【速報】11月4日に〇〇してください。この日だけおさえれば大丈夫です！【11月前半 午の日 一粒万倍日】",
-    "channelId": "UC0rvsDnTlvualb1EkgbxBzQ",
-    "channelTitle": "金運上昇チャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/T7xkUCbflUM/hqdefault.jpg"
-  },
-  {
-    "id": "CBRlI885x4I",
-    "title": "【2026秋冬新作ニット】他はスルーしていいけどこれだけは絶対チェックして！大人のUNIQLO×F.RISSO購入品コーデ紹介！ #uniqlo #RISSO #秋冬コーデ #購入品紹介 #2026",
-    "channelId": "UC_nLKMTPUmvICdghQJHlyGw",
-    "channelTitle": "高見えコーデの試着室",
-    "thumbnailUrl": "https://i.ytimg.com/vi/CBRlI885x4I/hqdefault.jpg"
-  },
-  {
-    "id": "lfE1NlWdfB8",
-    "title": "もう作業に迷わない！Obsidian内でAIエージェントを直接呼び出す最新AI活用術【Claude Code/Codex/Gemini CLI】",
-    "channelId": "UCdt4Q-Sw4jKQT6Mn1OrPBaw",
-    "channelTitle": "飯塚浩也 | Obsidianでつくる最強の右腕",
-    "thumbnailUrl": "https://i.ytimg.com/vi/lfE1NlWdfB8/hqdefault.jpg"
-  },
-  {
-    "id": "IoNosf3eP7I",
-    "title": "【サイバーエージェント】激務はもう昔の話？元社員が語る“伝説の激務時代”と今の違い【すべらない転職エージェント末永】",
+    "id": "Iw-Y-6_q4yw",
+    "title": "「陰キャは1年半で辞めました」元社員が語るサイバーエージェントで生き残れる人・消える人【すべらない転職エージェント末永】",
     "channelId": "UCNyyfaueYSnekYswF3d7qnw",
     "channelTitle": "内定チャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/IoNosf3eP7I/hqdefault.jpg"
+    "thumbnailUrl": "https://i.ytimg.com/vi/Iw-Y-6_q4yw/hqdefault.jpg"
+  },
+  {
+    "id": "T0WFjIhJmxk",
+    "title": "60代70代【冬の頼れるショートアウター】カジュアルなのになぜかきちんと見え！選び方とコーデ8選｜シニアファッション",
+    "channelId": "UCkZKoQi_B0muFo-j30L6dUg",
+    "channelTitle": "シニアファッションおしゃれ日和",
+    "thumbnailUrl": "https://i.ytimg.com/vi/T0WFjIhJmxk/hqdefault.jpg"
+  },
+  {
+    "id": "5uGhRC0YGJY",
+    "title": "【お買い得情報】リユースとは思えない有名作家の着物や帯が驚く価格で！",
+    "channelId": "UCyyzR7mgyWplHuHXWSLJgaA",
+    "channelTitle": "銀座きものティロワール",
+    "thumbnailUrl": "https://i.ytimg.com/vi/5uGhRC0YGJY/hqdefault.jpg"
+  },
+  {
+    "id": "YquEXNxQfN4",
+    "title": "AIに判断を任せて思考を整理！文章を書かずにObsidianをより強力に使いこなす方法を教えます。【Jev】【TypeSafe AI】",
+    "channelId": "UCdt4Q-Sw4jKQT6Mn1OrPBaw",
+    "channelTitle": "飯塚浩也 | Obsidianでつくる最強の右腕",
+    "thumbnailUrl": "https://i.ytimg.com/vi/YquEXNxQfN4/hqdefault.jpg"
+  },
+  {
+    "id": "AcGLUAYF0cQ",
+    "title": "【三菱UFJ銀行】メガバンク初の衝撃！新銀行でキャッシュカード完全廃止へ！銀行の常識が変わる！？",
+    "channelId": "UC2YUMrASkC1Jel0cTraw_0w",
+    "channelTitle": "love hawks",
+    "thumbnailUrl": "https://i.ytimg.com/vi/AcGLUAYF0cQ/hqdefault.jpg"
+  },
+  {
+    "id": "0d0oJE0pV1I",
+    "title": "【注意】ツインレイの旅で必ず出会う3つのアンチ｜1年半で統合した男性側の実体験",
+    "channelId": "UCNp7ZPJuonoDzp90BgR4bOw",
+    "channelTitle": "はやと&のえ-男性視点で現実が変わるツインレイ統合-",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0d0oJE0pV1I/hqdefault.jpg"
+  },
+  {
+    "id": "0CSUfwrKqI4",
+    "title": "急増する不正アクセスによる情報漏洩に対する企業の責任と対応策について解説します",
+    "channelId": "UC-KK_-m-w-Jr73bvbgQJSzQ",
+    "channelTitle": "越水はるか弁護士-守りの経営ch",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0CSUfwrKqI4/hqdefault.jpg"
+  },
+  {
+    "id": "KpomnM0bbLA",
+    "title": "会話中の「分からない」をメガネが助ける。半年使ったEven G2、新しいAIは何が違う？",
+    "channelId": "UCRvFZvnqmjnyMJ9k1ZVpZzQ",
+    "channelTitle": "カワイコージ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/KpomnM0bbLA/hqdefault.jpg"
+  },
+  {
+    "id": "U1uceeMzoIY",
+    "title": "朝活でリア友と将来が不安になり、部屋掃除でママと喧嘩になりました。",
+    "channelId": "UCf2tftjEcyoJYClLw4j-EBA",
+    "channelTitle": "りおんチャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/U1uceeMzoIY/hqdefault.jpg"
+  },
+  {
+    "id": "UE-99n-3WU8",
+    "title": "【室内でダイエット15分！】一番きつい有酸素運動🔥本気で痩せたい方の超早歩き・5分×3セット・各セット最後に追い込み",
+    "channelId": "UCYp1u05zOt6I8_pnu9qNNhA",
+    "channelTitle": "毎日滝汗ちゃんねる",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UE-99n-3WU8/hqdefault.jpg"
+  },
+  {
+    "id": "A8-e4rUqr-I",
+    "title": "SNSでバズってる「牛乳と麻婆豆腐の素で簡単に作れる担担麺」って本当に簡単なの？どんな味？作って正直レビューします！ #スナザ飯",
+    "channelId": "UCmE8sLhT9d2XScGkwojX30Q",
+    "channelTitle": "スナザメ実況",
+    "thumbnailUrl": "https://i.ytimg.com/vi/A8-e4rUqr-I/hqdefault.jpg"
+  },
+  {
+    "id": "TpBMoe_RlyM",
+    "title": "【税理士が警告！】儲かり始めた社長が気をつけたい「お金と人間関係」5選",
+    "channelId": "UCjAinCqyiDNQ7yM6tKanlZw",
+    "channelTitle": "社長のお金を増やすチャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TpBMoe_RlyM/hqdefault.jpg"
   }
 ]
