@@ -91,18 +91,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
   },
   {
-    "id": "lQJ4zcmKOs4",
-    "title": "【GetMax G12レビュー】2026 Android TV BOX 気になるコンテンツや使い勝手は？メリット・デメリットを完全解説！",
-    "channelId": "UCeXBrrbaYBFjlMuMummr-_Q",
-    "channelTitle": "ニューガジェット三昧!",
-    "thumbnailUrl": "https://i.ytimg.com/vi/lQJ4zcmKOs4/hqdefault.jpg"
-  },
-  {
     "id": "KuhierTAKkU",
     "title": "iPhoneを超ダークモードに！Liquid Glassの設定方法（iOS 27）",
     "channelId": "UCWZiY_PRgnvprjEwVz2Y7cQ",
     "channelTitle": "ゴーテック JP",
     "thumbnailUrl": "https://i.ytimg.com/vi/KuhierTAKkU/hqdefault.jpg"
+  },
+  {
+    "id": "lQJ4zcmKOs4",
+    "title": "【GetMax G12レビュー】2026 Android TV BOX 気になるコンテンツや使い勝手は？メリット・デメリットを完全解説！",
+    "channelId": "UCeXBrrbaYBFjlMuMummr-_Q",
+    "channelTitle": "ニューガジェット三昧!",
+    "thumbnailUrl": "https://i.ytimg.com/vi/lQJ4zcmKOs4/hqdefault.jpg"
   },
   {
     "id": "QUyxhOM002w",
@@ -210,13 +210,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/AQlQDXKUmmU/hqdefault.jpg"
   },
   {
-    "id": "T6sX15vAVFc",
-    "title": "【売れる広告がこれ一本‼️】知識ゼロからでも秒で仕上がる「Flova AI」を徹底レビュー🤩✨",
-    "channelId": "UChvzq5HuFyEkLMECUMbDb6Q",
-    "channelTitle": "dLab channel",
-    "thumbnailUrl": "https://i.ytimg.com/vi/T6sX15vAVFc/hqdefault.jpg"
-  },
-  {
     "id": "KjW81uOKmdU",
     "title": "【イーロン・マスク】全人類の知能を超える日。AGIとASIがもたらす究極の未来予測#イーロンマスク #AI #AGI #ASI #シンギュラリティ #未来予測 #人工知能 #テクノロジー",
     "channelId": "UC00Kipj5eQPhP3HNdMi-vrg",
@@ -259,6 +252,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/C4bVBTZrI8I/hqdefault.jpg"
   },
   {
+    "id": "q36BBqiRCUs",
+    "title": "【NEW】AI動画生成が「新たな仕事」を生み出している件。機材なし・役者なしで『映像作家』になれる新時代が来た。",
+    "channelId": "UC8yA5ym-0X4GJsAFDytuPfw",
+    "channelTitle": "ベン・ゼイン",
+    "thumbnailUrl": "https://i.ytimg.com/vi/q36BBqiRCUs/hqdefault.jpg"
+  },
+  {
     "id": "_g-3xheBx6o",
     "title": "防災対策してますか?DJIのポータブル電源がコンパクト＋パワフル!",
     "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
@@ -266,11 +266,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/_g-3xheBx6o/hqdefault.jpg"
   },
   {
-    "id": "q36BBqiRCUs",
-    "title": "【NEW】AI動画生成が「新たな仕事」を生み出している件。機材なし・役者なしで『映像作家』になれる新時代が来た。",
-    "channelId": "UC8yA5ym-0X4GJsAFDytuPfw",
-    "channelTitle": "ベン・ゼイン",
-    "thumbnailUrl": "https://i.ytimg.com/vi/q36BBqiRCUs/hqdefault.jpg"
+    "id": "tm3-rbWYgf0",
+    "title": "【面倒な手動調整にさよなら👋】パッと置いて電源を入れるだけ！完全自動補正プロジェクター「TCL A1s」を徹底レビュー！🎯✨",
+    "channelId": "UChvzq5HuFyEkLMECUMbDb6Q",
+    "channelTitle": "dLab channel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tm3-rbWYgf0/hqdefault.jpg"
   },
   {
     "id": "8-3D8Efralg",
@@ -322,6 +322,41 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/pn37JvNvsVg/hqdefault.jpg"
   },
   {
+    "id": "qK8cdsnD85c",
+    "title": "楽天モバイルのiPhone「月1円」、返さず4年使うといくら？",
+    "channelId": "UCs9m6UCbVzBFZ3g46re63hw",
+    "channelTitle": "楽天モバイルキャンペーン案内所",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qK8cdsnD85c/hqdefault.jpg"
+  },
+  {
+    "id": "Te4LBI_3m4s",
+    "title": "重力がつなぎ変わる？人類はいつか「重力」を操れるのか？",
+    "channelId": "UCAkar03qzukYgw8aGddfqIg",
+    "channelTitle": "テックとサイエンス",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Te4LBI_3m4s/hqdefault.jpg"
+  },
+  {
+    "id": "REJfpkrwwhg",
+    "title": "ムーアの法則より速い「AI時代の新しい経験則」8選【推論コスト3.3か月半減・Densing Law・ジェボンズの逆説】｜2026年11月8日",
+    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
+    "channelTitle": "sonnet soneo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/REJfpkrwwhg/hqdefault.jpg"
+  },
+  {
+    "id": "xnBkH2c2pJ8",
+    "title": "AIで商品紹介動画を作ってみた｜撮影なしで30秒（Higgsfield・Seedance 2.5）",
+    "channelId": "UC-6PArqgIb3ttTQWgqVgebg",
+    "channelTitle": "AIツールの達人【AI・Web・ChatGPT最新情報】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xnBkH2c2pJ8/hqdefault.jpg"
+  },
+  {
+    "id": "kygLVYfCRoY",
+    "title": "ベルトサンダーをマキタ化＆スピコン",
+    "channelId": "UCHlYz3vIAqwLGfVvwpl2t6A",
+    "channelTitle": "exc!amation",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kygLVYfCRoY/hqdefault.jpg"
+  },
+  {
     "id": "bHJG5wEkZmw",
     "title": "SSDだけのNAS「TerraMaster F4 SSD」レビュー｜分解・速度実測・1年使った本音",
     "channelId": "UCn6RHPNPBieQ7isui23Y0cw",
@@ -343,13 +378,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/Cm5hKoU4FA0/hqdefault.jpg"
   },
   {
-    "id": "0In0x8su7Uw",
-    "title": "AI動画の作り方｜初心者でも同じキャラクターのまま動かせる（Seedance 2.5・Higgsfield）",
-    "channelId": "UC-6PArqgIb3ttTQWgqVgebg",
-    "channelTitle": "AIツールの達人【AI・Web・ChatGPT最新情報】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/0In0x8su7Uw/hqdefault.jpg"
-  },
-  {
     "id": "Dc-T0Ql22Vk",
     "title": "【ゼロから解説】自分専用のAI司令塔『Muse』の作り方｜Antigravity導入〜Claude Code・Argon連携手順",
     "channelId": "UCF3trEEzxZYTl38eMlJ3Alw",
@@ -364,20 +392,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/gUn7yqNKrs4/hqdefault.jpg"
   },
   {
-    "id": "Gctkl-ts0rk",
-    "title": "そもそもDRAMとは何か？誰が発明し、なぜ韓国が強いのか【CPU・GPU・SRAMとの違いから60年覇権史まで】｜2026年11月6日",
-    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
-    "channelTitle": "sonnet soneo",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Gctkl-ts0rk/hqdefault.jpg"
-  },
-  {
-    "id": "8ZCiui1z-cE",
-    "title": "【最大180万円】Combosのブロックゲーム大会、参加方法まとめ",
-    "channelId": "UC7zrHgABD9b2mtUiTVAZOGA",
-    "channelTitle": "メリノちゃん@メリノ工房",
-    "thumbnailUrl": "https://i.ytimg.com/vi/8ZCiui1z-cE/hqdefault.jpg"
-  },
-  {
     "id": "GyBBB7WhAVw",
     "title": "【Muse】退会手続きって、なんであんなに面倒なの？AIに全部やらせてみた",
     "channelId": "UC5nZ5B_u8ss_1T2gr9qC2kg",
@@ -386,7 +400,7 @@
   },
   {
     "id": "34cRViy-6EU",
-    "title": "【初心者でも】まるで本物のガラス！Formlabs光造形3Dプリンターで完全透明を作る方法",
+    "title": "【光造形レビュー】FDMとここまで違う！Formlabs Form Studio 1の圧倒的な透明度",
     "channelId": "UCK9GwwHOvP5SZFsp7TFsHuQ",
     "channelTitle": "Kiyo’s 3D Printing Crafts",
     "thumbnailUrl": "https://i.ytimg.com/vi/34cRViy-6EU/hqdefault.jpg"
@@ -434,11 +448,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/wuMZ0fcKFuU/hqdefault.jpg"
   },
   {
-    "id": "q73S7QXDhIc",
-    "title": "【DL数公開】音声入力だけで200人以上が使うアプリを作る｜AIへの指示5ステップ Typeless #個人開発 #生成ai",
-    "channelId": "UCckTCYUlcNGtWJ25JLspNFA",
-    "channelTitle": "FuyanTech奮闘記",
-    "thumbnailUrl": "https://i.ytimg.com/vi/q73S7QXDhIc/hqdefault.jpg"
+    "id": "7UbkP3Booys",
+    "title": "AIでマルチプレイゲームを作る方法｜制作から公開まで",
+    "channelId": "UC7zrHgABD9b2mtUiTVAZOGA",
+    "channelTitle": "メリノちゃん@メリノ工房",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7UbkP3Booys/hqdefault.jpg"
   },
   {
     "id": "_TtqykCY1tg",
@@ -488,12 +502,5 @@
     "channelId": "UCY8AEzrT6OP9dMSWXl2TPCA",
     "channelTitle": "ヒロキ@AI副業の真実【45歳のリアル】",
     "thumbnailUrl": "https://i.ytimg.com/vi/302MSJy4JZc/hqdefault.jpg"
-  },
-  {
-    "id": "gYPVsOuqYIs",
-    "title": "ClaudeのAnthropic赤字10兆円で上場申請｜私たちの料金はどうなる？ChatGPT枠2倍・Canvaの画像生成がAIっぽくない【AIニュース】",
-    "channelId": "UCDJ0AMdC4GB1ndVKsCknyCg",
-    "channelTitle": "あずきちゃんねる",
-    "thumbnailUrl": "https://i.ytimg.com/vi/gYPVsOuqYIs/hqdefault.jpg"
   }
 ]
