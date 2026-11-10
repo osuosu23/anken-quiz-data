@@ -84,18 +84,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/gyTtxSuU92o/hqdefault.jpg"
   },
   {
-    "id": "2OxYBKwylRI",
-    "title": "「人間にしか出せない価値」を考えるのはもうやめよう。AI技術者が語る、AI時代にエンジニアが問うべきこと",
-    "channelId": "UCAPB934p12WBmS4XcDBMzXw",
-    "channelTitle": "エンジニアtype",
-    "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
-  },
-  {
     "id": "KuhierTAKkU",
     "title": "iPhoneを超ダークモードに！Liquid Glassの設定方法（iOS 27）",
     "channelId": "UCWZiY_PRgnvprjEwVz2Y7cQ",
     "channelTitle": "ゴーテック JP",
     "thumbnailUrl": "https://i.ytimg.com/vi/KuhierTAKkU/hqdefault.jpg"
+  },
+  {
+    "id": "2OxYBKwylRI",
+    "title": "「人間にしか出せない価値」を考えるのはもうやめよう。AI技術者が語る、AI時代にエンジニアが問うべきこと",
+    "channelId": "UCAPB934p12WBmS4XcDBMzXw",
+    "channelTitle": "エンジニアtype",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
   },
   {
     "id": "lQJ4zcmKOs4",
@@ -189,6 +189,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/GNSFDnTdzlM/hqdefault.jpg"
   },
   {
+    "id": "74D9BpIZejE",
+    "title": "非対応PCをWindows 11 26H2にする方法｜Windows 10・23H2・24H2/25H2別に解説【公式非推奨・自己責任】",
+    "channelId": "UCEjG9XL-_AkGdiF1skKtNyQ",
+    "channelTitle": "あそひろ💻",
+    "thumbnailUrl": "https://i.ytimg.com/vi/74D9BpIZejE/hqdefault.jpg"
+  },
+  {
     "id": "JzqSxJCA7x4",
     "title": "超激安で自宅クラウド構築！ジャンクHDDでTerraMaster NASはアリ？【秋葉原】",
     "channelId": "UCE14d37TnQN61NT5iy5ZD_w",
@@ -224,13 +231,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/3lF1xJ7h4iQ/hqdefault.jpg"
   },
   {
-    "id": "IeUV-Nm5_kU",
-    "title": "1枚のSIMで設計・運用の「面倒」をゼロに。ソラコムが変える組み込みIoTの最前線【ソラコム／ワイヤレスジャパン×WTP】",
-    "channelId": "UC1UsWsTaIPmca-Y7pvaRU1A",
-    "channelTitle": "TechLIVE by ITmedia",
-    "thumbnailUrl": "https://i.ytimg.com/vi/IeUV-Nm5_kU/hqdefault.jpg"
-  },
-  {
     "id": "VCGh6qH8LeA",
     "title": "Hi3D Agent｜画像から動く3Dへ！世界初のオールインワンAI 3Dエージェントを試す【GPT-6時代】",
     "channelId": "UC_pAe5piMNBc14ZA_h5gieg",
@@ -238,11 +238,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/VCGh6qH8LeA/hqdefault.jpg"
   },
   {
-    "id": "AoBR69fF6zA",
-    "title": "ソニー新型 Xperia 1 VIII 実機レビュー - まるでポケットに入る一眼レフ「α」だった。",
-    "channelId": "UCbgsO65n1lfIm2Nm3AWq_vw",
-    "channelTitle": "KIONA PRODUCE / キオナ プロデュース",
-    "thumbnailUrl": "https://i.ytimg.com/vi/AoBR69fF6zA/hqdefault.jpg"
+    "id": "IeUV-Nm5_kU",
+    "title": "1枚のSIMで設計・運用の「面倒」をゼロに。ソラコムが変える組み込みIoTの最前線【ソラコム／ワイヤレスジャパン×WTP】",
+    "channelId": "UC1UsWsTaIPmca-Y7pvaRU1A",
+    "channelTitle": "TechLIVE by ITmedia",
+    "thumbnailUrl": "https://i.ytimg.com/vi/IeUV-Nm5_kU/hqdefault.jpg"
   },
   {
     "id": "C4bVBTZrI8I",
@@ -266,18 +266,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/_g-3xheBx6o/hqdefault.jpg"
   },
   {
-    "id": "tm3-rbWYgf0",
-    "title": "【面倒な手動調整にさよなら👋】パッと置いて電源を入れるだけ！完全自動補正プロジェクター「TCL A1s」を徹底レビュー！🎯✨",
-    "channelId": "UChvzq5HuFyEkLMECUMbDb6Q",
-    "channelTitle": "dLab channel",
-    "thumbnailUrl": "https://i.ytimg.com/vi/tm3-rbWYgf0/hqdefault.jpg"
-  },
-  {
     "id": "8-3D8Efralg",
     "title": "Alldocube iPlay 80E レビュー 大型でSIM対応！2万円から！美麗な2.5Kディスプレイでこれは安い！?",
     "channelId": "UCc3xqfAMahju6L-iNUkgAjw",
     "channelTitle": "ZAKI LABO",
     "thumbnailUrl": "https://i.ytimg.com/vi/8-3D8Efralg/hqdefault.jpg"
+  },
+  {
+    "id": "tm3-rbWYgf0",
+    "title": "【面倒な手動調整にさよなら👋】パッと置いて電源を入れるだけ！完全自動補正プロジェクター「TCL A1s」を徹底レビュー！🎯✨",
+    "channelId": "UChvzq5HuFyEkLMECUMbDb6Q",
+    "channelTitle": "dLab channel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tm3-rbWYgf0/hqdefault.jpg"
   },
   {
     "id": "MV2g23HYLIE",
@@ -322,6 +322,34 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/pn37JvNvsVg/hqdefault.jpg"
   },
   {
+    "id": "Ro6kP1aiMlU",
+    "title": "【初回購入が最大50%オフ】12分でHiggsfield超入門｜登録・料金・クレジット・初めてのAI動画生成まで | 最新GPT Image 2.6使用。",
+    "channelId": "UCk-AjDBOodw8P40f0y6EYeA",
+    "channelTitle": "エクセル兄さん たてばやし淳",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Ro6kP1aiMlU/hqdefault.jpg"
+  },
+  {
+    "id": "QvldxvL8WJk",
+    "title": "【テレビの選び方】液晶と有機EL、何がちがう？カタログの「V型」「年間◯kWh」「達成率」「倍速」の読み方｜レグザ・ソニー・パナソニック・シャープ・ハイセンス",
+    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
+    "channelTitle": "買う前の分解図",
+    "thumbnailUrl": "https://i.ytimg.com/vi/QvldxvL8WJk/hqdefault.jpg"
+  },
+  {
+    "id": "wBa_UppAibM",
+    "title": "【Hollyland LARK M3】9gで4人まで。ワイヤレスマイクは小さいが正義でした",
+    "channelId": "UCaB1LwkfPnFaI9w2-U4cp3Q",
+    "channelTitle": "SHUN SHIGETA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wBa_UppAibM/hqdefault.jpg"
+  },
+  {
+    "id": "l78O0BmKkm4",
+    "title": "ピーター・ティール65分対談を完全解説。なぜ世界は技術停滞し、AIが突破口になるのか【全21章】｜2026年11月9日",
+    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
+    "channelTitle": "sonnet soneo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/l78O0BmKkm4/hqdefault.jpg"
+  },
+  {
     "id": "qK8cdsnD85c",
     "title": "楽天モバイルのiPhone「月1円」、返さず4年使うといくら？",
     "channelId": "UCs9m6UCbVzBFZ3g46re63hw",
@@ -334,13 +362,6 @@
     "channelId": "UCAkar03qzukYgw8aGddfqIg",
     "channelTitle": "テックとサイエンス",
     "thumbnailUrl": "https://i.ytimg.com/vi/Te4LBI_3m4s/hqdefault.jpg"
-  },
-  {
-    "id": "REJfpkrwwhg",
-    "title": "ムーアの法則より速い「AI時代の新しい経験則」8選【推論コスト3.3か月半減・Densing Law・ジェボンズの逆説】｜2026年11月8日",
-    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
-    "channelTitle": "sonnet soneo",
-    "thumbnailUrl": "https://i.ytimg.com/vi/REJfpkrwwhg/hqdefault.jpg"
   },
   {
     "id": "xnBkH2c2pJ8",
@@ -364,32 +385,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/bHJG5wEkZmw/hqdefault.jpg"
   },
   {
-    "id": "fyh5Y6J0tW4",
-    "title": "顔出しなしでYouTube動画を作る方法｜AIで9本作った手順と費用",
-    "channelId": "UC250cmVlBZQyKvLV_xgHDkA",
-    "channelTitle": "おやつBASE",
-    "thumbnailUrl": "https://i.ytimg.com/vi/fyh5Y6J0tW4/hqdefault.jpg"
-  },
-  {
-    "id": "Cm5hKoU4FA0",
-    "title": "【JLCCNC】Raw筐体を発注してみた！完成度や質感どうよ？",
-    "channelId": "UCZJ3DnsJj9YEYTvQITck2Yg",
-    "channelTitle": "tenpapaTV",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Cm5hKoU4FA0/hqdefault.jpg"
-  },
-  {
-    "id": "Dc-T0Ql22Vk",
-    "title": "【ゼロから解説】自分専用のAI司令塔『Muse』の作り方｜Antigravity導入〜Claude Code・Argon連携手順",
-    "channelId": "UCF3trEEzxZYTl38eMlJ3Alw",
-    "channelTitle": "解説めたんのAI研究室",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Dc-T0Ql22Vk/hqdefault.jpg"
-  },
-  {
-    "id": "gUn7yqNKrs4",
-    "title": "【炊飯器の選び方】「1440W」は電気代の数字？IH・圧力IHとカタログの「Wh」「保温」「達成率」の読み方｜象印・タイガー・日立・パナソニック・三菱・アイリスオーヤマ",
-    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
-    "channelTitle": "買う前の分解図",
-    "thumbnailUrl": "https://i.ytimg.com/vi/gUn7yqNKrs4/hqdefault.jpg"
+    "id": "23yooAT8WNg",
+    "title": "今時あんま聞かないけど、スピーカーを3Dプリンタで作りたかった【工作】",
+    "channelId": "UCtJsb0RHSZ8B82TcMoQUJtQ",
+    "channelTitle": "天目ろね【改造と格安の人】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/23yooAT8WNg/hqdefault.jpg"
   },
   {
     "id": "GyBBB7WhAVw",
@@ -448,11 +448,25 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/wuMZ0fcKFuU/hqdefault.jpg"
   },
   {
+    "id": "7rw54y7TK5A",
+    "title": "スマホの一言が『指示書』になるまで｜AIへの『指令』の作り方 ― Claude CodeとArgon連携の裏側",
+    "channelId": "UCF3trEEzxZYTl38eMlJ3Alw",
+    "channelTitle": "解説めたんのAI研究室",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7rw54y7TK5A/hqdefault.jpg"
+  },
+  {
     "id": "7UbkP3Booys",
     "title": "AIでマルチプレイゲームを作る方法｜制作から公開まで",
     "channelId": "UC7zrHgABD9b2mtUiTVAZOGA",
     "channelTitle": "メリノちゃん@メリノ工房",
     "thumbnailUrl": "https://i.ytimg.com/vi/7UbkP3Booys/hqdefault.jpg"
+  },
+  {
+    "id": "_aQYe2GNb9E",
+    "title": "認知症予防、脳トレだけで十分？見直したい7つの習慣【医師解説】",
+    "channelId": "UCPqgYXk4sgJKunXXqU1bS5g",
+    "channelTitle": "あいざわクリニック",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_aQYe2GNb9E/hqdefault.jpg"
   },
   {
     "id": "_TtqykCY1tg",
@@ -481,26 +495,5 @@
     "channelId": "UCbjxbFigxYj56y9o9HnR0wA",
     "channelTitle": "佐用なんちゃら",
     "thumbnailUrl": "https://i.ytimg.com/vi/NSp_rityp1E/hqdefault.jpg"
-  },
-  {
-    "id": "0pOi9jPH8rs",
-    "title": "HUAWEI WATCH GT 6レビュー｜電池持ち・明るさ・買う前に知ってほしいこと",
-    "channelId": "UC1k3scAlUmifxy49KTxQIOg",
-    "channelTitle": "うーた / 電脳ライフ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/0pOi9jPH8rs/hqdefault.jpg"
-  },
-  {
-    "id": "mB5GRN3LPxQ",
-    "title": "会話から、ここまで作れる！Codex × Higgsfieldで短編映画を制作！",
-    "channelId": "UCqV0l9z0L2KvqCrRjFQzjhQ",
-    "channelTitle": "蔵ノ怪",
-    "thumbnailUrl": "https://i.ytimg.com/vi/mB5GRN3LPxQ/hqdefault.jpg"
-  },
-  {
-    "id": "302MSJy4JZc",
-    "title": "【自動化】Claude Codeで作ったおばあちゃん風ゲームを、AIに自動プレイさせてみた【Higgsfield】",
-    "channelId": "UCY8AEzrT6OP9dMSWXl2TPCA",
-    "channelTitle": "ヒロキ@AI副業の真実【45歳のリアル】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/302MSJy4JZc/hqdefault.jpg"
   }
 ]
