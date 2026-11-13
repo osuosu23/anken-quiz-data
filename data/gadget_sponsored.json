@@ -98,18 +98,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/KuhierTAKkU/hqdefault.jpg"
   },
   {
-    "id": "2OxYBKwylRI",
-    "title": "「人間にしか出せない価値」を考えるのはもうやめよう。AI技術者が語る、AI時代にエンジニアが問うべきこと",
-    "channelId": "UCAPB934p12WBmS4XcDBMzXw",
-    "channelTitle": "エンジニアtype",
-    "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
-  },
-  {
     "id": "lQJ4zcmKOs4",
     "title": "【GetMax G12レビュー】2026 Android TV BOX 気になるコンテンツや使い勝手は？メリット・デメリットを完全解説！",
     "channelId": "UCeXBrrbaYBFjlMuMummr-_Q",
     "channelTitle": "ニューガジェット三昧!",
     "thumbnailUrl": "https://i.ytimg.com/vi/lQJ4zcmKOs4/hqdefault.jpg"
+  },
+  {
+    "id": "2OxYBKwylRI",
+    "title": "「人間にしか出せない価値」を考えるのはもうやめよう。AI技術者が語る、AI時代にエンジニアが問うべきこと",
+    "channelId": "UCAPB934p12WBmS4XcDBMzXw",
+    "channelTitle": "エンジニアtype",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2OxYBKwylRI/hqdefault.jpg"
   },
   {
     "id": "QUyxhOM002w",
@@ -266,6 +266,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/C4bVBTZrI8I/hqdefault.jpg"
   },
   {
+    "id": "rA95---YbtE",
+    "title": "【実測】色替えゴミ252g→0g。4ヘッド式3Dプリンター「Snapmaker U1」を徹底検証",
+    "channelId": "UCyXyXJb2qlgFQ4PHn4TKxYA",
+    "channelTitle": "TokyoMakers 東京九段工作ラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rA95---YbtE/hqdefault.jpg"
+  },
+  {
     "id": "q36BBqiRCUs",
     "title": "【NEW】AI動画生成が「新たな仕事」を生み出している件。機材なし・役者なしで『映像作家』になれる新時代が来た。",
     "channelId": "UC8yA5ym-0X4GJsAFDytuPfw",
@@ -308,6 +315,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/i_8-6t_srnI/hqdefault.jpg"
   },
   {
+    "id": "pn37JvNvsVg",
+    "title": "【日立製作所】日立の根幹を担う制御システム分野で働く！現場社員によるパネルトーク／配信イベントアーカイブ映像",
+    "channelId": "UCbXiGm29TDg_oPNARrx941A",
+    "channelTitle": "talentbook /タレントブック",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pn37JvNvsVg/hqdefault.jpg"
+  },
+  {
     "id": "sr_YjKpWzwA",
     "title": "手軽に金属部品が作れちゃう!?　卓上CNCフライス Makera Z1",
     "channelId": "UCn23JisBcbb-Nw-3IhofaNA",
@@ -315,11 +329,60 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/sr_YjKpWzwA/hqdefault.jpg"
   },
   {
-    "id": "pn37JvNvsVg",
-    "title": "【日立製作所】日立の根幹を担う制御システム分野で働く！現場社員によるパネルトーク／配信イベントアーカイブ映像",
-    "channelId": "UCbXiGm29TDg_oPNARrx941A",
-    "channelTitle": "talentbook /タレントブック",
-    "thumbnailUrl": "https://i.ytimg.com/vi/pn37JvNvsVg/hqdefault.jpg"
+    "id": "Ma6AgJtwx6Y",
+    "title": "Jetson AGX ThorとDGX Sparkは何が違う？ロボットとLLMで選択が変わる理由",
+    "channelId": "UCjMCN2e_Z0ZJdrZNXAfaHlg",
+    "channelTitle": "sonnet soneo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Ma6AgJtwx6Y/hqdefault.jpg"
+  },
+  {
+    "id": "qLv05f_D_xI",
+    "title": "【実測】激安AI「Muse Ember」を呼び出してみた｜1回1円未満の内訳と、本人に聞いた得意・苦手なこと【後編】",
+    "channelId": "UCF3trEEzxZYTl38eMlJ3Alw",
+    "channelTitle": "解説めたんのAI研究室",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qLv05f_D_xI/hqdefault.jpg"
+  },
+  {
+    "id": "TLEtIIr1FU4",
+    "title": "【Claude Fable 5.2】資料を渡すだけで「喋る動画」が完成！図解・字幕までAIに丸投げ【Higgsfield】",
+    "channelId": "UCk-AjDBOodw8P40f0y6EYeA",
+    "channelTitle": "エクセル兄さん たてばやし淳",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TLEtIIr1FU4/hqdefault.jpg"
+  },
+  {
+    "id": "qBd8RUHsM5g",
+    "title": "【冷蔵庫の選び方】「542L」に食品はどれだけ入る？カタログの「定格内容積」「年間◯kWh」「達成率」の読み方｜パナソニック・日立・三菱・シャープ・東芝・アクア",
+    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
+    "channelTitle": "買う前の分解図",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qBd8RUHsM5g/hqdefault.jpg"
+  },
+  {
+    "id": "T-oX0oKp00w",
+    "title": "省電力低発熱静音と3拍子揃った扱いやすいミドル性能ミニPC リンクスインターナショナル社のLC7530を実機レビュー",
+    "channelId": "UCvQOT2DfQEfUSgc6nZuX68A",
+    "channelTitle": "miniPCfunnel",
+    "thumbnailUrl": "https://i.ytimg.com/vi/T-oX0oKp00w/hqdefault.jpg"
+  },
+  {
+    "id": "Z1TvojwwsPw",
+    "title": "【ようこそキーボードの沼へ】分割キーボード初心者の方 Keychron Orca echo 完全無線分割トラックボール付きキーボード",
+    "channelId": "UCLu5Kn5DOX0OvlrTY_SzFKg",
+    "channelTitle": "やまかふぇ yamacafe",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Z1TvojwwsPw/hqdefault.jpg"
+  },
+  {
+    "id": "uf5hYvX0pQE",
+    "title": "経験ゼロからAI動画を1本作る手順【初心者向け】猫の大将が鍋を振るまで全部見せます",
+    "channelId": "UC7upn9AAaYzLs_3G-0gbcoA",
+    "channelTitle": "ぽめきちAI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/uf5hYvX0pQE/hqdefault.jpg"
+  },
+  {
+    "id": "rumAKEswt6A",
+    "title": "ZIIP HALOの電導ジェル新型登場！レチノール配合のファームジェルを使った効果",
+    "channelId": "UCL-3SZpouvHaOG5iyOqe14w",
+    "channelTitle": "しゅんのビューティーベース【美容医療と美容ガジェット】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rumAKEswt6A/hqdefault.jpg"
   },
   {
     "id": "E0ONC1xHk5w",
@@ -329,6 +392,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/E0ONC1xHk5w/hqdefault.jpg"
   },
   {
+    "id": "zhFdQUtDkIs",
+    "title": "Loova AIの使い方｜給食のおばちゃんが主人公の「存在しないゲーム」を作った【Seedance 2.5】",
+    "channelId": "UCmbdU1d-_oKJHE7ZtPv1vpg",
+    "channelTitle": "ITとAIのルーティンラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/zhFdQUtDkIs/hqdefault.jpg"
+  },
+  {
     "id": "iDAbACoKlgI",
     "title": "「印刷」「彫刻」「切断」の実力検証！！xTool M2",
     "channelId": "UCfoMyiKUMDfRHtHZpGLSA3w",
@@ -336,25 +406,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/iDAbACoKlgI/hqdefault.jpg"
   },
   {
-    "id": "pgwCGoH9ybI",
-    "title": "【全手順】激安AI「Muse Ember」をGoogle Cloudで雇う方法｜googlecloudでの登録、構築の仕方と300クレジットの落とし穴と11月16日の線引き【前編】",
-    "channelId": "UCF3trEEzxZYTl38eMlJ3Alw",
-    "channelTitle": "解説めたんのAI研究室",
-    "thumbnailUrl": "https://i.ytimg.com/vi/pgwCGoH9ybI/hqdefault.jpg"
-  },
-  {
     "id": "Mj0uVHteLKU",
     "title": "【再現性99%】年収264万だった僕が”もし今1年目からやり直すなら”ガチで絶対やる4つの行動を本音で話します",
     "channelId": "UCW15e1jt4mL70PJasIVJiUA",
     "channelTitle": "まめ太郎",
     "thumbnailUrl": "https://i.ytimg.com/vi/Mj0uVHteLKU/hqdefault.jpg"
-  },
-  {
-    "id": "29bfBwznfoU",
-    "title": "会議が変わる魔法のペン Flowtica Scribe アナログとデジタルの共存",
-    "channelId": "UCLu5Kn5DOX0OvlrTY_SzFKg",
-    "channelTitle": "やまかふぇ yamacafe",
-    "thumbnailUrl": "https://i.ytimg.com/vi/29bfBwznfoU/hqdefault.jpg"
   },
   {
     "id": "1LkwxTxY9cY",
@@ -413,13 +469,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/aUaOA-yCMVQ/hqdefault.jpg"
   },
   {
-    "id": "jPIvae2sNgE",
-    "title": "【Hi3D エージェント】写真1枚から3Dフィギュアが作れる時代に｜AIと会話するだけで\"動く箱\"までできた",
-    "channelId": "UCmbdU1d-_oKJHE7ZtPv1vpg",
-    "channelTitle": "ITとAIのルーティンラボ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/jPIvae2sNgE/hqdefault.jpg"
-  },
-  {
     "id": "YDBXPfdo4mI",
     "title": "【レビュー】Insta360 エクスプローラーバックパック｜自撮り棒を固定して、背負ったまま360°撮影！",
     "channelId": "UCGsJWBg-KBBsYFVj_d0KDiw",
@@ -453,54 +502,5 @@
     "channelId": "UCdGF4VotWpLw6e76ForUeeQ",
     "channelTitle": "【まっち】ゼロから始めるAI活用",
     "thumbnailUrl": "https://i.ytimg.com/vi/3jASZZe7Pvg/hqdefault.jpg"
-  },
-  {
-    "id": "jJgd7mKAFmw",
-    "title": "【Higgsfield】自作しているホラーゲームの背景、AIだけで作れる？趣味のゲーム作りで試してみた",
-    "channelId": "UCN7FheOR07z-vxHeQUNG4Jw",
-    "channelTitle": "たくみのVLOG日記",
-    "thumbnailUrl": "https://i.ytimg.com/vi/jJgd7mKAFmw/hqdefault.jpg"
-  },
-  {
-    "id": "wBa_UppAibM",
-    "title": "【Hollyland LARK M3】9gで4人まで。ワイヤレスマイクは小さいが正義でした",
-    "channelId": "UCaB1LwkfPnFaI9w2-U4cp3Q",
-    "channelTitle": "SHUN SHIGETA",
-    "thumbnailUrl": "https://i.ytimg.com/vi/wBa_UppAibM/hqdefault.jpg"
-  },
-  {
-    "id": "caOfSLj8phs",
-    "title": "射精は月21回必要？前立腺がんとの関係と受診の目安【医師解説】",
-    "channelId": "UCPqgYXk4sgJKunXXqU1bS5g",
-    "channelTitle": "あいざわクリニック",
-    "thumbnailUrl": "https://i.ytimg.com/vi/caOfSLj8phs/hqdefault.jpg"
-  },
-  {
-    "id": "qK8cdsnD85c",
-    "title": "楽天モバイルのiPhone「月1円」、返さず4年使うといくら？",
-    "channelId": "UCs9m6UCbVzBFZ3g46re63hw",
-    "channelTitle": "楽天モバイルキャンペーン案内所",
-    "thumbnailUrl": "https://i.ytimg.com/vi/qK8cdsnD85c/hqdefault.jpg"
-  },
-  {
-    "id": "Te4LBI_3m4s",
-    "title": "重力がつなぎ変わる？人類はいつか「重力」を操れるのか？",
-    "channelId": "UCAkar03qzukYgw8aGddfqIg",
-    "channelTitle": "テックとサイエンス",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Te4LBI_3m4s/hqdefault.jpg"
-  },
-  {
-    "id": "kygLVYfCRoY",
-    "title": "ベルトサンダーをマキタ化＆スピコン",
-    "channelId": "UCHlYz3vIAqwLGfVvwpl2t6A",
-    "channelTitle": "exc!amation",
-    "thumbnailUrl": "https://i.ytimg.com/vi/kygLVYfCRoY/hqdefault.jpg"
-  },
-  {
-    "id": "gUn7yqNKrs4",
-    "title": "【炊飯器の選び方】「1440W」は電気代の数字？IH・圧力IHとカタログの「Wh」「保温」「達成率」の読み方｜象印・タイガー・日立・パナソニック・三菱・アイリスオーヤマ",
-    "channelId": "UCSI9Vwy2fp7ZyGKXsABwsjA",
-    "channelTitle": "買う前の分解図",
-    "thumbnailUrl": "https://i.ytimg.com/vi/gUn7yqNKrs4/hqdefault.jpg"
   }
 ]
