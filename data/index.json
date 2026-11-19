@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-11-18T22:32:01.337Z",
+  "updatedAt": "2026-11-19T22:37:50.399Z",
   "categories": [
     {
       "key": "all",
       "name": "総合（全ジャンル）",
       "counts": {
-        "sponsored": 761,
-        "normal": 736,
-        "total": 1497
+        "sponsored": 766,
+        "normal": 715,
+        "total": 1481
       }
     },
     {
       "key": "gadget",
       "name": "科学と技術",
       "counts": {
-        "sponsored": 73,
-        "normal": 96,
-        "total": 169
+        "sponsored": 74,
+        "normal": 88,
+        "total": 162
       }
     },
     {
       "key": "beauty",
       "name": "ハウツーとスタイル",
       "counts": {
-        "sponsored": 118,
-        "normal": 104,
-        "total": 222
+        "sponsored": 120,
+        "normal": 98,
+        "total": 218
       }
     },
     {
       "key": "gaming",
       "name": "ゲーム",
       "counts": {
-        "sponsored": 113,
-        "normal": 80,
-        "total": 193
+        "sponsored": 112,
+        "normal": 85,
+        "total": 197
       }
     },
     {
       "key": "entertainment",
       "name": "エンターテイメント",
       "counts": {
-        "sponsored": 105,
-        "normal": 77,
-        "total": 182
+        "sponsored": 119,
+        "normal": 64,
+        "total": 183
       }
     },
     {
       "key": "vlog",
       "name": "ブログ",
       "counts": {
-        "sponsored": 132,
-        "normal": 135,
-        "total": 267
+        "sponsored": 130,
+        "normal": 130,
+        "total": 260
       }
     },
     {
       "key": "vehicles",
       "name": "自動車と乗り物",
       "counts": {
-        "sponsored": 89,
-        "normal": 86,
+        "sponsored": 87,
+        "normal": 88,
         "total": 175
       }
     },
@@ -68,9 +68,9 @@
       "key": "business",
       "name": "教育",
       "counts": {
-        "sponsored": 97,
-        "normal": 123,
-        "total": 220
+        "sponsored": 94,
+        "normal": 125,
+        "total": 219
       }
     }
   ]
