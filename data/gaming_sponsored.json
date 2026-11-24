@@ -98,18 +98,18 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/szJPvtxy2r8/hqdefault.jpg"
   },
   {
-    "id": "Cg5uQT_gLBE",
-    "title": "【モンスターハンターアウトランダーズ】コントローラーで遊んだら評価が一変した",
-    "channelId": "UCYe7WGfN56m7XULosCKVp5A",
-    "channelTitle": "なべぞーチャンネル",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Cg5uQT_gLBE/hqdefault.jpg"
-  },
-  {
     "id": "9OPD7Dk8Njo",
     "title": "おもちゃになって『悪いおもちゃ』から逃げるホラーゲームが怖すぎた - Escape From Playtime - ゆっくり実況 【ポピープレイタイム】",
     "channelId": "UCBRf3apxzFUEPEX7xtOGymA",
     "channelTitle": "シーゴ / CgoChannel",
     "thumbnailUrl": "https://i.ytimg.com/vi/9OPD7Dk8Njo/hqdefault.jpg"
+  },
+  {
+    "id": "Cg5uQT_gLBE",
+    "title": "【モンスターハンターアウトランダーズ】コントローラーで遊んだら評価が一変した",
+    "channelId": "UCYe7WGfN56m7XULosCKVp5A",
+    "channelTitle": "なべぞーチャンネル",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Cg5uQT_gLBE/hqdefault.jpg"
   },
   {
     "id": "jDMiiIJGr9s",
@@ -124,6 +124,13 @@
     "channelId": "UCiYyUJ4ITy1-RP8pTRZFi0A",
     "channelTitle": "カニカマ",
     "thumbnailUrl": "https://i.ytimg.com/vi/EGAVVpSg7YU/hqdefault.jpg"
+  },
+  {
+    "id": "cwUFgkDT6fc",
+    "title": "振り向いても画面はそこに置いてある『RayNeo GT Max』レビュー",
+    "channelId": "UCXbAi7tbAcxoDfW5I8hvv8g",
+    "channelTitle": "吉天堂",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cwUFgkDT6fc/hqdefault.jpg"
   },
   {
     "id": "s7gRW3HBBxU",
@@ -147,13 +154,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/-ugZ6d-FiH4/hqdefault.jpg"
   },
   {
-    "id": "cwUFgkDT6fc",
-    "title": "振り向いても画面はそこに置いてある『RayNeo GT Max』レビュー",
-    "channelId": "UCXbAi7tbAcxoDfW5I8hvv8g",
-    "channelTitle": "吉天堂",
-    "thumbnailUrl": "https://i.ytimg.com/vi/cwUFgkDT6fc/hqdefault.jpg"
-  },
-  {
     "id": "uCN1bRW_4nE",
     "title": "【ﾘｮｰｶｲﾘｮｰｶｲ】ギャル3人にストリーマー用語を布教するゆきちゃん【DeltaForce/ゆきお】",
     "channelId": "UCn85IB3kxNMo993oPNDKpuA",
@@ -166,6 +166,20 @@
     "channelId": "UC4n3W09rhSxiujb79v2Hqjw",
     "channelTitle": "ぜんこぱす",
     "thumbnailUrl": "https://i.ytimg.com/vi/FY96AisADxM/hqdefault.jpg"
+  },
+  {
+    "id": "noz-tIhVffY",
+    "title": "【原神】6周年に実装されたとは思えないヴォジャニーツァの移動を救いたかった",
+    "channelId": "UCwFQlA-ZgzgiwCfG19tn2OA",
+    "channelTitle": "ちりねこ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/noz-tIhVffY/hqdefault.jpg"
+  },
+  {
+    "id": "at9w8m5KHfI",
+    "title": "莫大な資金を投入したJ3クラブでAI任せのチーム運営してJ1昇格目指す【Football Manager 27】",
+    "channelId": "UCLpZaO39ggu7GZ7jEcwa8vg",
+    "channelTitle": "タマヤch",
+    "thumbnailUrl": "https://i.ytimg.com/vi/at9w8m5KHfI/hqdefault.jpg"
   },
   {
     "id": "igApwxB8a-E",
@@ -189,11 +203,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/ZFJI03yIVKE/hqdefault.jpg"
   },
   {
-    "id": "bV8qF0JRRb0",
-    "title": "低迷するJ1クラブにエンバペ強制移籍させたらクラブの救世主となるのか【Football Manager 27】",
-    "channelId": "UCLpZaO39ggu7GZ7jEcwa8vg",
-    "channelTitle": "タマヤch",
-    "thumbnailUrl": "https://i.ytimg.com/vi/bV8qF0JRRb0/hqdefault.jpg"
+    "id": "X-vNnERXKJc",
+    "title": "【原神】ロノヴァのゲーム配信「星々の幻境」",
+    "channelId": "UCp0xKP8NJVKB08M00PiluHA",
+    "channelTitle": "グロシン",
+    "thumbnailUrl": "https://i.ytimg.com/vi/X-vNnERXKJc/hqdefault.jpg"
   },
   {
     "id": "mzvnQIsfSQM",
@@ -201,13 +215,6 @@
     "channelId": "UCJy7zfLsKBXoo2soFMum7JQ",
     "channelTitle": "あかさかの箱",
     "thumbnailUrl": "https://i.ytimg.com/vi/mzvnQIsfSQM/hqdefault.jpg"
-  },
-  {
-    "id": "X-vNnERXKJc",
-    "title": "【原神】ロノヴァのゲーム配信「星々の幻境」",
-    "channelId": "UCp0xKP8NJVKB08M00PiluHA",
-    "channelTitle": "グロシン",
-    "thumbnailUrl": "https://i.ytimg.com/vi/X-vNnERXKJc/hqdefault.jpg"
   },
   {
     "id": "Mof9vveGQ3c",
@@ -231,6 +238,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/S8uYrobRVcM/hqdefault.jpg"
   },
   {
+    "id": "eBHQsx1y69Y",
+    "title": "【閲覧注意】二人でゲームしただけなのに〇癖開示させられたｗ",
+    "channelId": "UCPqPICGCBW3stv_H_srW-Nw",
+    "channelTitle": "愛包ぽよん / Aipai Poyon",
+    "thumbnailUrl": "https://i.ytimg.com/vi/eBHQsx1y69Y/hqdefault.jpg"
+  },
+  {
     "id": "WtiKCJu_AIU",
     "title": "【基本プレイ無料】本日サービス開始！期待の新作がヤバかったww オープンワールド型サバイバルゲーム ワンスヒューマン PS5 Once Human",
     "channelId": "UCBERF7Bp43yKWe-9e3fqoqw",
@@ -252,53 +266,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/1LABSVWN2-M/hqdefault.jpg"
   },
   {
-    "id": "LS04xQMZzVY",
-    "title": "【お前がNo.1だ】圧巻の3Dモデルで全紳士を虜にする「ドルフロ2」1.5周年のヤバすぎる進化5選",
-    "channelId": "UCbDdRvBfvwEIRws20XK49RQ",
-    "channelTitle": "大人のゲーム紹介 小虎",
-    "thumbnailUrl": "https://i.ytimg.com/vi/LS04xQMZzVY/hqdefault.jpg"
-  },
-  {
-    "id": "AJ9JTVHZOEk",
-    "title": "【2026最新版】初心者＆復帰者必見！これで解決！酸液＆エーテルを半自動で大量に生産する施設の作り方！",
-    "channelId": "UCKXbZlor7qt5tBmBYK5UFcA",
-    "channelTitle": "うーろん と るん",
-    "thumbnailUrl": "https://i.ytimg.com/vi/AJ9JTVHZOEk/hqdefault.jpg"
-  },
-  {
-    "id": "s3RljFeu1Wo",
-    "title": "【ハナハナ】レインボー出まくり実戦！？店内の7割以上が沖スロの聖地でヒキが爆発した【パチンカス養分ユウきのガチ実践#490 】",
-    "channelId": "UCcjV3WmacNPIdoRUV9zaZqw",
-    "channelTitle": "ユウきのパチ部屋",
-    "thumbnailUrl": "https://i.ytimg.com/vi/s3RljFeu1Wo/hqdefault.jpg"
-  },
-  {
-    "id": "eBHQsx1y69Y",
-    "title": "【閲覧注意】二人でゲームしただけなのに〇癖開示させられたｗ",
-    "channelId": "UCPqPICGCBW3stv_H_srW-Nw",
-    "channelTitle": "愛包ぽよん / Aipai Poyon",
-    "thumbnailUrl": "https://i.ytimg.com/vi/eBHQsx1y69Y/hqdefault.jpg"
-  },
-  {
-    "id": "zFpnFtR7jak",
-    "title": "【カオゼロ】最強！ロスヴァイセは無凸でも引くべき！初日の評価＆構築紹介【カオスゼロナイトメア】",
-    "channelId": "UCHrvZAJ-Pvg8xP-omdNs6ow",
-    "channelTitle": "かめにえる",
-    "thumbnailUrl": "https://i.ytimg.com/vi/zFpnFtR7jak/hqdefault.jpg"
-  },
-  {
-    "id": "9AHUgQrRuqs",
-    "title": "昨年発売された謎の無料ゲーム、ついに１周年を迎えてしまうwww【風燕伝】",
-    "channelId": "UCTftnkJ6Mkyz5wdX2jozsmw",
-    "channelTitle": "速報",
-    "thumbnailUrl": "https://i.ytimg.com/vi/9AHUgQrRuqs/hqdefault.jpg"
-  },
-  {
-    "id": "wwWiJDf6ek4",
-    "title": "【2026年 最新版】夢のスパレジェを無料でゲットする悪魔の方法８選【APEX LEGENDS】",
-    "channelId": "UC2JAjosPLS4WMetfl6304hg",
-    "channelTitle": "ばつねじ【Apexサブカル系実況】",
-    "thumbnailUrl": "https://i.ytimg.com/vi/wwWiJDf6ek4/hqdefault.jpg"
+    "id": "Czv83-KeJDg",
+    "title": "ついにキタっ！ぐちお、にゃんこ大戦争で一番ほしいのがシークレットに！【にゃんこ大戦争フィギュアbook】【にゃんこフィギュア】",
+    "channelId": "UCKezegV3t5njyVLoeLhYi0A",
+    "channelTitle": "ぐっちの部屋(ミラクルぐっち)",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Czv83-KeJDg/hqdefault.jpg"
   },
   {
     "id": "eAsHh7whqT8",
@@ -306,6 +278,13 @@
     "channelId": "UCsRYR3fNYeCVkcx9qXMNhPg",
     "channelTitle": "GreedZz",
     "thumbnailUrl": "https://i.ytimg.com/vi/eAsHh7whqT8/hqdefault.jpg"
+  },
+  {
+    "id": "wwWiJDf6ek4",
+    "title": "【2026年 最新版】夢のスパレジェを無料でゲットする悪魔の方法８選【APEX LEGENDS】",
+    "channelId": "UC2JAjosPLS4WMetfl6304hg",
+    "channelTitle": "ばつねじ【Apexサブカル系実況】",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wwWiJDf6ek4/hqdefault.jpg"
   },
   {
     "id": "ZAyQFcBaeKI",
@@ -322,13 +301,6 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/7kN6Dwb8QJU/hqdefault.jpg"
   },
   {
-    "id": "81jOR1V9zD4",
-    "title": "【奇襲】そこから『メガゼラオラex』が出てくんの！？突然の超火力を叩き込める『ナンジャモのメガゼラオラex』が楽しい（vsカミツオロチex）【ポケカ/ポケモンカード】【対戦】",
-    "channelId": "UC-aQcB5xf2u80Wfbz9EPuBg",
-    "channelTitle": "あそビバ！ちゃんねる！",
-    "thumbnailUrl": "https://i.ytimg.com/vi/81jOR1V9zD4/hqdefault.jpg"
-  },
-  {
     "id": "K4c714uY26Y",
     "title": "【実写】Tマス道のメンバーでお疲れ様旅行に行ってきました。",
     "channelId": "UCENixCNx4v78m-0e1WseRrg",
@@ -336,18 +308,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/K4c714uY26Y/hqdefault.jpg"
   },
   {
-    "id": "nReJWJ-32Eg",
-    "title": "【STEAM】最大94%OFF。買っても無罪。今週の価格バグセール10選+2",
-    "channelId": "UCuNqhJITEjdUaquZoLbJvSQ",
-    "channelTitle": "スチまと / 初心者向けSTEAMおすすめゲーム紹介",
-    "thumbnailUrl": "https://i.ytimg.com/vi/nReJWJ-32Eg/hqdefault.jpg"
-  },
-  {
-    "id": "ncpLONAREws",
-    "title": "ゼンゼロ初めてでもわかる！物語の世界観と最新バージョン3.0の内容や新実装キャラ 『ピュロイス』『ヴェリナ』『ノルムー』をまとめて解説！ゼンレスゾーンゼロ 最新アプデVer.3.0好評配信中！",
-    "channelId": "UC0MwTuNA7dqMjqVaGkz0bow",
-    "channelTitle": "HAL PROJECT",
-    "thumbnailUrl": "https://i.ytimg.com/vi/ncpLONAREws/hqdefault.jpg"
+    "id": "9KX-dWl0ZRE",
+    "title": "【お風呂で触れ合い！】あの人気ゲームが2周年で更なる進化を遂げた件",
+    "channelId": "UCbDdRvBfvwEIRws20XK49RQ",
+    "channelTitle": "大人のゲーム紹介 小虎",
+    "thumbnailUrl": "https://i.ytimg.com/vi/9KX-dWl0ZRE/hqdefault.jpg"
   },
   {
     "id": "uhzEvQSR5Rw",
@@ -355,13 +320,6 @@
     "channelId": "UCIB6sLX_RdbgpG1tZiB4khQ",
     "channelTitle": "だるまと赤べこ",
     "thumbnailUrl": "https://i.ytimg.com/vi/uhzEvQSR5Rw/hqdefault.jpg"
-  },
-  {
-    "id": "MV7eH8tdCvM",
-    "title": "【え、え？】G9-1の途中装備でも★10をボコボコ倒せるレウス亜種武器がやってる件ｗｗｗ【モンハンNow】",
-    "channelId": "UCTykXxcnqEZpzyzs5-vknNA",
-    "channelTitle": "怠惰な人",
-    "thumbnailUrl": "https://i.ytimg.com/vi/MV7eH8tdCvM/hqdefault.jpg"
   },
   {
     "id": "iAL5Bp-YMOY",
@@ -420,6 +378,104 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/cxQJaVRZ_nw/hqdefault.jpg"
   },
   {
+    "id": "6WSV6qw-aKQ",
+    "title": "【ラストウォー】シーズン6での航空編成を比較！安定はやはりアノ編成...",
+    "channelId": "UCrKcVxD-EA5rMrZBWja3PGQ",
+    "channelTitle": "ぽこたんのラストウォー攻略",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6WSV6qw-aKQ/hqdefault.jpg"
+  },
+  {
+    "id": "W6DJb1t3tTQ",
+    "title": "【モンハンアウトランダーズ】誰でも出来る精鋭ボス攻略を解説します！ルガ・エアルダのパリィは簡単です！【MHO/モンスターハンターアウトランダーズ】",
+    "channelId": "UCiiU4x6MeR5fRnzYBpA0WqQ",
+    "channelTitle": "肩パット ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/W6DJb1t3tTQ/hqdefault.jpg"
+  },
+  {
+    "id": "hloVKLRXZe4",
+    "title": "衝撃！ダイヤ大量ゲット秘密のコードと勝利数が簡単に稼げる方法見つけた！！1931-6763-0020【+1スピードキーボード】【フォートナイト】",
+    "channelId": "UCdWZWX_-sFoyGFwe2cB-y4w",
+    "channelTitle": "メタメタのぶくんのゲーム実況 ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/hloVKLRXZe4/hqdefault.jpg"
+  },
+  {
+    "id": "OgqTJl85JWo",
+    "title": "完全新作モンスター収集RPGの中毒性がヤバい！【アニモ/Aniimo】",
+    "channelId": "UCv_3aOw_nt-siMoNBgNIWwA",
+    "channelTitle": "ジロ-ゲーム紹介.レビューch",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OgqTJl85JWo/hqdefault.jpg"
+  },
+  {
+    "id": "wATFBlgSv1M",
+    "title": "世界4位監修のマイバチが俺の太鼓の達人史に革命を起こした。",
+    "channelId": "UCkPgiuwBOaGWxxJyw3_BzTA",
+    "channelTitle": "けばぶの動画倉庫",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wATFBlgSv1M/hqdefault.jpg"
+  },
+  {
+    "id": "BYmi5snWMXg",
+    "title": "外でリアルマリオカートやってみた",
+    "channelId": "UCdnEjx9Y8lDyF3RvaiKiP1g",
+    "channelTitle": "SHINGO(しんご)",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BYmi5snWMXg/hqdefault.jpg"
+  },
+  {
+    "id": "-VsNgRuHw9Q",
+    "title": "【メガニケ】新配布も❗️今回の周年、マジでヤバいです。【NIKKE】",
+    "channelId": "UCoENRP4pzH1dVAVpjrivs-A",
+    "channelTitle": "まるマカ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-VsNgRuHw9Q/hqdefault.jpg"
+  },
+  {
+    "id": "8q-GZNPDI7Y",
+    "title": "UE5でTES風オープンワールドを自作【TripoAI 3D】Fable 5.2とGPT-6 Astraで強力なワークフローを組む",
+    "channelId": "UCw5Q-2KxgUe1abTd0_qv-wQ",
+    "channelTitle": "GKCH げーきち",
+    "thumbnailUrl": "https://i.ytimg.com/vi/8q-GZNPDI7Y/hqdefault.jpg"
+  },
+  {
+    "id": "q-18ps4EMn4",
+    "title": "ほのぼの大樹育成の世界に複利が登場してしまいゴールドが10の50乗(100極)集まってしまうゲーム【ピブルたちの新世界(Pibcremental)/ずんだもん/春日部つむぎ実況】",
+    "channelId": "UC0_ddviJmfisHD328CAKmTg",
+    "channelTitle": "ずんラボ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/q-18ps4EMn4/hqdefault.jpg"
+  },
+  {
+    "id": "syWIXxRFZDA",
+    "title": "【絵装完全攻略】各キャラのおすすめ絵装と厳選方法を徹底解説！主要効果・セット効果・筆入れパラメータまで紹介！【モンハンアウトランダーズ/MHOutlanders】",
+    "channelId": "UC4B0XJGmG-0sHelcBoIyM5w",
+    "channelTitle": "さらだ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/syWIXxRFZDA/hqdefault.jpg"
+  },
+  {
+    "id": "_U9d3Lu77CY",
+    "title": "【PS5版シティーズ：スカイライン】新機能マップエディターでオリジナルの日本列島マップを作る #8",
+    "channelId": "UCK4Qmame5gMUjJdlQYVK5dg",
+    "channelTitle": "コーマ",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_U9d3Lu77CY/hqdefault.jpg"
+  },
+  {
+    "id": "LR-UOrQSeJk",
+    "title": "【ルーンスケープ：ドラゴンワイルズ】初心者向け完全攻略！最初の3時間でやるべきこと【RuneScape: Dragon Wilds 攻略#1】",
+    "channelId": "UCigF_H0bjIxRKtohIOrEALg",
+    "channelTitle": "ラビウィリアム -Rabi William-",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LR-UOrQSeJk/hqdefault.jpg"
+  },
+  {
+    "id": "XpsU6wWTrTk",
+    "title": "【発狂】そのワザはダメだろ…！！新弾の『タテトプス』のワザがマジで凶悪すぎる件（vsNのゾロアークex）【ポケカ/ポケモンカード】【対戦】",
+    "channelId": "UC-aQcB5xf2u80Wfbz9EPuBg",
+    "channelTitle": "あそビバ！ちゃんねる！",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XpsU6wWTrTk/hqdefault.jpg"
+  },
+  {
+    "id": "S3gJQGHWEUs",
+    "title": "【クリアレビュー】『アサシン クリード ブラック フラッグ RE:シンクロ』シリーズ最高傑作はどう生まれ変わるのか？【PS5 / XBOX / PC】",
+    "channelId": "UCypA9d0mrCoXJmoEDYXrZLw",
+    "channelTitle": "いちごうのゲームビート",
+    "thumbnailUrl": "https://i.ytimg.com/vi/S3gJQGHWEUs/hqdefault.jpg"
+  },
+  {
     "id": "V2Y-GdytBI8",
     "title": "【100問連続正解で帰宅】地獄企画が超絶進化して復活!?",
     "channelId": "UC8gcCUKLePdGKLnjhDFoUhQ",
@@ -455,6 +511,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/HRfP_2XvZSs/hqdefault.jpg"
   },
   {
+    "id": "UBlMhy3tyUM",
+    "title": "※ネタバレ注意【世界最速先行生配信】兄者の「ACE COMBAT 8: WINGS OF THEVE」【2BRO.】",
+    "channelId": "UC2GuoutVyegg6PUK88lLpjw",
+    "channelTitle": "兄者弟者",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UBlMhy3tyUM/hqdefault.jpg"
+  },
+  {
     "id": "x4ve5VzzEwI",
     "title": "【櫻旅】小田倉麗奈・山川宇衣と、鉄道で旅しよう。【長野編】",
     "channelId": "UCDNDlqJRz4FsO_ByfUNOSuQ",
@@ -476,25 +539,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/QTYSoPrWJj4/hqdefault.jpg"
   },
   {
-    "id": "uf49EB_S4rc",
-    "title": "見つかるな！危険な場所からお宝を盗め！【 超自然スクワッド 】",
-    "channelId": "UCX2fYWaYhi7J1yMaK0M8Amw",
-    "channelTitle": "ちろぴの",
-    "thumbnailUrl": "https://i.ytimg.com/vi/uf49EB_S4rc/hqdefault.jpg"
-  },
-  {
     "id": "7bIe0Z8TOrE",
     "title": "実の母を食う息子たち…90年代にサイコパスクリエイターによって開発された発禁続出の狂気のゲームが鬱すぎた…【ホラゲー】【Harvester】",
     "channelId": "UC54D3HEGG8xqnr0r2iMYZyw",
     "channelTitle": "良作鬱ゲーサークル【ゆっくり解説】",
     "thumbnailUrl": "https://i.ytimg.com/vi/7bIe0Z8TOrE/hqdefault.jpg"
-  },
-  {
-    "id": "putBcu1uu9Q",
-    "title": "【Call of Duty: Modern Warfare 4】CoD最新作でマルチ&DMZプレイ！！【弟者】",
-    "channelId": "UC2GuoutVyegg6PUK88lLpjw",
-    "channelTitle": "兄者弟者",
-    "thumbnailUrl": "https://i.ytimg.com/vi/putBcu1uu9Q/hqdefault.jpg"
   },
   {
     "id": "LBD4USc8kU4",
@@ -518,11 +567,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/ScBZvSjcbTE/hqdefault.jpg"
   },
   {
-    "id": "90XfKq52wKk",
-    "title": "いよいよ最後のコラボ！準備万端！！4v4 最終決戦スタート【めっちゃカメレオン】",
-    "channelId": "UCvmTVIw2ZCJg49XHR0OoSAg",
-    "channelTitle": "放課後 GAMING LIFE",
-    "thumbnailUrl": "https://i.ytimg.com/vi/90XfKq52wKk/hqdefault.jpg"
+    "id": "Hc8VSV5o-00",
+    "title": "「１２日目」オートで簡単攻略！源１３～１４ 境界戦線【鈴蘭の剣 / Sword of Convallaria】",
+    "channelId": "UCXTgHz6U-2u2y2d4WfD0N4w",
+    "channelTitle": "shao",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Hc8VSV5o-00/hqdefault.jpg"
   },
   {
     "id": "rnxGhNOBqfg",
@@ -532,6 +581,13 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/rnxGhNOBqfg/hqdefault.jpg"
   },
   {
+    "id": "BpY8gHxZ77c",
+    "title": "電車でＧＯ！！ はしろう山手線上野東京ライン湘南新宿ライン宇都宮栗橋駅",
+    "channelId": "UCIQwAMxMjXSlNy8d3C3yPeg",
+    "channelTitle": "Yuki先生鉄部長駅長運転士栗橋祭り",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BpY8gHxZ77c/hqdefault.jpg"
+  },
+  {
     "id": "gdxrr8pWMa0",
     "title": "必殺Lv2で9998万ダメージ！カノープスHell ヴァイオレット編成で51,500pt獲得する方法！象日下部を持っていない方や必殺Lvが低い方必見！【グラクロ】【騎士団ボス討伐戦/Canopus】",
     "channelId": "UCtjDjgR9pTDYyBGbreVtLOA",
@@ -539,11 +595,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/gdxrr8pWMa0/hqdefault.jpg"
   },
   {
-    "id": "BRIM4zn7izs",
-    "title": "【AIでゲーム制作】PixAIで描いた美少女が動いて戦う！2Dアクションゲームを作ってみた",
-    "channelId": "UCw5Q-2KxgUe1abTd0_qv-wQ",
-    "channelTitle": "GKCH げーきち",
-    "thumbnailUrl": "https://i.ytimg.com/vi/BRIM4zn7izs/hqdefault.jpg"
+    "id": "XvO_pNMzNYo",
+    "title": "4.1後半キャラガバガバ和訳【リバース:1999】【再燃！流金の海にて】",
+    "channelId": "UC1ekmDe0_QsVwq14YxKxB_g",
+    "channelTitle": "イルカ(ドア)",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XvO_pNMzNYo/hqdefault.jpg"
   },
   {
     "id": "swvzTq6gab0",
@@ -560,18 +616,11 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/H_ZuVTkDn0s/hqdefault.jpg"
   },
   {
-    "id": "H2ebdKaTSqE",
-    "title": "ハードコアのつずきやるところが、、",
-    "channelId": "UCwRr2u3WipzPpRbtMI7VIvA",
-    "channelTitle": "SAの遊び場",
-    "thumbnailUrl": "https://i.ytimg.com/vi/H2ebdKaTSqE/hqdefault.jpg"
-  },
-  {
-    "id": "VL0yz4yhNBM",
-    "title": "【ナナオリ】アクト18 新エリア「コルディンの水源地」地域進捗率100%完全攻略！宝箱・星の破片・隠しクエストの場所まとめ【七つの大罪オリジン】",
-    "channelId": "UCxh6JiQJrR7B7vCWZETe08A",
-    "channelTitle": "MOBgame",
-    "thumbnailUrl": "https://i.ytimg.com/vi/VL0yz4yhNBM/hqdefault.jpg"
+    "id": "FpmGm0IBrjc",
+    "title": "【俺アラ】4日間限定！支援継続対応！限定コード2つ受取方法！ダンジョンの鍵もらえる！次回パートナークリエイタープラスサポーター特典配布日告知！！【俺だけレベルアップな件・ARISE・公認クリエイター】",
+    "channelId": "UCFcYmsvelaU0rxAXo_srFhg",
+    "channelTitle": "OhchiGameS",
+    "thumbnailUrl": "https://i.ytimg.com/vi/FpmGm0IBrjc/hqdefault.jpg"
   },
   {
     "id": "aWJe4hBBq-w",
@@ -593,13 +642,6 @@
     "channelId": "UCOk6xKN1t6GKFhjXOG0gNyQ",
     "channelTitle": "ヨシ-yoshi-のゲーム実況チャンネル",
     "thumbnailUrl": "https://i.ytimg.com/vi/QpiYcSZ0ufs/hqdefault.jpg"
-  },
-  {
-    "id": "EmxoJeudM7Y",
-    "title": "【今からでも遅くない！】やり込んでみてわかった匿名依頼クエストを効率よく進め方の紹介！最優先クエスト、クリア不可クエスト、月曜日は例外【モンハンアウトランダーズ/MHOutlanders】",
-    "channelId": "UC4B0XJGmG-0sHelcBoIyM5w",
-    "channelTitle": "さらだ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/EmxoJeudM7Y/hqdefault.jpg"
   },
   {
     "id": "dF-i6t_Dtko",
@@ -635,13 +677,6 @@
     "channelId": "UCf46U0PUaEPC4jd2Egjev5A",
     "channelTitle": "amoot. ch",
     "thumbnailUrl": "https://i.ytimg.com/vi/aLElCQgYl8E/hqdefault.jpg"
-  },
-  {
-    "id": "Dfnb3dKmpXk",
-    "title": "「１１日目」オートで簡単攻略！源１２ 境界戦線【鈴蘭の剣 / Sword of Convallaria】",
-    "channelId": "UCXTgHz6U-2u2y2d4WfD0N4w",
-    "channelTitle": "shao",
-    "thumbnailUrl": "https://i.ytimg.com/vi/Dfnb3dKmpXk/hqdefault.jpg"
   },
   {
     "id": "DpqvZqp_WUs",
@@ -735,15 +770,8 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/mMEZaa_H1Ao/hqdefault.jpg"
   },
   {
-    "id": "y_jDW9Z4snQ",
-    "title": "【チェイカレ】遂にここまで❗️CBT参加するぞー❗️",
-    "channelId": "UCoENRP4pzH1dVAVpjrivs-A",
-    "channelTitle": "まるマカ",
-    "thumbnailUrl": "https://i.ytimg.com/vi/y_jDW9Z4snQ/hqdefault.jpg"
-  },
-  {
     "id": "YPvIy0O4jhw",
-    "title": "[めたんの物欲教室] 一限目 失敗しないモニターの選び方",
+    "title": "失敗しないモニターの選び方　[めたんの物欲教室] 一限目　モニター　おすすめ",
     "channelId": "UClE0T0Mt8QIP07QUx5ljs3g",
     "channelTitle": "しかのて。",
     "thumbnailUrl": "https://i.ytimg.com/vi/YPvIy0O4jhw/hqdefault.jpg"
@@ -761,5 +789,12 @@
     "channelId": "UCnosv6d1sO0GqIn92XzUAwA",
     "channelTitle": "iZ(いず)",
     "thumbnailUrl": "https://i.ytimg.com/vi/KOPWbBmdy9U/hqdefault.jpg"
+  },
+  {
+    "id": "ISKmpsLQ_FI",
+    "title": "【ラピトリ搭載】設定を攻めても斜めが抜けないだと！？こりゃすげぇ…",
+    "channelId": "UC1Df085HR1VlOvWE9PgvbMA",
+    "channelTitle": "いよすけ / Iyosuke",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ISKmpsLQ_FI/hqdefault.jpg"
   }
 ]
